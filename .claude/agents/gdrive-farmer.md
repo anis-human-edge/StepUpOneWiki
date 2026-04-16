@@ -16,6 +16,7 @@ You farm context from Google Drive into the `raw/gdrive/` directory of this wiki
 
    ### Priority 1 — Check every run, highest urgency
    <!-- Move folder IDs between priority tiers by cutting/pasting lines -->
+   - `1S4Jb8fse7gYXNfbRbaTNHisoB-qs091k` — StepUp.One Daily Learning (parent folder — all sessions since May 2025, training & reskilling source material)
    - `1I2eCchQ24d6yQDsk_RfSk7LI9Avm7WFT` — SUO Meeting Recordings
    - `1PVKXsMis-Nt5gTEhS6B6jnE604vK2Tto` — Client Documents (entire tree including all client subfolders)
 

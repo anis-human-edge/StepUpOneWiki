@@ -27,6 +27,7 @@ LLM-owned. Organized by domain:
 
 ```
 wiki/
+  training-reskilling/        ← #1 priority section — the public-facing knowledge base for the underserved and overlooked
   product-engineering/
   clients-partnerships/
     win-new/
@@ -56,6 +57,8 @@ wiki/
 
 **Entity pages** — one page per client, partner, person, tool, or system. Deep, not shallow — include history, context, linked proposals, meeting notes, open threads, and cross-references to related entities and topics. Subpages are encouraged when an entity has enough detail (e.g., `entities/clients/acme-corp/` with proposal history, contact log, engagement timeline).
 
+**Training & reskilling pages** — the most important page type. These are the wiki's public-facing knowledge base — what every underserved and overlooked person should go to for self-training. Content is synthesized from the StepUp.One Daily Learning sessions (years of accumulated material) and other training sources. Pages should be actionable, clear, and structured for learners. Examples: "Getting Started with Digital Skills", "Interview Preparation", "Resume Building", "Professional Communication". This section is the wiki's reason for being.
+
 **Topic overviews** — synthesized pages that pull across multiple sources. These are the workhorses: "Outbound Strategy", "Win-Back Playbook", "Onboarding Process", "Pricing Model". Updated every time a relevant source is ingested. Link heavily to entity pages and to each other.
 
 ## Operations
@@ -81,6 +84,31 @@ When the user asks a question:
 2. Read those pages, follow cross-references as needed.
 3. Synthesize an answer with citations to specific wiki pages.
 4. If the answer is substantial and reusable — a new playbook, a comparison, an analysis — offer to file it as a new wiki page. Good queries compound into the knowledge base.
+
+### Edit
+
+When the user wants to revise, restructure, or improve wiki content:
+
+1. Read the target page(s).
+2. Make the requested changes — rewrite sections, fix inaccuracies, restructure, merge pages, split pages.
+3. Update `sources` in frontmatter if adding new source material.
+4. Update cross-references in any pages that link to changed content.
+5. Update `wiki/index.md` if titles or summaries changed.
+6. Append an edit entry to `wiki/log.md`.
+
+The wiki is LLM-maintained but user-directed. When Anis says to change something, change it.
+
+### Delete
+
+When the user wants to remove wiki content:
+
+1. Confirm what's being deleted — specific pages, entire subdirectories, or individual sections within a page.
+2. Check for inbound links from other pages. Update or remove those references.
+3. Delete the files.
+4. Remove entries from `wiki/index.md`.
+5. Append a deletion entry to `wiki/log.md` noting what was removed and why.
+
+Deletion is permanent. Raw sources in `raw/` are never deleted — only wiki pages can be removed. If the source material is bad, the raw file stays but the wiki page goes.
 
 ### Lint
 
