@@ -6,6 +6,11 @@ sources:
   - raw/gdrive/2026-04-13-daily-learning-0751.md
   - raw/gdrive/2026-04-13-daily-learning-1250.md
   - raw/gdrive/2026-04-15-daily-learning-0758.md
+  - raw/gdrive/2026-04-09-daily-learning-0754.md
+  - raw/gdrive/2026-04-11-daily-learning-0909.md
+  - raw/gdrive/2026-03-17-daily-learning-0701-transcript.md
+  - raw/gdrive/2026-03-23-daily-learning-0702.md
+  - raw/gdrive/2026-04-04-daily-learning-0904.md
 ---
 
 # Daily Learning Session Operations
