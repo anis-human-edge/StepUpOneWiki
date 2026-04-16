@@ -1,0 +1,7 @@
+[build]
+  base = "site"
+  command = "npx quartz build"
+  publish = "public"
+
+[build.environment]
+  NODE_VERSION = "23"
