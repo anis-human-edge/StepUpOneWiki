@@ -70,8 +70,38 @@ The wiki gets richer with every source added. Cross-references are maintained au
 | [Farah Ibrahim](entities/people/farah-ibrahim.md) | Senior team leader, 5+ years, session backup, win-back lead |
 | [Abdulkadir Mhina](entities/people/abdulkadir-mhina.md) | Active team member, drove the commenting insight, manages fundraising page |
 
+### Product & Engineering
+
+| Page | Description |
+|------|-------------|
+| [Product Portfolio](product-engineering/product-portfolio.md) | Complete product map across all 5 audience segments with pricing and cross-links |
+
 ### Entities — Systems
 
 | Page | Description |
 |------|-------------|
 | [Client Management Platform](entities/systems/client-management-platform.md) | Internal platform for client onboarding, system spin-up, and document generation |
+| [Fundraising Engine](entities/systems/fundraising-engine.md) | Full investor outreach operation for founders: strategy, targeting, AI twin, daily execution ($400/mo) |
+| [GTM Engine](entities/systems/gtm-engine.md) | Client acquisition system: find buyers, build relationships, book meetings ($400/mo) |
+| [Talent Acquisition Engine](entities/systems/talent-acquisition-engine.md) | Candidate sourcing operation replacing agency fees with flat-rate daily outreach ($400/mo) |
+| [Portfolio Diagnostics](entities/systems/portfolio-diagnostics.md) | Silent portfolio health monitoring for investors via external data signals ($5-10K/mo) |
+| [Portfolio Fundraising](entities/systems/portfolio-fundraising.md) | Plan B: parallel fundraising execution across portfolio companies ($400/mo/company) |
+| [Exit Engine](entities/systems/exit-engine.md) | Covert M&A sourcing for stalled portfolio companies ($3-5K/mo + success fee) |
+| [CXO Influence Engine](entities/systems/cxo-influence-engine.md) | Authority-to-influence conversion for executives across 3 dimensions ($1K/mo+) |
+| [Board Seat Sourcing](entities/systems/board-seat-sourcing.md) | Board position targeting for senior executives |
+| [Transition Engine](entities/systems/transition-engine.md) | Career transition engine for executives |
+| [Career Launchpad](entities/systems/career-launchpad.md) | Career launch system for talent entering the workforce |
+| [Operator Certification](entities/systems/operator-certification.md) | Certification program for StepUp.One operators |
+| [Talent Marketplace](entities/systems/talent-marketplace.md) | Marketplace connecting certified operators with client assignments |
+| [AI Pitch Decks](entities/systems/ai-pitch-decks.md) | AI-powered pitch deck creation (Studios) |
+| [AI Landing Pages](entities/systems/ai-landing-pages.md) | AI-powered landing page creation (Studios) |
+| [Execution Engine](entities/systems/execution-engine.md) | Two-layer Foundation + Engine methodology powering all products |
+| [Reskilling Engine](entities/systems/reskilling-engine.md) | Training underserved populations into AI-amplified professionals |
+
+### Entities — Partners
+
+| Page | Description |
+|------|-------------|
+| [Start-Up Advisors](entities/partners/startup-advisors.md) | Partner type: advisors referring founders to StepUp.One engines |
+| [CEO Coaches](entities/partners/ceo-coaches.md) | Partner type: coaches referring executives to influence/transition engines |
+| [Deal Advisors](entities/partners/deal-advisors.md) | Partner type: M&A advisors partnering on exit engine deals |
