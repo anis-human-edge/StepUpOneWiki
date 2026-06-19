@@ -55,6 +55,7 @@ The outbound system is a sequential pipeline of nine steps. The first six are ex
 - This is the most nuanced step -- it requires reading between the lines.
 - Inputs: everything from Steps 1-2 + both documents.
 - Output: CNT document.
+- See [Lake Strategy & CNT Framework](lake-strategy.md) for the full CNT principle, including the "vegetable market" metaphor and accelerator social media engagement strategy that elevates CNT from a document step into the company's core competitive insight.
 
 **Step 4: Know Your Client's Target Audience (KYCTA)**
 - Who is the client's ICP? Universal list of all ICPs, categorized into segments, prioritized with reasoning.
