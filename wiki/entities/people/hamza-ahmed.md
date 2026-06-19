@@ -26,7 +26,15 @@ Team member at StepUp.One focused on CRM dashboards and opportunity tracking.
 
 Hamza's manual data entry into Excel became a key teaching moment about sustainable leadership: building systems that auto-update rather than manually maintaining external dashboards that will inevitably be abandoned.
 
+## CNT Assignment (June 2026)
+
+Hamza Ahmed and a colleague named Gun were assigned by Mohamed Anis to develop the CNT (Context, Need, Timing) strategy for **fractional Chief Experience Officers (CXOs)**. The task is to identify the "vegetable market" for fractional CXOs — what space do they enter when actively seeking new engagements? This is considered a high-value ICP because fractional CXOs are highly receptive to StepUp.One's services.
+
+He is also responsible for following up with Derek (pending meeting setup as of June 2026).
+
 ## Related Pages
 
 - [Client Management Platform](../systems/client-management-platform.md)
 - [Follow-up Messaging](../../clients-partnerships/win-new/outbound/follow-up-messaging.md)
+- [Lake Strategy & CNT Framework](../../clients-partnerships/win-new/outbound/lake-strategy.md)
+- [Ahmed Farhan](ahmed-farhan.md)
