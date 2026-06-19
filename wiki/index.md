@@ -70,6 +70,9 @@ The wiki gets richer with every source added. Cross-references are maintained au
 | [Rivelino Rigters](entities/people/rivelino-rigters.md) | Amsterdam-based community leader working with post-release youth and refugees |
 | [Farah Ibrahim](entities/people/farah-ibrahim.md) | Senior team leader, 5+ years, session backup, win-back lead |
 | [Abdulkadir Mhina](entities/people/abdulkadir-mhina.md) | Active team member, drove the commenting insight, manages fundraising page |
+| [Ahmed Farhan](entities/people/ahmed-farhan.md) | Team leader, day-to-day outbound operations, CRM, client strategy coaching |
+| [Hamza Ahmed](entities/people/hamza-ahmed.md) | Team member, CRM dashboards, Google for Startups lake, fractional CXO CNT assignment |
+| [Patience Ciza](entities/people/patience-ciza.md) | Team member, Techstars lake owner, founder outreach |
 
 ### Product & Engineering
 
