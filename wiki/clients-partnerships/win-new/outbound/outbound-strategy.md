@@ -106,4 +106,5 @@ The "Step Up One Outbound" document is referred to as a "bible" -- the definitiv
 - [Inbound Strategy](../inbound/inbound-strategy.md) -- the parallel content-based strategy
 - [Authority in Sales](authority-in-sales.md) -- the attitude required for successful outbound
 - [Follow-up Messaging](follow-up-messaging.md) -- specific tactics for re-engaging silent prospects
+- [Lake Strategy & CNT Framework](lake-strategy.md) -- accelerator-based prospecting and the CNT principle
 - [Teaching Methodology](../../../training-reskilling/teaching-methodology.md) -- how the team learns the outbound system
