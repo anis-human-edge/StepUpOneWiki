@@ -102,6 +102,12 @@ The wiki gets richer with every source added. Cross-references are maintained au
 | [Execution Engine](entities/systems/execution-engine.md) | Two-layer Foundation + Engine methodology powering all products |
 | [Reskilling Engine](entities/systems/reskilling-engine.md) | Training underserved populations into AI-amplified professionals |
 
+### Entities — Clients
+
+| Page | Description |
+|------|-------------|
+| [Alexander Demianov](entities/clients/alexander-demianov.md) | New client win (June 2026), signed via concise one-sentence outreach |
+
 ### Entities — Partners
 
 | Page | Description |
