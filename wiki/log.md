@@ -72,6 +72,34 @@ Product & Engineering (1):
 
 ---
 
+## [2026-06-19] ingest | Daily Learning session — June 18, 2026 (08:01 BST) — CNT framework, accelerator lake strategy, Alexander Demianov win
+
+**Source ingested:**
+- `raw/gdrive/2026-06-18-stepup-one-daily-learning-0801-bst-notes-by-gemini-16oe8tIga3SW.md` — farmed by gdrive-farmer
+
+**Key content:**
+- **CNT Framework elevated to core principle**: Context, Need, Timing — the formula behind StepUp.One's outbound wins. Explained with the "vegetable market" metaphor (right context + right need + right moment = the prospect thanks you)
+- **Accelerator social media strategy**: Monitor trending accelerator posts (Techstars, Mass Challenge, Antler, etc.), reply to founder comments, then connect and message. Effective because CNT is inherently aligned — any comment on an accelerator post signals context, need, and timing simultaneously
+- **Hungry fish ICP model**: Not all large lakes are good — Y Combinator alumni are "well-fed" and unresponsive. Need a lake where fish are hungry (actively seeking what you offer) and surfacing (commenting, posting right now)
+- **Cross-pollination prevention**: One team member per lake — if two people work the same lake, the same prospect gets double-contacted
+- **New client win**: Alexander Demianov, signed by Shermug (top-performing team member). Won via a single concise message; previous contact had said "I'll be back" and returned
+- **Fractional CXO CNT assignment**: Hamza Ahmed and Gun tasked with identifying the CNT strategy for fractional Chief Experience Officers
+- **Solopreneur strategy**: For clients who don't want to scale — reframe service as "remove hiding load, protect your time" not growth
+- **Learning philosophy reaffirmed**: Let inexperienced members keep and potentially lose clients — losing is necessary for growth; income without learning is a waste
+
+**Pages updated (3):**
+- `wiki/clients-partnerships/win-new/outbound/lake-strategy.md` — Renamed to "Lake Strategy & CNT Framework," major expansion with CNT principle, hungry fish model, vegetable market metaphor, social media engagement strategy, updated lake assignments
+- `wiki/clients-partnerships/win-new/outbound/outbound-strategy.md` — Added CNT framework reference in Step 3 and new Related Pages link
+- `wiki/entities/people/hamza-ahmed.md` — Added fractional CXO CNT assignment section
+
+**Pages created (4):**
+- `wiki/entities/people/ahmed-farhan.md` — Team leader entity page: day-to-day outbound ops, CRM management, solopreneur strategy
+- `wiki/entities/people/patience-ciza.md` — Team member entity page: Techstars lake owner
+- `wiki/entities/clients/alexander-demianov.md` — New client entity page
+- `wiki/index.md` / `wiki/log.md` — Updated
+
+---
+
 ## [2026-04-16] ingest | Initial ingest of 5 Daily Learning session transcripts (Apr 13-15, 2026)
 
 **Sources ingested:**
