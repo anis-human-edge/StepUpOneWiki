@@ -41,6 +41,7 @@ The wiki gets richer with every source added. Cross-references are maintained au
 | [Outbound Strategy](clients-partnerships/win-new/outbound/outbound-strategy.md) | Full outbound system: 4 motions, 9-step pipeline, KYC framework, AI integration, metrics |
 | [Authority in Sales](clients-partnerships/win-new/outbound/authority-in-sales.md) | The confidence principle: never beg, project authority, use small responses |
 | [Follow-up Messaging](clients-partnerships/win-new/outbound/follow-up-messaging.md) | When and how to follow up: one-line messages, tone, education-to-convince pipeline |
+| [Lake Strategy & CNT Framework](clients-partnerships/win-new/outbound/lake-strategy.md) | Accelerator lakes, hungry fish ICP model, CNT principle, social media engagement strategy |
 
 ### Clients & Partnerships — Win New > Inbound
 
