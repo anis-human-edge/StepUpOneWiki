@@ -88,6 +88,14 @@ Each team member is assigned to specific lakes and owns them exclusively. Two te
 
 Hamza Ahmed and Gun are tasked with identifying the CNT and "vegetable market" for fractional Chief Experience Officers — where are they when they are actively seeking new engagements? This is a new ICP the team believes is highly receptive.
 
+### Solopreneur Lake (Jun 2026)
+
+A distinct ICP assigned to specific team members. The angle for solopreneurs differs from founders: the service reduces their administrative overhead rather than helping them scale headcount. CNT framing must reflect this — solopreneurs are time-constrained operators, not growth-stage startup founders.
+
+### Accelerator Lake Formalization (Jun 17, 2026)
+
+Data validation in the Jun 17 session confirmed accelerators are the highest-converting acquisition channel. Ahmed Farhan was tasked with formalizing the process: search for leads in each accelerator's community, capture them in CRM, assign personal names to each lead, and link to the correct lake. Team members were assigned individual accelerator lakes to prevent cross-pollination (see table above).
+
 ## Lake Quality Ranking
 
 1. **Techstars, Mass Challenge, Seed Camp, Antler, Peak** — active comment communities, founders are actively fundraising. High hunger.
