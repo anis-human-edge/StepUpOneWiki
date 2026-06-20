@@ -30,6 +30,18 @@ Sessions run at multiple times throughout the day to accommodate different time 
 
 When Mohamed Anis is unavailable (e.g., London client meeting on Apr 15), senior team members like [Farah Ibrahim](../entities/people/farah-ibrahim.md) lead the session.
 
+## Recurring Attendees (Jun 2026)
+
+Additional team members active in Jun 2026 sessions (may overlap with Apr roster):
+
+- **Alliance** — team member, assigned solopreneur ICP strategy
+- **Sara** — team member, assigned solopreneur ICP strategy
+- **Gun** — team member, co-developing fractional CXO CNT strategy with Hamza Ahmed
+- **Abdullahi Mohamed** — team member, handles prospect communications (e.g., Louis follow-up, Jun 19)
+- **Mohamed Rafique** — team member, manages LinkedIn premium upgrades for clients; logs into client accounts via fresh Chrome sessions
+- **Kadafi Rwango** — team member, troubleshoots account/login issues
+- **Samson Bertrand** — team member, troubleshoots account/login issues
+
 ## Recurring Attendees (Apr 13-15, 2026)
 
 - [Mohamed Anis](../entities/people/mohamed-anis.md) -- session leader
