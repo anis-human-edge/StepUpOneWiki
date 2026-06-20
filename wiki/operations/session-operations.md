@@ -117,6 +117,32 @@ Mohamed Anis established a layered teaching approach for developing graduates:
 
 The team is working toward completing 4 required [Anthropic certification](../training-reskilling/anthropic-certification.md) exams to enable a partnership. 10 people must be certified.
 
+## Leadership Absence Continuity (Jun 2026)
+
+Mohamed Anis will be absent for approximately 15 days starting late June 2026. Key continuity principles established:
+
+- Current strong conversion rates prove the team can operate independently
+- All current leads in pipeline must continue to be worked
+- Ahmed Farhan is responsible for day-to-day operations and calendar oversight
+- No new strategic pivots during the absence — execute the existing playbook
+
+## LinkedIn Premium Upgrade Protocol (Jun 2026)
+
+Some clients require LinkedIn premium account upgrades managed by the team. Process:
+
+- Contact the client to obtain approval credentials
+- Log into each client's LinkedIn account using a fresh Chrome browser instance (new session per account)
+- Complete the premium subscription upgrade individually for each client
+- Handled by Mohamed Rafique
+
+## Engagement Safety Protocol (Jun 2026)
+
+Traffic-driving tools (engagement automation) are capped at **5 instances** per session to prevent LinkedIn account flags. A tracking sheet monitors optimal posting times — the goal is to identify when followed influencers post, not to post at random times.
+
+- Fewer trending posts get more focused engagement than many stale posts
+- No repetitive comments on the same accounts — rotate to maintain authenticity
+- The monitored list expands over time; accounts are categorized by topic (fundraising, technology, etc.)
+
 ## Related Pages
 
 - [Teaching Methodology](../training-reskilling/teaching-methodology.md)
