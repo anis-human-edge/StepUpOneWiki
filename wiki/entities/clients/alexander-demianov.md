@@ -30,6 +30,14 @@ This win became a teaching example in the Daily Learning session:
 - Prospects who said "I'll come back" can be re-engaged without pressure
 - The win happened very recently (within days), demonstrating that the CNT principle works on fast timelines, not just after prolonged nurturing
 
+## Meeting — 18 Jun 2026
+
+Anis held a recorded 1:1 meeting with Alexander Demianov on June 18, 2026. The recording was uploaded to Google Drive:
+
+- [Meeting recording (Drive)](https://drive.google.com/file/d/1IH9BQFxIfvoE7jYKd_tdtgYQcc62xW78/view?usp=drive_web)
+
+Meeting notes are not yet available — content to be ingested when the Drive recording or transcript is farmed.
+
 ## Related Pages
 
 - [Outbound Strategy](../../clients-partnerships/win-new/outbound/outbound-strategy.md)
