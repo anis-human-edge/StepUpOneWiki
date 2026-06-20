@@ -1,7 +1,7 @@
 ---
 title: "Daily Learning Session Operations"
 type: topic
-updated: 2026-04-16
+updated: 2026-06-20
 sources:
   - raw/gdrive/2026-04-13-daily-learning-0751.md
   - raw/gdrive/2026-04-13-daily-learning-1250.md
@@ -11,6 +11,9 @@ sources:
   - raw/gdrive/2026-03-17-daily-learning-0701-transcript.md
   - raw/gdrive/2026-03-23-daily-learning-0702.md
   - raw/gdrive/2026-04-04-daily-learning-0904.md
+  - raw/gmail/2026-06-17-notes-stepup-one-daily-learning-17-jun-2026.md
+  - raw/gmail/2026-06-18-notes-stepup-one-daily-learning-18-jun-2026.md
+  - raw/gmail/2026-06-19-notes-stepup-one-daily-learning-19-jun-2026.md
 ---
 
 # Daily Learning Session Operations
