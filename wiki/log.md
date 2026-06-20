@@ -1,11 +1,24 @@
 ---
 title: "Wiki Log"
 type: overview
-updated: 2026-04-16
+updated: 2026-06-20
 sources: []
 ---
 
 # Wiki Log
+
+## [2026-06-20] ingest | Gmail farm — 4 new threads (Jun 17–19 Daily Learning sessions + Alexander Demianov meeting)
+
+**Sources ingested:**
+- `raw/gmail/2026-06-17-notes-stepup-one-daily-learning-17-jun-2026.md` — Two sessions: accelerator hunting formalization, Problem-Solution Fit pivot, LinkedIn engagement safety protocol
+- `raw/gmail/2026-06-18-notes-stepup-one-daily-learning-18-jun-2026.md` — CNT framework for accelerator lead targeting, solopreneur strategy, lake assignments per team member
+- `raw/gmail/2026-06-18-meeting-records-alexander-demianov-stepup-one-founder.md` — Recorded 1:1 between Anis and Alexander Demianov; video uploaded to Drive
+- `raw/gmail/2026-06-19-notes-stepup-one-daily-learning-19-jun-2026.md` — Lead list at 4,726, affordability-challenged prospect (Louis/Vishwa/Tracture), 15-day absence continuity
+
+**Wiki pages updated:**
+- `wiki/entities/clients/alexander-demianov.md` — added Jun 18 meeting record with Drive link
+- `wiki/clients-partnerships/win-new/outbound/lake-strategy.md` — added Problem-Solution Fit pivot, lead list 4,726 milestone, solopreneur lake, affordability response strategy, accelerator formalization
+- `wiki/operations/session-operations.md` — added Jun 2026 team members (Alliance, Sara, Gun, Abdullahi Mohamed, Mohamed Rafique, Kadafi Rwango, Samson Bertrand), absence continuity plan, LinkedIn upgrade protocol, engagement safety protocol
 
 ## [2026-04-16] ingest | Website product pages — 22 raw files from stepup.one scraped pages
 
