@@ -1,9 +1,10 @@
 ---
 title: "Alexander Demianov"
 type: entity
-updated: 2026-06-18
+updated: 2026-06-20
 sources:
   - raw/gdrive/2026-06-18-stepup-one-daily-learning-0801-bst-notes-by-gemini-16oe8tIga3SW.md
+  - raw/gmail/2026-06-18-meeting-records-alexander-demianov-stepup-one-founder.md
 ---
 
 # Alexander Demianov
