@@ -107,6 +107,25 @@ Data validation in the Jun 17 session confirmed accelerators are the highest-con
 
 For lower-quality lakes (e.g., Movement 51), the better play is to connect with the incubator's operators and offer to serve their top 10% of founders directly, rather than hunting individual founders.
 
+## Problem-Solution Fit Pivot (Jun 17, 2026)
+
+The primary service goal shifted from general meeting-scheduling to identifying genuine **Problem-Solution Fit** for startup clients. Validation experiments now precede sales efforts. The implication for lake strategy: the fishing conversation is no longer "let me book you a meeting" but "let me help you validate whether your solution matches your market before you spend on GTM."
+
+## Lead List Scale (as of Jun 19, 2026)
+
+The team reduced the target list to **4,726 active entries** — down from a larger, less-filtered pool — while maintaining high engagement rates. Once the initial 4,000 entries are processed, operations will shift to deeper LinkedIn research per prospect. This demonstrates the deliberate quality-over-quantity shift in lake targeting.
+
+## Affordability-Challenged Prospects — Response Strategy (Jun 19, 2026)
+
+When a prospect is introduced (e.g., via a referral partner) but cannot currently afford the service, the disciplined response is:
+
+1. Acknowledge the introduction warmly
+2. Be direct about the affordability gap — do not chase
+3. Share a relevant resource (e.g., the founder's fundraising link) to remain helpful
+4. Delay re-engagement to maintain credibility and leverage
+
+This builds the relationship long-term without eroding authority. The specific case: Louis, introduced by Vishwa (of Tracture), was handled this way in Jun 2026.
+
 ## Metrics
 
 Key question per lake: how many fish are inside, how many are actively trying to enter, and are they commenting/posting this week? This determines which messaging angle to use and whether the lake is currently active.
