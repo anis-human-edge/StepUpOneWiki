@@ -1,12 +1,15 @@
 ---
 title: "Lake Strategy & CNT Framework"
 type: topic
-updated: 2026-06-18
+updated: 2026-06-20
 sources:
   - raw/gdrive/2026-03-24-daily-learning-0700.md
   - raw/gdrive/2026-03-25-daily-learning-0706.md
   - raw/gdrive/2026-04-04-daily-learning-0904.md
   - raw/gdrive/2026-06-18-stepup-one-daily-learning-0801-bst-notes-by-gemini-16oe8tIga3SW.md
+  - raw/gmail/2026-06-17-notes-stepup-one-daily-learning-17-jun-2026.md
+  - raw/gmail/2026-06-18-notes-stepup-one-daily-learning-18-jun-2026.md
+  - raw/gmail/2026-06-19-notes-stepup-one-daily-learning-19-jun-2026.md
 ---
 
 # Lake Strategy & CNT Framework
