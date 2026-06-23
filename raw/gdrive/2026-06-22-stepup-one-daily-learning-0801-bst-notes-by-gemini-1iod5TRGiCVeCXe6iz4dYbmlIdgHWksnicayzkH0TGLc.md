@@ -8,8 +8,7 @@ folder: SUO Meeting Recordings
 modified: 2026-06-22T11:20:01.970Z
 owner: anis@human-edge.io
 ---
-
-# ð Notes  
+# 📝 Notes  
 
  Jun 22, 2026
 
@@ -99,7 +98,7 @@ Let us know what you think: [Helpful](https://google.qualtrics.com/jfe/form/SV_5
 *How is the quality of* ***these specific notes?*** [*Take a short survey*](https://google.qualtrics.com/jfe/form/SV_9vK3UZEaIQKKE7A?confid=MjITCk_HBPBLHy9X-NLzDxIVOBABMgUIigIgABgDCA&detailid=standard&screenshot=false) *to let us know your feedback, including how helpful the notes were for your needs.**  
 *
 
-# ð Transcript*  
+# 📝 Transcript*  
 *
 
  Jun 22, 2026
@@ -1416,7 +1415,7 @@ Let us know what you think: [Helpful](https://google.qualtrics.com/jfe/form/SV_5
 
   
 
-**AHMED FARHAN:** I'm in the group of Marson by the way. Uh and I see what's happening also there. I mean what I what I noticed like there's no like I mean weekly report I mean sharing you see like sharing the weekly report every week that will create like enominous I mean trust in in your client like you'll know oh these guys they are now I mean giving me even if the client is quiet like keep sharing keep asking like I have one client now he's very quiet but I have never stopped talking to him I have never stopped sharing my weekly report. I have never spoke I mean stopped like calling him on WhatsApp and he's telling me I'm very busy with events. I can't I can't have a call with you right now. So you need like to get like very close to your client like let him feel or let her feel like you care even if he's quiet but you are still showing giving what's going on. If a client talk back one uh one thing that I have and I do is if a client talks back in the account of my client I will immediately go and generate I mean suggested respond and share in the group to get the perspective of the client I don't know if the rest of the people are doing even if I have a standard message I will generate a message that respond to this question and share to the client and get the perspective of the client hi I
+**AHMED FARHAN:** I'm in the group of Marson by the way. Uh and I see what's happening also there. I mean what I what I noticed like there's no like I mean weekly report I mean sharing you see like sharing the weekly report every week that will create like enominous I mean trust in in your client like you'll know oh these guys they are now I mean giving me even if the client is quiet like keep sharing keep asking like I have one client now he's very quiet but I have never stopped talking to him I have never stopped sharing my weekly report. I have never spoke I mean stopped like calling him on WhatsApp and he's telling me I'm very busy with events. I can't I can't have a call with you right now. So you need like to get like very close to your client like let him feel or let her feel like you care even if he's quiet but you are still showing giving what's going on. If a client talks back in the account of my client I will immediately go and generate I mean suggested respond and share in the group to get the perspective of the client I don't know if the rest of the people are doing even if I have a standard message I will generate a message that respond to this question and share to the client and get the perspective of the client hi I
 
   
   
@@ -1542,4 +1541,4 @@ Let us know what you think: [Helpful](https://google.qualtrics.com/jfe/form/SV_5
 
   
 
-*This editable transcript was computer generated and might contain errors. People can also change the text after it was cre
+*This editable transcript was computer generated and might contain errors. People can also change the text after it was cre*
