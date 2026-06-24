@@ -7,6 +7,17 @@ sources: []
 
 # Wiki Log
 
+## [2026-06-24] ingest | Gmail farm — 1 new thread (Jun 23 Daily Learning session)
+
+**Sources ingested:**
+- `raw/gmail/2026-06-23-notes-stepup-one-daily-learning-23-jun-2026.md` — Connection messaging strategy (curiosity-driven outreach), business relationship stage framework (transactional/trusted/outcome-based), lead qualification funnel for website, action items for Anis (meeting funnel), Farah (Australia/Richard), Shinga (Google Docs)
+
+**Wiki pages updated:**
+- `wiki/clients-partnerships/win-new/outbound/follow-up-messaging.md` — added Connection Messaging section (curiosity-first), Relationship Stage Framework table (transactional/trusted/outcome-based), follow-up-after-delivery rule
+- `wiki/clients-partnerships/win-new/inbound/inbound-strategy.md` — added Lead Qualification Funnel section for website booking flow
+- `wiki/entities/people/farah-ibrahim.md` — added open action item: Australia accounts / Richard feedback
+- `wiki/entities/people/mohamed-anis.md` — added open action item: build meeting qualification funnel
+
 ## [2026-06-20] ingest | Gmail farm — 4 new threads (Jun 17–19 Daily Learning sessions + Alexander Demianov meeting)
 
 **Sources ingested:**
