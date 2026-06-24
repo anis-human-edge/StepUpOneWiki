@@ -7,6 +7,19 @@ sources: []
 
 # Wiki Log
 
+## [2026-06-24] ingest | GDrive farm — 1 new file (Jun 23 Daily Learning full Gemini notes + transcript)
+
+**Source ingested:**
+- `raw/gdrive/2026-06-23-stepup-one-daily-learning-0757-bst-notes-by-gemini-1ZCCXh3.md` — Full Gemini notes and meeting transcript (07:57 BST session, Jun 23 2026). Topics: connection message strategy, 5-stage client emotional journey, relationship hierarchy (transactional/trusted/outcome), power dynamics in trust-building, Ryan Sullivan PhD on turning relationships into outcomes, website lead qualification funnel, Australia accounts strategy for Richard.
+
+**Wiki pages created:**
+- `wiki/training-reskilling/client-relationship-framework.md` — Full training page: 5-stage client emotional journey (doubt→harmless→curiosity→education→response spectrum), relationship hierarchy with definitions, power dynamics, $2M→$200M case study, sales assembly line application
+- `wiki/entities/people/ryan-sullivan.md` — Former team member; PhD on turning relationships into outcomes; book author
+
+**Wiki pages updated:**
+- `wiki/clients-partnerships/win-new/outbound/follow-up-messaging.md` — Added Five-Stage Client Emotional Journey section with response spectrum and happy-path trap warning
+- `wiki/index.md` — Added entries for both new pages
+
 ## [2026-06-24] ingest | Gmail farm — 1 new thread (Jun 23 Daily Learning session)
 
 **Sources ingested:**
