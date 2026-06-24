@@ -77,6 +77,17 @@ The inbound funnel:
 
 The bottom half of the funnel (meetings to wins) is identical to outbound. The top half (impressions to leads) is unique to inbound.
 
+## Lead Qualification Funnel (Website)
+
+A qualification screening step is being added to the website meeting booking flow. The problem: unqualified visitors can book a meeting directly, consuming time that should go to high-potential leads.
+
+The fix: capture the reason for the meeting before confirming the booking. Prospects must answer a short qualification question. This:
+- Filters out non-qualified leads before they get calendar access
+- Provides context for the meeting so the team arrives prepared
+- Improves conversion at the meeting-to-win stage by ensuring only good-fit leads advance
+
+**Owner:** Mohamed Anis (building the funnel — see [Mohamed Anis](../../../entities/people/mohamed-anis.md)). This connects the top of the inbound funnel (impressions → leads) to the middle (leads → meetings) with a qualification gate.
+
 ## PRD Development
 
 The inbound strategy is being translated into a Product Requirements Document (PRD) for the inbound system, following the same pattern used for the outbound PRD. Each strategy will have its own section with:
