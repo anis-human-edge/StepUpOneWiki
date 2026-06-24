@@ -34,6 +34,10 @@ Farah Ibrahim is described by Mohamed Anis as fearless in his communication -- w
 
 Farah also pushes for practical application over theory: "We built thousands of systems in front of us. Our notion has enough for a master's thesis. But we're not linking it to our work."
 
+## Open Action Items (as of 2026-06-23)
+
+- **Australia accounts / Richard:** Deliver feedback on the direct meeting strategy and the 6-to-10 message outreach sequence for the Australia accounts. (Assigned 23 Jun 2026 Daily Learning session.)
+
 ## Related Pages
 
 - [Outbound Strategy](../../clients-partnerships/win-new/outbound/outbound-strategy.md) -- the system Farah reviews and teaches
