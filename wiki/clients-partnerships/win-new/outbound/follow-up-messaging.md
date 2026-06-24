@@ -53,6 +53,29 @@ In practice:
 - Reserve the pitch for after the prospect has engaged at least once.
 - Forcing a transaction before trust is established shrinks the funnel — the prospect exits rather than replies.
 
+## The Five-Stage Client Emotional Journey
+
+Every prospect moves through a predictable emotional sequence when they receive outreach. Knowing which stage they are in determines what to say and when.
+
+| Stage | Prospect's Internal State | Behavior | Goal |
+|-------|--------------------------|----------|------|
+| **1. Doubt** | "What does this person want from me?" | Does not connect or respond | Eliminate doubt with curiosity-triggering language |
+| **2. Harmless / Neutral** | "You seem harmless, but I'm not sure yet" | Connects silently — no reply | Keep the channel open; wait or add value |
+| **3. Curiosity** | "Is there something in it for me?" | Asks to see more; engages | Share the product/website |
+| **4. Education** | Evaluating what you shared | Reads, watches, explores | Let the product do the work; stand by |
+| **5. Response** | Reaction lands on a spectrum | See below | Match your next message to their response type |
+
+**Stage 5 response spectrum:**
+
+- **Disappointed** — product did not meet expectation. Diagnose the gap; do not chase.
+- **So What** — the most common response. Unimpressed. Requires follow-up reframing or additional proof.
+- **Interested** — wants to explore. Send case studies, book a call.
+- **Excited** — ready to move. Book the meeting immediately.
+
+The "happy path" trap: most teams only pursue the Excited segment. The Disappointed, So What, and Interested segments make up the majority of the pipeline — ignoring them means working only on the easiest 10%.
+
+See also: [Client Relationship Framework](../../../training-reskilling/client-relationship-framework.md) for the full psychology-driven approach.
+
 ## Business Relationship Stage Framework
 
 All client relationships move through three stages. Where a relationship sits determines how to communicate and what to offer:
