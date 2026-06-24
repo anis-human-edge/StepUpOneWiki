@@ -33,6 +33,7 @@ The wiki gets richer with every source added. Cross-references are maintained au
 |------|-------------|
 | [AI Curriculum Overview](training-reskilling/ai-curriculum-overview.md) | Progressive AI skills ladder for the underserved: from website creation to application building |
 | [Teaching Methodology](training-reskilling/teaching-methodology.md) | How Daily Learning sessions work: no repetition, live demos, attitude training, role structure |
+| [Client Relationship Framework](training-reskilling/client-relationship-framework.md) | 5-stage client emotional journey, relationship hierarchy (transactional → trusted → outcome), converting relationships into outcomes |
 
 ### Clients & Partnerships — Win New > Outbound
 
