@@ -41,6 +41,29 @@ Follow-up messages must project authority, not desperation:
 
 Example from Patience Ciza: a client posted 18 hours ago but hadn't responded to messages. The strategy: comment on the post first, then send the follow-up message. This ensures the team's name appears in two contexts -- as a thoughtful commenter and as a direct message.
 
+## Connection Messaging: Curiosity Over Pitch
+
+Outreach should lead with curiosity, not a sales pitch. Messaging strategies shifted from direct sell attempts to curiosity-driven questions that open the conversation without triggering doubt or resistance in the recipient.
+
+The principle: **prioritize building trust over closing a transaction immediately.** A prospect who trusts you is a larger pipeline than a prospect you pushed to close too fast.
+
+In practice:
+- The initial connect message should be a question or observation, not an offer.
+- Reserve the pitch for after the prospect has engaged at least once.
+- Forcing a transaction before trust is established shrinks the funnel — the prospect exits rather than replies.
+
+## Business Relationship Stage Framework
+
+All client relationships move through three stages. Where a relationship sits determines how to communicate and what to offer:
+
+| Stage | Description | Strategy |
+|-------|-------------|----------|
+| **Transactional** | The client sees you as a vendor. Short-horizon, task-based engagement. Price sensitivity is high. | Deliver on the task, don't oversell. Build credibility through execution. |
+| **Trusted** | The client consults you beyond the immediate task. Relationship has history. Referrals become possible. | Lead with outcomes and strategy, not just execution. Introduce adjacent services. |
+| **Outcome-based** | The client measures success in business results, not deliverables. Long-horizon partnership. | Co-own the goal. Propose proactively. Command premium pricing. |
+
+Understanding which stage applies shapes the tone, timing, and depth of all follow-up messaging. Misreading the stage — pitching outcome-based to a transactional client — loses trust rather than building it.
+
 ## The Education-to-Convince Pipeline
 
 Messages flow through stages:
