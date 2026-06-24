@@ -46,6 +46,10 @@ Mohamed Anis personally builds the [Client Management Platform](../systems/clien
 - Collaborates with [Rivelino Rigters](rivelino-rigters.md) on AI curriculum for post-release youth in the Netherlands
 - Works closely with Farah Ibrahim (team leader), Mahmud Bilow, Patience Ciza, Mohamed sharmuge Mohamed, Abdulkadir Mhina, and the broader team
 
+## Open Action Items (as of 2026-06-23)
+
+- **Meeting funnel:** Build a small funnel to capture the reason for a meeting when a potential lead books a session. Goal: prevent non-qualified leads from booking and improve conversion efficiency. (Assigned 23 Jun 2026 Daily Learning session.)
+
 ## Related Pages
 
 - [Teaching Methodology](../../training-reskilling/teaching-methodology.md)
