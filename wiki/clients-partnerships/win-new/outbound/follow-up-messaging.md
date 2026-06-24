@@ -119,6 +119,7 @@ The AI generates initial drafts, but human refinement is critical:
 
 ## Related Pages
 
-- [Authority in Sales](authority-in-sales.md) -- the attitude behind effective follow-ups
-- [Outbound Strategy](outbound-strategy.md) -- the full outbound system
-- [Inbound Strategy](../inbound/inbound-strategy.md) -- content-based strategy that complements outbound follow-ups
+- [Authority in Sales](authority-in-sales.md) — the attitude behind effective follow-ups
+- [Outbound Strategy](outbound-strategy.md) — the full outbound system
+- [Inbound Strategy](../inbound/inbound-strategy.md) — content-based strategy that complements outbound follow-ups
+- [Client Relationship Framework](../../../training-reskilling/client-relationship-framework.md) — deep training on the 5-stage client journey and relationship hierarchy
