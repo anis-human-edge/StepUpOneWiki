@@ -19,6 +19,7 @@ Follow-up is where most outbound deals are won or lost. StepUp.One's approach co
 - After a price quote with no response: follow up, but do not re-educate or re-convince. Ask a direct question.
 - After a meeting that went well but the client went silent: persistent follow-up with an authoritative tone.
 - After months of silence (e.g., the David client, 6-12 months): still worth following up. "Just keep following up until he says yes or no."
+- **After delivering a completed product:** wait one week, then send a follow-up confirming project completion and requesting feedback. This is a non-negotiable close-the-loop step for all active client engagements.
 
 ## Message Length and Format
 
