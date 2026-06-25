@@ -46,6 +46,14 @@ The platform wraps around the [Research Engine](../../strategy-vision/research-e
 
 StepUp.One itself is treated as a client in the system -- "StepUp is a client," making the system self-referential and dogfooded.
 
+## CRM Business Name Standardization (Jun 2026)
+
+Identified in the 24 Jun 2026 Daily Learning session: inconsistent business identifiers in the CRM are degrading dashboard accuracy. Decision made to standardize by mapping all business name variants into the company name field, enabling robust reporting.
+
+- **Owner:** Ahmed Farhan
+- **Method:** Map inconsistent business name data into the company name field; execute automated updates where possible
+- **Goal:** Accurate account categorization and dashboard reporting
+
 ## Related Pages
 
 - [Research Engine](../../strategy-vision/research-engine.md) -- the intelligence layer the platform wraps
