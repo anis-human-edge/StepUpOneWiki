@@ -7,6 +7,24 @@ sources: []
 
 # Wiki Log
 
+## [2026-06-25] ingest | Gmail farm — 2 new threads (Jun 24 Daily Learning notes + DATABIOMIX inbound pitch)
+
+**Sources ingested:**
+- `raw/gmail/2026-06-24-notes-stepup-one-daily-learning-24-jun-2026.md` — Jun 24 Gemini session notes: professional philosophy shift (abandoning transactional mindset), CRM business name standardization, ABM conversion rates below 20–30% target. Action items for Ahmed Farhan (5), Farah Ibrahim (3), Mahmud Bilow (1).
+- `raw/gmail/2026-06-23-deck-databiomix.md` — Inbound pitch from Marco Meola, CEO & Co-founder of DATABIOMIX (Schlieren-Zurich, Switzerland). Pitch deck attached; awaiting Anis review.
+
+**Wiki pages created (3):**
+- `wiki/entities/people/mahmud-bilow.md` — New team member stub; open action item: send LinkedIn message to client
+- `wiki/entities/partners/databiomix.md` — New partner entity; Swiss company, inbound pitch Jun 2026
+- `wiki/entities/people/marco-meola.md` — CEO & Co-founder of DATABIOMIX; point of contact
+
+**Wiki pages updated (5):**
+- `wiki/entities/people/ahmed-farhan.md` — Added Open Action Items section with 5 tasks from Jun 24 session (fractional growth email, new contact email, CRM business name fix, engagement metric audit, ABM strategy)
+- `wiki/entities/people/farah-ibrahim.md` — Added 3 new open action items from Jun 24 session (ABM strategy, 5 campaign ideas, contact Zulfi and Raj)
+- `wiki/entities/systems/client-management-platform.md` — Added CRM Business Name Standardization section with owner and method
+- `wiki/index.md` — Added entries for 3 new pages; updated date
+- `wiki/log.md` — This entry
+
 ## [2026-06-24] ingest | GDrive farm — 1 new file (Jun 23 Daily Learning full Gemini notes + transcript)
 
 **Source ingested:**
