@@ -7,6 +7,7 @@ sources:
   - raw/gdrive/2026-04-14-daily-learning-0754.md
   - raw/gdrive/2026-04-15-daily-learning-0758.md
   - raw/gmail/2026-06-23-notes-stepup-one-daily-learning-23-jun-2026.md
+  - raw/gmail/2026-06-24-notes-stepup-one-daily-learning-24-jun-2026.md
 ---
 
 # Farah Ibrahim
