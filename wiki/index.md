@@ -75,6 +75,8 @@ The wiki gets richer with every source added. Cross-references are maintained au
 | [Ahmed Farhan](entities/people/ahmed-farhan.md) | Team leader, day-to-day outbound operations, CRM, client strategy coaching |
 | [Hamza Ahmed](entities/people/hamza-ahmed.md) | Team member, CRM dashboards, Google for Startups lake, fractional CXO CNT assignment |
 | [Patience Ciza](entities/people/patience-ciza.md) | Team member, Techstars lake owner, founder outreach |
+| [Mahmud Bilow](entities/people/mahmud-bilow.md) | Team member, outbound messaging and client outreach |
+| [Marco Meola](entities/people/marco-meola.md) | CEO & Co-founder of DATABIOMIX; inbound partner inquiry Jun 2026 |
 
 ### Product & Engineering
 
