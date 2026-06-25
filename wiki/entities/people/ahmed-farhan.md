@@ -1,9 +1,10 @@
 ---
 title: "Ahmed Farhan"
 type: entity
-updated: 2026-06-18
+updated: 2026-06-24
 sources:
   - raw/gdrive/2026-06-18-stepup-one-daily-learning-0801-bst-notes-by-gemini-16oe8tIga3SW.md
+  - raw/gmail/2026-06-24-notes-stepup-one-daily-learning-24-jun-2026.md
 ---
 
 # Ahmed Farhan
