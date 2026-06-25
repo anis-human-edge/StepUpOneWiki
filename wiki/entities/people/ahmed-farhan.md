@@ -40,6 +40,14 @@ Ahmed Farhan is responsible for assigning accelerator lakes to each team member 
 - Alliance team → CNT for other assigned targets
 - Patience Ciza → Techstars lake ownership
 
+## Open Action Items (as of 2026-06-24)
+
+- **Draft fractional growth model email:** Write a professional email explaining the fractional growth model and send to the client. (Assigned 24 Jun 2026.)
+- **Email new meeting contact:** Send email correspondence to the new contact identified at the Jun 24 Daily Learning session. (Assigned 24 Jun 2026.)
+- **Organize CRM — business names:** Resolve inconsistent business name display in the dashboard by mapping the company name field. Execute automated updates if possible. (Assigned 24 Jun 2026.)
+- **Audit engagement metrics:** Verify accuracy of reported engagement metrics; investigate why numbers appear lower than expected and implement improvement strategies. (Assigned 24 Jun 2026.)
+- **Develop ABM strategy (with Farah Ibrahim):** Draft actionable steps for both inbound and outbound ABM. Present to leadership for review. Current conversion rates are below the 20–30% target. (Assigned 24 Jun 2026.)
+
 ## Related Pages
 
 - [Outbound Strategy](../../clients-partnerships/win-new/outbound/outbound-strategy.md)
