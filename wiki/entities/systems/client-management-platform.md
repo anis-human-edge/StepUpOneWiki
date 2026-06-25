@@ -1,11 +1,12 @@
 ---
 title: "Client Management Platform"
 type: entity
-updated: 2026-04-16
+updated: 2026-06-24
 sources:
   - raw/gdrive/2026-04-13-daily-learning-1250.md
   - raw/gdrive/2026-04-14-daily-learning-0754.md
   - raw/gdrive/2026-04-15-daily-learning-0758.md
+  - raw/gmail/2026-06-24-notes-stepup-one-daily-learning-24-jun-2026.md
 ---
 
 # Client Management Platform
