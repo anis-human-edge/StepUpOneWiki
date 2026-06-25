@@ -34,9 +34,12 @@ Farah Ibrahim is described by Mohamed Anis as fearless in his communication -- w
 
 Farah also pushes for practical application over theory: "We built thousands of systems in front of us. Our notion has enough for a master's thesis. But we're not linking it to our work."
 
-## Open Action Items (as of 2026-06-23)
+## Open Action Items (as of 2026-06-24)
 
 - **Australia accounts / Richard:** Deliver feedback on the direct meeting strategy and the 6-to-10 message outreach sequence for the Australia accounts. (Assigned 23 Jun 2026 Daily Learning session.)
+- **ABM strategy (with Ahmed Farhan):** Draft a list of actionable inbound and outbound steps to elevate account-based marketing efforts. Present to leadership for review. (Assigned 24 Jun 2026.)
+- **5 campaign ideas for client:** Compile 5 specific campaign strategy suggestions. Present to Mohamed Anis to facilitate discussion on implementation. (Assigned 24 Jun 2026.)
+- **Contact Zulfi and Raj:** Reach out to offer services and inquire about managing their accounts. (Assigned 24 Jun 2026.)
 
 ## Related Pages
 
