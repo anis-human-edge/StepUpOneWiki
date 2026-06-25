@@ -119,3 +119,4 @@ The wiki gets richer with every source added. Cross-references are maintained au
 | [Start-Up Advisors](entities/partners/startup-advisors.md) | Partner type: advisors referring founders to StepUp.One engines |
 | [CEO Coaches](entities/partners/ceo-coaches.md) | Partner type: coaches referring executives to influence/transition engines |
 | [Deal Advisors](entities/partners/deal-advisors.md) | Partner type: M&A advisors partnering on exit engine deals |
+| [DATABIOMIX](entities/partners/databiomix.md) | Swiss company; inbound pitch from CEO Marco Meola, Jun 2026; deck under review |
