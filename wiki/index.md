@@ -112,6 +112,12 @@ The wiki gets richer with every source added. Cross-references are maintained au
 |------|-------------|
 | [Alexander Demianov](entities/clients/alexander-demianov.md) | New client win (June 2026), signed via concise one-sentence outreach |
 
+### Entities — People (Prospects)
+
+| Page | Description |
+|------|-------------|
+| [Khadir Rangooni](entities/people/khadir-rangooni.md) | IC Impact Consulting; booked then cancelled founder meeting 25 Jun 2026; follow-up warranted |
+
 ### Entities — Partners
 
 | Page | Description |
@@ -120,3 +126,4 @@ The wiki gets richer with every source added. Cross-references are maintained au
 | [CEO Coaches](entities/partners/ceo-coaches.md) | Partner type: coaches referring executives to influence/transition engines |
 | [Deal Advisors](entities/partners/deal-advisors.md) | Partner type: M&A advisors partnering on exit engine deals |
 | [DATABIOMIX](entities/partners/databiomix.md) | Swiss company; inbound pitch from CEO Marco Meola, Jun 2026; deck under review |
+| [IC Impact Consulting](entities/partners/ic-impact-consulting.md) | Consulting firm; Khadir Rangooni booked then cancelled founder meeting 25 Jun 2026 |
