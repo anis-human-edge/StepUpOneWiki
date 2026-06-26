@@ -1,13 +1,14 @@
 ---
 title: "Farah Ibrahim"
 type: entity
-updated: 2026-06-23
+updated: 2026-06-26
 sources:
   - raw/gdrive/2026-04-13-daily-learning-0751.md
   - raw/gdrive/2026-04-14-daily-learning-0754.md
   - raw/gdrive/2026-04-15-daily-learning-0758.md
   - raw/gmail/2026-06-23-notes-stepup-one-daily-learning-23-jun-2026.md
   - raw/gmail/2026-06-24-notes-stepup-one-daily-learning-24-jun-2026.md
+  - raw/gdrive/2026-06-25-stepup-one-daily-learning-0759-bst-notes-by-gemini-1Fp-SOeUlpiAOzW.md
 ---
 
 # Farah Ibrahim
