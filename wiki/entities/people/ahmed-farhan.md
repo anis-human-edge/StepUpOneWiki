@@ -41,13 +41,19 @@ Ahmed Farhan is responsible for assigning accelerator lakes to each team member 
 - Alliance team → CNT for other assigned targets
 - Patience Ciza → Techstars lake ownership
 
-## Open Action Items (as of 2026-06-24)
+## Open Action Items (as of 2026-06-25)
 
 - **Draft fractional growth model email:** Write a professional email explaining the fractional growth model and send to the client. (Assigned 24 Jun 2026.)
 - **Email new meeting contact:** Send email correspondence to the new contact identified at the Jun 24 Daily Learning session. (Assigned 24 Jun 2026.)
 - **Organize CRM — business names:** Resolve inconsistent business name display in the dashboard by mapping the company name field. Execute automated updates if possible. (Assigned 24 Jun 2026.)
 - **Audit engagement metrics:** Verify accuracy of reported engagement metrics; investigate why numbers appear lower than expected and implement improvement strategies. (Assigned 24 Jun 2026.)
 - **Develop ABM strategy (with Farah Ibrahim):** Draft actionable steps for both inbound and outbound ABM. Present to leadership for review. Current conversion rates are below the 20–30% target. (Assigned 24 Jun 2026.)
+- **Respond to Kushal — refuse pay-per-success:** Communicate StepUp.One's refusal of the payment-per-success model to Kushal. Clarify that the service operates on a monthly subscription basis only. (Assigned 25 Jun 2026.)
+- **Update CRM:** Ensure all meaningful client engagement and message history are logged in the CRM promptly. (Assigned 25 Jun 2026.)
+- **Implement sales pipeline:** Develop and outline the sales assembly pipeline structure as discussed. (Assigned 25 Jun 2026.)
+- **Address client feedback — assert expertise:** When a client's project directives contradict effective strategy, assert professional expertise rather than comply. (Assigned 25 Jun 2026.)
+- **Update Marco's LinkedIn profile:** Modify the headline, experience, and banner section for client Marco's LinkedIn profile. (Assigned 25 Jun 2026.)
+- **Upgrade Marco's LinkedIn account:** Subscribe to LinkedIn Premium for client Marco once funds are confirmed. (Assigned 25 Jun 2026.)
 
 ## Related Pages
 
