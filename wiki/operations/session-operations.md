@@ -117,14 +117,16 @@ Mohamed Anis established a layered teaching approach for developing graduates:
 
 The team is working toward completing 4 required [Anthropic certification](../training-reskilling/anthropic-certification.md) exams to enable a partnership. 10 people must be certified.
 
-## Leadership Absence Continuity (Jun 2026)
+## Leadership Absence Continuity (Jul–Aug 2026)
 
-Mohamed Anis will be absent for approximately 15 days starting late June 2026. Key continuity principles established:
+Mohamed Anis will be away for **both July and August 2026** (two full months). He will not be in London. Updated continuity principles (Jun 25):
 
 - Current strong conversion rates prove the team can operate independently
 - All current leads in pipeline must continue to be worked
 - Ahmed Farhan is responsible for day-to-day operations and calendar oversight
 - No new strategic pivots during the absence — execute the existing playbook
+- Team was told: "You will make a killing actually" — momentum is there, trust the system
+- Anis's pitch style does not rely on personal credentials; the core idea is what any team member can present
 
 ## LinkedIn Premium Upgrade Protocol (Jun 2026)
 
