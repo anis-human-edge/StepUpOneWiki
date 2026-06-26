@@ -1,11 +1,28 @@
 ---
 title: "Wiki Log"
 type: overview
-updated: 2026-06-20
+updated: 2026-06-26
 sources: []
 ---
 
 # Wiki Log
+
+## [2026-06-26] ingest | Gmail farm — 2 new threads (Jun 25 Daily Learning notes + Khadir Rangooni cancellation)
+
+**Sources ingested:**
+- `raw/gmail/2026-06-25-notes-stepup-one-daily-learning-25-jun-2026.md` — Jun 25 Gemini session notes: monthly subscription model confirmed (refusing pay-per-success), operational scaling debate (relationship quality over new sales volume), leadership commitment vs skill, percentage-based metrics. 12 action items across Ahmed Farhan, Mahmud Bilow, Abdulkadir Mhina, and the group.
+- `raw/gmail/2026-06-25-appointment-cancelled-khadir-rangooni-ic-impact-consulting.md` — Khadir Rangooni (IC Impact Consulting) cancelled his booked founder meeting with Anis (25 Jun 2pm–3pm BST). No reason given. Has an AI twin.
+
+**Wiki pages created (2):**
+- `wiki/entities/people/khadir-rangooni.md` — Inbound prospect; cancelled meeting; follow-up warranted
+- `wiki/entities/partners/ic-impact-consulting.md` — Consulting firm; Khadir's company
+
+**Wiki pages updated (5):**
+- `wiki/entities/people/ahmed-farhan.md` — Added 6 new action items from Jun 25 (Kushal pay-per-success refusal, CRM update, sales pipeline, client expertise assertion, Marco LinkedIn update + Premium upgrade)
+- `wiki/entities/people/mahmud-bilow.md` — Added action item: publish daily dashboard before each meeting
+- `wiki/entities/people/abdulkadir-mhina.md` — Added action item: publish daily dashboard before each meeting (with Mahmud)
+- `wiki/index.md` — Added 2 new entity entries; updated date
+- `wiki/log.md` — This entry
 
 ## [2026-06-25] ingest | Gmail farm — 2 new threads (Jun 24 Daily Learning notes + DATABIOMIX inbound pitch)
 
