@@ -145,9 +145,52 @@ Traffic-driving tools (engagement automation) are capped at **5 instances** per 
 - No repetitive comments on the same accounts — rotate to maintain authenticity
 - The monitored list expands over time; accounts are categorized by topic (fundraising, technology, etc.)
 
+## Watch-Along Sessions (Jun 2026)
+
+Introduced by Farah Ibrahim's team. The group watches Anis's recorded client meeting videos together on Zoom or Google Meet, pausing to analyze and discuss tactics in real time.
+
+- Recommended playlist: Beacon platform — all client meeting recordings
+- Priority viewing: Lewis meeting (word-of-mouth skeptic won in 30 min), Pawan meeting
+- Two hours spent on a 20-minute segment is normal and valuable
+- Questions discussed: how Anis deflects premature "what's your business" questions, how he finds common ground, how he switches from sales mode to relationship mode
+
+Mohamed Anis endorsed this formally on Jun 25: "Whatever I say in 3 hours here, you will gain more in those 30 minutes. Learning to act from watching acting beats any coaching."
+
+## Campaign Metrics: Percentage Thinking (Jun 2026)
+
+Established principle — when reviewing campaign numbers, always convert to percentages. Absolute numbers are worthless without context.
+
+Example from Jun 25 (Kushal's campaign): 412 contacted / 47 connected / 5 engaged
+- Connection rate: ~11% — **bad** (target is 20–30%)
+- Engagement of connects: ~10% — acceptable
+- The client saw "47 connections" as a good number; the team must see "11% connection rate" as bad
+
+Rule: train your brain to automatically convert any campaign number to a percentage. Never accept raw numbers as the analysis.
+
+## Social Media Commenting Hierarchy (Jun 2026)
+
+Established strategy for the team's LinkedIn commenting activity. Priority order:
+
+1. **Own posts** — personal posts, StepUp.One fundraising posts, StepUp.One GTM posts
+2. **Client posts** — comment and like client content in a meaningful way to increase their visibility
+3. **Trending posts** — engage with relevant trending content for discovery
+
+The strategy was discussed internally but Farah Ibrahim missed the session where it was finalized, which led to a coordination conflict. See [Farah Ibrahim](../entities/people/farah-ibrahim.md) for details.
+
+## Client Follow-Up Protocol (Jun 2026)
+
+Confirmed principle: always follow up personally, never with AI-generated messages.
+
+- Use your own language — a casual "hey, how is it?" is fine
+- Any team member may follow up with a prospect Anis has already met — it is "perfectly okay"
+- Do not wait; if uncertain, default to following up
+- AI-generated follow-ups "shoot yourself in the foot"
+- Maximum research time before a pitch: 30 minutes to 1 hour
+
 ## Related Pages
 
 - [Teaching Methodology](../training-reskilling/teaching-methodology.md)
 - [Outbound Strategy](../clients-partnerships/win-new/outbound/outbound-strategy.md)
 - [Organizational Priorities](../strategy-vision/organizational-priorities.md)
 - [Anthropic Certification](../training-reskilling/anthropic-certification.md)
+- [Farah Ibrahim](../entities/people/farah-ibrahim.md)
