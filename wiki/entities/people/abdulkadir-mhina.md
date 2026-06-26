@@ -32,8 +32,13 @@ Active team member at StepUp.One. One of the most engaged participants in Daily 
 2. Design a high-level inbound architecture (dramatically different from outbound)
 3. Research each inbound strategy (commenting, posting, blogging) with ICPs and content strategy
 
+## Open Action Items (as of 2026-06-25)
+
+- **Publish daily dashboard (with Mahmud Bilow):** Release the daily performance report before the start of each Daily Learning meeting. (Assigned 25 Jun 2026.)
+
 ## Related Pages
 
 - [Inbound Strategy](../../clients-partnerships/win-new/inbound/inbound-strategy.md) -- strategy he helped shape
 - [Outbound Strategy](../../clients-partnerships/win-new/outbound/outbound-strategy.md) -- system he executes
 - [Mohamed Anis](mohamed-anis.md) -- primary mentor
+- [Mahmud Bilow](mahmud-bilow.md)
