@@ -7,6 +7,23 @@ sources: []
 
 # Wiki Log
 
+## [2026-06-26] ingest | GDrive farm — Jun 25 Daily Learning full transcript (Gemini notes + verbatim transcript)
+
+**Source ingested:**
+- `raw/gdrive/2026-06-25-stepup-one-daily-learning-0759-bst-notes-by-gemini-1Fp-SOeUlpiAOzW.md` — Full Gemini notes and meeting transcript for Jun 25 07:59 BST session. Topics: Kushal pausing service (412/47/5 metrics, subscription model refused), Edocite dashboard as performance reporting model, Lewis and Pawan as hot word-of-mouth prospects, watch-along sessions formalized, Anis away Jul–Aug, social media commenting hierarchy, percentage-based metrics teaching, Farah Ibrahim conflict and disempowerment.
+
+**Wiki pages created (4):**
+- `wiki/entities/clients/kushal.md` — Client pausing service; pay-per-success refused; campaign metrics analysis
+- `wiki/entities/clients/edocite.md` — EdTech client; enrollment teams; dashboard model for all clients
+- `wiki/entities/people/lewis.md` — Hot inbound prospect; word-of-mouth; 100% expected to sign; Lewis video = pitching PhD thesis
+- `wiki/entities/people/pawan.md` — Warm inbound prospect; product-gap identified by Anis; weeks to close
+
+**Wiki pages updated (4):**
+- `wiki/entities/people/farah-ibrahim.md` — Added Jun 25 coordination conflict with Abdulkadir Mhina, disempowerment feelings, watch-along sessions origin, leadership philosophy statement
+- `wiki/operations/session-operations.md` — Added watch-along sessions, percentage metrics principle, social media commenting hierarchy, client follow-up protocol; updated Anis absence to Jul–Aug (two full months)
+- `wiki/index.md` — Added 4 new entity entries
+- `wiki/log.md` — This entry
+
 ## [2026-06-26] ingest | Gmail farm — 2 new threads (Jun 25 Daily Learning notes + Khadir Rangooni cancellation)
 
 **Sources ingested:**
