@@ -1,11 +1,12 @@
 ---
 title: "Abdulkadir Mhina"
 type: entity
-updated: 2026-04-16
+updated: 2026-06-25
 sources:
   - raw/gdrive/2026-04-13-daily-learning-1250.md
   - raw/gdrive/2026-04-14-daily-learning-0754.md
   - raw/gdrive/2026-04-13-daily-learning-0751.md
+  - raw/gmail/2026-06-25-notes-stepup-one-daily-learning-25-jun-2026.md
 ---
 
 # Abdulkadir Mhina
