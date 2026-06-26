@@ -1,9 +1,10 @@
 ---
 title: "Mahmud Bilow"
 type: entity
-updated: 2026-06-24
+updated: 2026-06-25
 sources:
   - raw/gmail/2026-06-24-notes-stepup-one-daily-learning-24-jun-2026.md
+  - raw/gmail/2026-06-25-notes-stepup-one-daily-learning-25-jun-2026.md
 ---
 
 # Mahmud Bilow
