@@ -6,6 +6,7 @@ sources:
   - raw/gdrive/2026-06-18-stepup-one-daily-learning-0801-bst-notes-by-gemini-16oe8tIga3SW.md
   - raw/gmail/2026-06-24-notes-stepup-one-daily-learning-24-jun-2026.md
   - raw/gmail/2026-06-25-notes-stepup-one-daily-learning-25-jun-2026.md
+  - raw/gdrive/2026-06-26-stepup-one-daily-learning-0803-bst-notes-by-gemini-11GirnzWyncp261YeQKgMlmnJV-nTsZ-MD6UadSZP5Bs.md
 ---
 
 # Ahmed Farhan
