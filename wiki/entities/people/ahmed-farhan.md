@@ -42,7 +42,21 @@ Ahmed Farhan is responsible for assigning accelerator lakes to each team member 
 - Alliance team → CNT for other assigned targets
 - Patience Ciza → Techstars lake ownership
 
-## Open Action Items (as of 2026-06-25)
+## Open Action Items (as of 2026-06-27)
+
+### From 26 Jun 2026 — Ferrarx / Client Understanding Session
+
+- **Create Ferrarx ABM report:** Build comprehensive account-by-account performance report for Mike in the CRM. Due Monday 29 Jun. (Re-upload target list with account name field; create smart lists; build account-level dashboard showing # contacted, connected, engaged, won per account.)
+- **Present updated Ferrarx strategy:** At tomorrow's meeting, present updated research and top 5 target insurance companies with rationale for going beyond Blue Cross.
+- **Reconstruct original target list:** Verify connection counts by seniority tier (CXO, VP, director) and reconcile with dashboard figures to resolve the 3,400 vs 1,000 discrepancy.
+- **Build insurance expansion argument:** Develop a data-backed business case for targeting insurance companies beyond Blue Cross (not just hospitals/healthcare — specifically insurers covering elderly/high-risk populations).
+- **Compile Blue Cross profile:** Detailed profile of all ~50 distinct Blue Cross companies including CXOs, VPs, and directors. Present to Mike.
+- **Curate message-worthy content:** Review all materials Mike shared over the past 6 months; identify items worth forwarding to existing connections as value-add (not sales pitches).
+- **Assign new task to Marva:** Delegate a meaningful CRM-based activity (e.g., commenting) to Marva, who has been inactive for months.
+- **Master metal.so platform (30 days):** Learn core operations and all fundraising functionalities of the Metal platform. Lead team (Liban, Abdi, Sharmuge, Patience). Teach the rest of staff once mastered.
+- **Replicate Metal.so in CRM:** Research and evaluate whether every Metal.so fundraising feature can be replicated in StepUp.One's internal CRM + AI. Report findings to Anis.
+
+### From 25 Jun 2026
 
 - **Draft fractional growth model email:** Write a professional email explaining the fractional growth model and send to the client. (Assigned 24 Jun 2026.)
 - **Email new meeting contact:** Send email correspondence to the new contact identified at the Jun 24 Daily Learning session. (Assigned 24 Jun 2026.)
