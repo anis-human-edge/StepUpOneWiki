@@ -72,6 +72,8 @@ Ahmed Farhan is responsible for assigning accelerator lakes to each team member 
 
 ## Related Pages
 
+- [Ferrarx](../clients/ferrarx.md)
+- [Metal.so](../systems/metal-so.md)
 - [Outbound Strategy](../../clients-partnerships/win-new/outbound/outbound-strategy.md)
 - [Lake Strategy & CNT Framework](../../clients-partnerships/win-new/outbound/lake-strategy.md)
 - [Hamza Ahmed](hamza-ahmed.md)
