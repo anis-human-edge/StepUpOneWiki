@@ -7,6 +7,20 @@ sources: []
 
 # Wiki Log
 
+## [2026-06-27] ingest | GDrive farm — Jun 26 Daily Learning full transcript (Gemini notes + verbatim transcript)
+
+**Source ingested:**
+- `raw/gdrive/2026-06-26-stepup-one-daily-learning-0803-bst-notes-by-gemini-11GirnzWyncp261YeQKgMlmnJV-nTsZ-MD6UadSZP5Bs.md` — Full Gemini notes and transcript for Jun 26 08:03 BST session. Key topics: Ferrarx client deep-dive (food-as-medicine model, Blue Cross account structure, insurance-not-healthcare targeting), ABM reporting challenges, Ahmed Farhan client understanding coaching, metal.so fundraising platform adoption, LinkedIn credential policy, professionalism standards.
+
+**Wiki pages created (2):**
+- `wiki/entities/clients/ferrarx.md` — Food-as-medicine delivery client; StepUp.One runs GTM outbound to win insurance company buyers for Mike; 35 accounts, 511 connections; Independence Blue Cross is their only existing client; go-deep-vs-go-wide strategic tension
+- `wiki/entities/systems/metal-so.md` — Fundraising automation platform; 10K founders from YC and Techstars; 30-day mastery plan; $200–300/mo add-on potential; internal replication goal
+
+**Wiki pages updated (3):**
+- `wiki/entities/people/ahmed-farhan.md` — Added 9 new action items from Jun 26: Ferrarx ABM report (due Mon), top-5 insurance strategy presentation, target list reconstruction, Blue Cross profile, message-worthy content curation, Marva delegation, metal.so mastery (30 days), metal.so team training, internal CRM replication research
+- `wiki/index.md` — Added Ferrarx and Metal.so entries
+- `wiki/log.md` — This entry
+
 ## [2026-06-26] ingest | GDrive farm — Jun 25 Daily Learning full transcript (Gemini notes + verbatim transcript)
 
 **Source ingested:**
