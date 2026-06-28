@@ -71,6 +71,21 @@ Founders can run one engine or all three in parallel. The Execution Strategist s
 - **Mahadev Chikkana** (Founder, Mynusco.com, Bengaluru): "StepUp.One connected with 1000+ Carbon Net-Zero Investors and built out the exact pipeline we needed to close our seed round."
 - **Tobias Brask** (Entrepreneur, Copenhagen): "The team runs like a military operation. They operate silently in the background and surface high-signal investor meetings directly onto my calendar."
 
+## Tooling: Meta Platform
+
+As of June 2026, StepUp.One is evaluating the **Meta platform** (not Facebook Meta — a separate investor intelligence tool) for use within the Fundraising Engine.
+
+**What it does:**
+- Investor discovery: enter your company profile and it surfaces investors who are active in your space
+- Relationship intelligence: connect your email/LinkedIn and it maps existing contacts to identify shared connections with target investors
+- Investor CRM: track and manage outreach to a target list of investors
+- Richard AI: an AI component that tracks industry trends, identifies recently active VCs in your niche, and suggests outreach timing
+- Automated outreach sequencing: the platform can send messages automatically (email + LinkedIn)
+
+**Decision:** StepUp.One will use the platform for investor discovery and pipeline management only. **Outreach will remain manual** — no automation. The rationale: automated outreach lacks the personalization required for StepUp.One's relationship-building methodology.
+
+**Status (2026-06-27):** Ahmed Farhan is exploring the platform but has not yet logged in. Next step: create company profile, run investor discovery, and report findings. See [Ahmed Farhan](../people/ahmed-farhan.md) action items.
+
 ## Cross-References
 
 - [GTM Engine](gtm-engine.md) -- same two-layer methodology applied to client acquisition
@@ -78,3 +93,4 @@ Founders can run one engine or all three in parallel. The Execution Strategist s
 - [Portfolio Fundraising](portfolio-fundraising.md) -- investor-facing version ("Plan B") running fundraising for portfolio companies in parallel
 - [AI Digital Twin / Execution Engine](execution-engine.md) -- the AI twin technology referenced across all engines
 - [Outbound Strategy](../../clients-partnerships/win-new/outbound/outbound-strategy.md) -- StepUp.One's own outbound methodology mirrors this engine's approach
+- [Ahmed Farhan](../people/ahmed-farhan.md) -- leading the Meta platform exploration
