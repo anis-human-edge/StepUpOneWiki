@@ -33,7 +33,8 @@ The wiki gets richer with every source added. Cross-references are maintained au
 |------|-------------|
 | [AI Curriculum Overview](training-reskilling/ai-curriculum-overview.md) | Progressive AI skills ladder for the underserved: from website creation to application building |
 | [Teaching Methodology](training-reskilling/teaching-methodology.md) | How Daily Learning sessions work: no repetition, live demos, attitude training, role structure |
-| [Client Relationship Framework](training-reskilling/client-relationship-framework.md) | 5-stage client emotional journey, relationship hierarchy (transactional → trusted → outcome), converting relationships into outcomes |
+| [Client Relationship Framework](training-reskilling/client-relationship-framework.md) | 7-stage client journey (Doubt → Harmless → Curious → Expert → Experienced → Trusted → Sustained Outcomes), respect vs trust, cooking level, relationship hierarchy |
+| [LinkedIn Credibility Standards](training-reskilling/linkedin-credibility-standards.md) | Profile checklist for outbound team members: 500+ connections, verification tick, photo, posting standards — passing the scammer filter |
 
 ### Clients & Partnerships — Win New > Outbound
 
