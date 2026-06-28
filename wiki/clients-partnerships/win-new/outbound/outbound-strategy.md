@@ -102,6 +102,37 @@ The AI generates comprehensive client profiles that team leaders validate. These
 
 The "Step Up One Outbound" document is referred to as a "bible" -- the definitive reference for all outbound operations. The team is expected to read it, challenge it, and contribute proactively. A companion "Step Up One Inbound" document covers the inbound side.
 
+## CRM Pipeline Discipline
+
+The single biggest operational failure in outbound is letting opportunities stagnate in their current stage. The pattern: a team member gets a response from a prospect, replies, and then forgets to move the opportunity forward in the CRM. The opportunity sits in its old stage indefinitely.
+
+**Rule:** As soon as a prospect responds to your message — even a one-word response — move the opportunity to the next stage (e.g., from "Educate" to "Convince"). Do not wait. Do not forget.
+
+**The Convince stage backlog:** As of late June 2026, the convince stage grew from 298 to 461 opportunities — a sign that team members were initiating conversations and then abandoning follow-up. Every opportunity in "convince" is money on the table that nobody is picking up. The discipline of persistent follow-up at this stage is where deals are won.
+
+Persistent follow-up in the convince stage means:
+- Sending follow-ups even if the prospect has not yet replied to your second message
+- Not giving up after one or two unanswered messages — follow up until you get a "yes," "no," or "stop messaging me"
+- Setting a reasonable outer limit (roughly one month of silence) before archiving
+
+## The Golden List
+
+As of June 2026, the team is running a specific high-value prospect list ("the golden list") that has produced exceptional results:
+
+- **4 manufacturers closed** and in various stages of onboarding
+- **30+ meetings booked in June** — the highest monthly meeting count in the company's history
+- Mohamed sharmuge Mohamed: *"This list has really worked well. If you get a client from this list my friend — deal done. You work for that client for almost two to three years."*
+
+The golden list is distinct from the standard CRM pipeline. Its quality is the reason behind the record performance. The lesson: sourcing quality matters at least as much as volume.
+
+## External Lead Sourcing
+
+Not all leads come through the CRM system. Farhaan Abdi Hassan sourced a high-value prospect in June 2026 by commenting on an influencer's LinkedIn post and then connecting. This prospect had hundreds of thousands of followers and a strong web presence — a fundamentally different profile from standard CRM targets.
+
+The method: comment with a specific point of view on a post, then send a connection request. The comment creates recognition before the connection request lands (see the [Lake Strategy](lake-strategy.md) engagement model). This is organic outbound via inbound-style behavior.
+
+When leads come in through this channel, update the meeting setup with conversation history so the full team can evaluate the prospect.
+
 ## Related Pages
 
 - [Inbound Strategy](../inbound/inbound-strategy.md) -- the parallel content-based strategy
@@ -109,3 +140,4 @@ The "Step Up One Outbound" document is referred to as a "bible" -- the definitiv
 - [Follow-up Messaging](follow-up-messaging.md) -- specific tactics for re-engaging silent prospects
 - [Lake Strategy & CNT Framework](lake-strategy.md) -- accelerator-based prospecting and the CNT principle
 - [Teaching Methodology](../../../training-reskilling/teaching-methodology.md) -- how the team learns the outbound system
+- [LinkedIn Credibility Standards](../../../training-reskilling/linkedin-credibility-standards.md) -- profile requirements before outreaching at scale
