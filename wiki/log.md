@@ -1,11 +1,26 @@
 ---
 title: "Wiki Log"
 type: overview
-updated: 2026-06-27
+updated: 2026-06-28
 sources: []
 ---
 
 # Wiki Log
+
+## [2026-06-28] ingest | GDrive farm — Jun 27 Daily Learning full transcript (Gemini notes + verbatim transcript)
+
+**Source ingested:**
+- `raw/gdrive/2026-06-27-stepup-one-daily-learning-0759-bst-notes-by-gemini-1D0pBlm8LuwLAYA2p1wWnMV9PHLhGGBwbmentPT0xaPM.md` — Full Gemini notes and transcript for Jun 27 07:59 BST session. Key topics: CRM pipeline discipline (convince stage 298→461), golden list performance (4 manufacturers closed, 30+ meetings in June — record), client "cooking" level concept, 7-stage client connection framework (Doubt → Harmless → Curious → Expert → Experienced → Trusted → Sustained Outcomes), LinkedIn credibility standards (500+ connections, verification tick, 20+ clean posts), Meta platform for investor discovery (Richard AI), decision against automated outreach, radical transparency culture.
+
+**Wiki pages created (1):**
+- `wiki/training-reskilling/linkedin-credibility-standards.md` — Full checklist for passing prospects' scammer filter: 500+ connections (LinkedIn hides count above 500), verification tick, professional photo/banner, 20+ varied clean posts, no unverified logos
+
+**Wiki pages updated (5):**
+- `wiki/training-reskilling/client-relationship-framework.md` — Major expansion: added Parts 1b–1d covering (1) the full 7-stage framework with transition steps between each stage, (2) the respect-before-trust principle, (3) the client "cooking" level concept. Updated sources and date.
+- `wiki/clients-partnerships/win-new/outbound/outbound-strategy.md` — Added: CRM pipeline discipline section (convince stage stagnation problem, rule for moving opportunities), golden list performance (4 manufacturers, 30+ meetings), external lead sourcing via influencer commenting
+- `wiki/entities/people/ahmed-farhan.md` — Added 2 new action items from Jun 27: (1) map all 7 stages with transition details, (2) log into Meta platform and report findings
+- `wiki/entities/systems/fundraising-engine.md` — Added Meta platform section: investor discovery tool, Richard AI, relationship intelligence, decision to use for discovery only (no automated outreach)
+- `wiki/index.md` — Added LinkedIn Credibility Standards entry; updated client relationship framework description; updated date
 
 ## [2026-06-27] ingest | GDrive farm — Jun 26 Daily Learning full transcript (Gemini notes + verbatim transcript)
 
