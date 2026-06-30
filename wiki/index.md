@@ -116,6 +116,7 @@ The wiki gets richer with every source added. Cross-references are maintained au
 | [Kushal](entities/clients/kushal.md) | Client pausing service (Jun 2026); 412/47/5 campaign metrics; refused pay-per-success model |
 | [Edocite](entities/clients/edocite.md) | EdTech client; enrollment team engagement product; StepUp.One runs outbound and built their dashboard |
 | [Ferrarx](entities/clients/ferrarx.md) | Food-as-medicine delivery client; StepUp.One runs outbound to win insurance company buyers; 35 accounts hunted, 511 connections |
+| [Aurora Financial Group](entities/clients/aurora-financial-group.md) | Capital markets / investor matchmaking firm; active serve-current engagement; retail project launch + curated investor matching platform for medical/veterinary asset classes |
 
 ### Entities — People (Prospects)
 
