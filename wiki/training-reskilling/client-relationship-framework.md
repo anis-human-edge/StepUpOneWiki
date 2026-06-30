@@ -1,11 +1,12 @@
 ---
 title: "Client Relationship Framework: From Doubt to Outcomes"
 type: topic
-updated: 2026-06-28
+updated: 2026-06-29
 sources:
   - raw/gdrive/2026-06-23-stepup-one-daily-learning-0757-bst-notes-by-gemini-1ZCCXh3.md
   - raw/gmail/2026-06-23-notes-stepup-one-daily-learning-23-jun-2026.md
   - raw/gdrive/2026-06-27-stepup-one-daily-learning-0759-bst-notes-by-gemini-1D0pBlm8LuwLAYA2p1wWnMV9PHLhGGBwbmentPT0xaPM.md
+  - raw/gdrive/2026-06-29-stepup-one-daily-learning-0759-bst-transcript-16vdDhEFHS8qSdyx_7ATYQCZrQx0ZHgFzyPdRdJ9nTg4.md
 ---
 
 # Client Relationship Framework: From Doubt to Outcomes
