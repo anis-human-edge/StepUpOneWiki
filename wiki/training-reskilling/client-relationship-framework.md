@@ -104,6 +104,34 @@ The connection message must give the prospect a reason to respond. A message tha
 
 The standard connection message at StepUp.One is designed specifically to move prospects from Stage 2 to Stage 3. The measure: 95% of connections that stay silent are Stage 2 connections; only 5% reply, which means the message is triggering curiosity in only 1 in 20 cases. Raising this ratio is the primary lever for improving pipeline quality.
 
+#### The Flick-and-Punch Two-Liner
+
+The most important tactical tool for Stage 2 → 3 is the **flick-and-punch** method, developed from boxing technique:
+
+> *"In boxing, if you want to land a punch with your right hand, you don't just land it directly. You extend your left hand with loose fingers — a flick — to make the person flinch slightly. Then you land the punch with your right. The same thing works in messaging."* — Mohamed Anis, Jun 29 2026
+
+**Structure:** every follow-up message to a silent connector is exactly two lines.
+
+| Line | Name | Purpose | Varies? |
+|------|------|---------|---------|
+| First | **Flick** | Personalised observation — about section, recent post, comment, company, product — that creates curiosity. Does NOT mention what you want to share. | Yes — unique per client |
+| Second | **Punch** | The actual content: website link, case study, video, resource. What you always planned to share. | No — constant per ICP |
+
+**Why the flick first:** if you previously told the prospect "I'm building something for fractional CXOs — would you like to see it?", they already know a punch is coming. Without a flick, the punch lands predictably and creates no curiosity. A brief observation about them first — something entirely different — loosens them up so the punch lands with more force.
+
+**Multiple rounds:** one flick-punch is rarely enough. Between Stage 2 and Stage 3, expect to throw five or more combinations, changing the flick each time:
+- Round 1: flick on their about section + link to your website
+- Round 2: flick on their recent post + case study
+- Round 3: flick on their company or product + client name or outcome
+- Round 4: flick on their ICP or market + a relevant video
+- If still silent after 3–5 rounds: it is okay to move on
+
+**Goal is curiosity, not respect:** aim to make the prospect curious, not to earn their respect. Respect comes automatically once curiosity is engaged. Trying to earn respect directly is too abstract and takes too long; curiosity is immediately actionable.
+
+**Authenticity requirement:** senior ICPs (fractional CXOs, executives) detect ChatGPT-generated messages immediately. When the flick sounds generic or templated, prospects say: *"I can see you're using ChatGPT."* The flick must be genuinely researched and human. The punch can be automated; the flick cannot.
+
+**Evidence:** applying the flick-and-punch even at the connection message stage (before the prospect has replied at all) results in near-100% reply rates from new connections. In the plug-and-play campaign, zero silent connectors remained after adopting this approach.
+
 ### Curious → Expert (Stage 3 → 4)
 
 Share value-adding information relevant to their specific situation. Do not immediately give critical feedback on their business — this is too fast and too presumptuous before credibility is established. Instead:
