@@ -43,6 +43,50 @@ Follow-up messages must project authority, not desperation:
 
 Example from Patience Ciza: a client posted 18 hours ago but hadn't responded to messages. The strategy: comment on the post first, then send the follow-up message. This ensures the team's name appears in two contexts -- as a thoughtful commenter and as a direct message.
 
+## The Flick-and-Punch Two-Liner (Silent Connector Conversion)
+
+The most powerful tool for converting **silent connectors** (Stage 2 — connected but not responding) into curious prospects (Stage 3) is the flick-and-punch two-liner.
+
+### The Structure
+
+Every message to a silent connector is exactly **two lines**:
+
+**Line 1 — The Flick:** A personalised observation about the prospect. Something about their about section, a recent post or comment, their company, their product, or their ICP. It does NOT mention what you are about to share. Its only job is to create a moment of curiosity — to make the prospect think "this person noticed something about me."
+
+**Line 2 — The Punch:** The actual content you intended to share. Website link, case study, client outcome, video, resource. This is constant per ICP — the same for every fractional CXO, every founder, every target type. Only the flick changes.
+
+### Why This Works
+
+If you have already told a prospect "I'm building something for fractional CXOs — would you like to see it?", they know the punch is coming. Delivering it immediately without a flick is predictable and generates no reaction. The flick loosens the prospect up — creates a small moment of curiosity unrelated to the pitch — so that the punch lands with more impact.
+
+**Boxing analogy:** To land a right-hand punch in boxing, you first extend the left hand loosely — no contact, just a flick to make the person flinch. Then the right hand lands clean. Without the setup, the right hand telegraphs and misses.
+
+### Execution Rules
+
+- **The flick must be human.** Senior ICPs (fractional CXOs, executives) immediately detect ChatGPT-generated openers. Prospects have said outright: "I can see you're using ChatGPT." The flick must reflect genuine research. The punch can be templated; the flick cannot.
+- **Multiple rounds expected.** Expect 3–5 flick-punch combinations before a silent connector replies. Change the flick each round (about section → recent post → company insight → case study → video). If still silent after 5 attempts, move on — it is not a failure.
+- **Even when answering a question:** if a prospect asks something, do not answer immediately. Lead with a one-line flick (an observation about them, entirely unrelated to their question), then answer. The pattern holds even in active conversations.
+- **One-liners also work.** Once several punches have landed without response, switch to flick-only (one-liner) messages. Keep them warm without escalating commitment.
+
+### Evidence
+
+- Applied to the plug-and-play campaign: zero silent connectors remaining after adopting this method — every connection has replied.
+- Applied to Anis's own connection messages: near-100% of his last 100 new connections replied, compared to near-zero previously. The only change: adding a flick to the connection request itself.
+
+### ICP-Specific Notes: Fractional CXOs
+
+Fractional CXOs are senior sales professionals. They are harder to convert than founders:
+- They recognize every outreach tactic — they use them too
+- They detect AI-generated messages with high accuracy
+- Their standard is high: your flick must be genuinely researched, your punch must be genuinely relevant
+- A weak or generic flick signals that you are treating them as a list entry, not an individual
+
+The fractional CXO punch (the constant second line) is the link to the fractional CXO service or landing page. The flick must be personalized per prospect.
+
+See also: [Client Relationship Framework — Harmless → Curious section](../../../training-reskilling/client-relationship-framework.md) for the psychological model behind this technique.
+
+---
+
 ## Connection Messaging: Curiosity Over Pitch
 
 Outreach should lead with curiosity, not a sales pitch. Messaging strategies shifted from direct sell attempts to curiosity-driven questions that open the conversation without triggering doubt or resistance in the recipient.
