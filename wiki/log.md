@@ -1,11 +1,27 @@
 ---
 title: "Wiki Log"
 type: overview
-updated: 2026-06-28
+updated: 2026-06-30
 sources: []
 ---
 
 # Wiki Log
+
+## [2026-06-30] ingest | GDrive farm — Jun 29 Karen & Anis meeting notes + Daily Learning transcript
+
+**Sources ingested:**
+- `raw/gdrive/2026-06-29-karen-and-anis-2026-06-29-1419-bst-notes-by-gemini-1GAoGSApgfu1R1GLm-79A2Fu98Omt1Uc87S_FDWQeiaQ.md` — Gemini notes from Karen Todd (Aurora Financial Group) + Anis meeting, 14:19 BST. Topics: retail project launch, curated investor matchmaking platform (medical/veterinary asset classes), 7-stage relationship management framework, class segregation/crypto project legal review.
+- `raw/gdrive/2026-06-29-stepup-one-daily-learning-0759-bst-transcript-16vdDhEFHS8qSdyx_7ATYQCZrQx0ZHgFzyPdRdJ9nTg4.md` — Full verbatim transcript of Jun 29 07:59 BST Daily Learning session, 31 attendees. Key topic: flick-and-punch two-liner technique for converting silent LinkedIn connectors (Stage 2 → Stage 3), applied to fractional CXO ICP. Evidence: plug-and-play campaign now has zero silent connectors; Anis connection messages get near-100% reply rate after adding a flick. AI message quality concern: fractional CXOs detect ChatGPT-generated messages.
+
+**Wiki pages created (2):**
+- `wiki/entities/clients/aurora-financial-group.md` — New client entity: retail project launch, curated investor matchmaking platform strategy for medical/veterinary asset classes, open action items per 2026-06-29 meeting.
+- `wiki/entities/people/karen-todd.md` — New person entity: Aurora Financial Group primary contact, project owner across retail, investor matching, and crypto/class segregation workstreams.
+
+**Wiki pages updated (4):**
+- `wiki/training-reskilling/client-relationship-framework.md` — Added "Flick-and-Punch Two-Liner" subsection under Harmless → Curious (Stage 2 → 3): structure, boxing analogy, execution rules, ICP-specific warnings about AI detection, and evidence from plug-and-play and Anis's own connections. Updated sources and date.
+- `wiki/clients-partnerships/win-new/outbound/follow-up-messaging.md` — Added "The Flick-and-Punch Two-Liner" section: full coverage of the two-line structure, execution rules, multiple-round cadence, fractional CXO ICP notes. Updated sources and date.
+- `wiki/index.md` — Added Aurora Financial Group (clients) and Karen Todd (people) entries; updated client-relationship-framework description.
+- `wiki/log.md` — This entry.
 
 ## [2026-06-28] ingest | GDrive farm — Jun 27 Daily Learning full transcript (Gemini notes + verbatim transcript)
 
