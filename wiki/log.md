@@ -7,6 +7,26 @@ sources: []
 
 # Wiki Log
 
+## [2026-07-08] ingest | Gmail farm — Jun 30 threads (Metal onboarding rescheduled + Daily Learning notes)
+
+**Sources ingested:**
+- `raw/gmail/2026-06-30-metal-upcoming-onboarding-call-rescheduled.md` — Metal.so onboarding call rescheduled to last week of July; Anis met Hamza Janjua (Metal Growth) on Jun 29; 3-week travel to South Korea, India, Sri Lanka.
+- `raw/gmail/2026-06-30-notes-stepup-one-daily-learning-30-jun-2026.md` — Two Gemini session summaries. Session 1 (11am BST): lead generation strategy, 3-month minimum contract policy, care-based outreach, personnel actions (Huda terminated, Samson performance management). Session 2 (2pm BST): LinkedIn Premium Duo subscription (2100 shillings/person/month), 5-stage inbound marketing framework.
+
+**Wiki pages created (1):**
+- `wiki/entities/people/jean-marie-ndikumana.md` — Team personnel manager; executed Huda termination and Samson performance management on Jun 30
+
+**Wiki pages updated (7):**
+- `wiki/entities/systems/metal-so.md` — Onboarding status: rescheduled to last week of July; Hamza Janjua contact
+- `wiki/entities/people/mohamed-anis.md` — Travel section added (South Korea, India, Sri Lanka ~3 weeks); new action items (psychology dashboard, journey documents)
+- `wiki/entities/people/ahmed-farhan.md` — Jun 30 action items: analyze disengaged contacts, coach Kaddafi, develop new target list
+- `wiki/clients-partnerships/win-new/outbound/outbound-strategy.md` — Contract and engagement policies: 3-month minimum, commission-only rejected, care-based communication; lead sourcing exhaustion section
+- `wiki/clients-partnerships/win-new/inbound/inbound-strategy.md` — 5-stage inbound marketing conversion framework; LinkedIn Premium Duo decision
+- `wiki/operations/session-operations.md` — Personnel management section (Huda terminated, Samson managed); LinkedIn Premium Duo adoption
+- `wiki/index.md` — Added Jean-Marie Ndikumana
+
+---
+
 ## [2026-06-28] ingest | GDrive farm — Jun 27 Daily Learning full transcript (Gemini notes + verbatim transcript)
 
 **Source ingested:**
