@@ -54,7 +54,7 @@ Ahmed Farhan is responsible for assigning accelerator lakes to each team member 
 
 ### From 28 Jun 2026 (carried over)
 
-### From 27 Jun 2026 — 7-Stage Framework + Meta Platform
+### From 27 Jun 2026 (carried over) — 7-Stage Framework + Meta Platform
 
 - **Map the 7 stages of client connection:** Document each of the seven stages (Doubt → Harmless → Curious → Expert → Experienced → Trusted → Sustained Outcomes) in detail. For each stage, describe: (a) what actions/signals move a prospect from the previous stage to this one, and (b) what the prospect is thinking/feeling. Anis specifically asked Ahmed to own this as it relates to "System 1" — the psychology underneath the outbound assembly line.
 - **Log into the Meta platform and explore fully:** Ahmed explored it from the introduction section only (without logging in). The platform is an investor discovery and relationship intelligence tool with: investor CRM, relationship mapping (reads existing contacts to surface shared connections), trend tracking, and an AI component called Richard AI. Decision: StepUp.One will use the platform but conduct outreach manually, not via automation. Next step: log in, create company profile, run investor discovery, and report findings to Anis.
