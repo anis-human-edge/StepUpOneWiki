@@ -57,7 +57,9 @@ Anis is travelling for approximately **3 weeks starting late June 2026** (South 
 
 ## Open Action Items (as of 2026-06-30)
 
-- **Meeting funnel:** Build a small funnel to capture the reason for a meeting when a potential lead books a session. Goal: prevent non-qualified leads from booking and improve conversion efficiency. (Assigned 23 Jun 2026 Daily Learning session.)
+- **Meeting funnel:** Build a small funnel to capture the reason for a meeting when a potential lead books a session. Goal: prevent non-qualified leads from booking and improve conversion efficiency. (Assigned 23 Jun 2026.)
+- **Client psychology dashboard:** Create and distribute a dashboard mapping the 7-stage client psychology stages (Doubt → Harmless → Curious → Expert → Experienced → Trusted → Sustained Outcomes). (Assigned 30 Jun 2026.)
+- **Share journey documents:** Publish the fundraising and go-to-market journey guides and provide access links to the team. (Assigned 30 Jun 2026.)
 
 ## Related Pages
 
