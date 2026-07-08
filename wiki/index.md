@@ -78,6 +78,7 @@ The wiki gets richer with every source added. Cross-references are maintained au
 | [Patience Ciza](entities/people/patience-ciza.md) | Team member, Techstars lake owner, founder outreach |
 | [Mahmud Bilow](entities/people/mahmud-bilow.md) | Team member, outbound messaging and client outreach |
 | [Marco Meola](entities/people/marco-meola.md) | CEO & Co-founder of DATABIOMIX; inbound partner inquiry Jun 2026 |
+| [Jean-Marie Ndikumana](entities/people/jean-marie-ndikumana.md) | Team member; personnel management — staffing decisions, performance actions, hiring |
 
 ### Product & Engineering
 
