@@ -99,6 +99,22 @@ The inbound strategy is being translated into a Product Requirements Document (P
 - Execution playbook
 - Proof metrics
 
+## 5-Stage Inbound Marketing Conversion Framework (Jun 2026)
+
+Introduced in the 30 Jun 2026 Daily Learning session (Session 2). This is a structured funnel model shifting focus from purely outbound methods to a systematic lead capture and conversion flow. The framework has 5 stages (details to be documented — **Mahmud Bilow** is assigned to teach the model to all team members).
+
+The principle: inbound is not just about attracting attention, but moving people through defined stages toward becoming paying clients. Each stage has distinct actions and criteria for advancement. This mirrors StepUp.One's existing [Client Relationship Framework](../../../training-reskilling/client-relationship-framework.md) applied to the acquisition funnel.
+
+## LinkedIn Premium Duo for Team Members
+
+Decision from 30 Jun 2026 Session 2: the team will use **LinkedIn Premium Duo** subscriptions as the most cost-effective option for shared access. Cost: **2,100 shillings per person per month** (quarterly billing).
+
+- **Abdulkadir Mhina** is coordinating: collecting names, pairing team members, and communicating pair assignments
+- Team members pair up to share repayment responsibility
+- **Gloire Kwaami** and **Abdulkadir Mhina** to place the first order
+
+This is distinct from client LinkedIn Premium upgrades (managed by Mohamed Rafique per [Session Operations](../../../operations/session-operations.md)).
+
 ## Related Pages
 
 - [Outbound Strategy](../outbound/outbound-strategy.md) -- the direct messaging counterpart
