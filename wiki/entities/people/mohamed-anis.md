@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Anis"
 type: entity
-updated: 2026-06-23
+updated: 2026-06-30
 sources:
   - raw/gdrive/2026-04-13-daily-learning-0751.md
   - raw/gdrive/2026-04-13-daily-learning-1250.md
@@ -9,6 +9,8 @@ sources:
   - raw/gdrive/2026-04-14-daily-learning-0754.md
   - raw/gdrive/2026-04-15-daily-learning-0758.md
   - raw/gmail/2026-06-23-notes-stepup-one-daily-learning-23-jun-2026.md
+  - raw/gmail/2026-06-30-metal-upcoming-onboarding-call-rescheduled.md
+  - raw/gmail/2026-06-30-notes-stepup-one-daily-learning-30-jun-2026.md
 ---
 
 # Mohamed Anis
