@@ -48,7 +48,14 @@ Mohamed Anis personally builds the [Client Management Platform](../systems/clien
 - Collaborates with [Rivelino Rigters](rivelino-rigters.md) on AI curriculum for post-release youth in the Netherlands
 - Works closely with Farah Ibrahim (team leader), Mahmud Bilow, Patience Ciza, Mohamed sharmuge Mohamed, Abdulkadir Mhina, and the broader team
 
-## Open Action Items (as of 2026-06-23)
+## Travel
+
+Anis is travelling for approximately **3 weeks starting late June 2026** (South Korea → India → Sri Lanka). Expected return: last week of July 2026. During this period:
+- Ahmed Farhan holds day-to-day operations
+- No new strategic pivots — execute existing playbook
+- Metal.so onboarding call rescheduled to last week of July (see [Metal.so](../systems/metal-so.md))
+
+## Open Action Items (as of 2026-06-30)
 
 - **Meeting funnel:** Build a small funnel to capture the reason for a meeting when a potential lead books a session. Goal: prevent non-qualified leads from booking and improve conversion efficiency. (Assigned 23 Jun 2026 Daily Learning session.)
 
