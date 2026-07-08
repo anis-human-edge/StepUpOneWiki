@@ -44,7 +44,15 @@ Ahmed Farhan is responsible for assigning accelerator lakes to each team member 
 - Alliance team → CNT for other assigned targets
 - Patience Ciza → Techstars lake ownership
 
-## Open Action Items (as of 2026-06-28)
+## Open Action Items (as of 2026-06-30)
+
+### From 30 Jun 2026
+
+- **Analyze disengaged contacts:** Evaluate contacts who engaged initially but stopped responding. Share findings with the team by 2 Jul 2026. Goal: identify patterns and build a re-engagement strategy.
+- **Coach Kaddafi:** Work closely with Kaddafi (Kadafi Rwango) to identify the right kind of prospects for outreach. Kaddafi needs targeted prospect selection guidance.
+- **Develop new target list:** Collaborate with the team to generate a fresh target list after current lists are fully utilized (see [Outbound Strategy — Lead Sourcing](../../clients-partnerships/win-new/outbound/outbound-strategy.md)).
+
+### From 28 Jun 2026 (carried over)
 
 ### From 27 Jun 2026 — 7-Stage Framework + Meta Platform
 
