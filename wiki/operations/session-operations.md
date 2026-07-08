@@ -188,6 +188,17 @@ Confirmed principle: always follow up personally, never with AI-generated messag
 - AI-generated follow-ups "shoot yourself in the foot"
 - Maximum research time before a pitch: 30 minutes to 1 hour
 
+## Personnel Management (Jun 2026)
+
+Managed by **[Jean-Marie Ndikumana](../entities/people/jean-marie-ndikumana.md)**:
+
+- **Huda** — terminated 30 Jun 2026. Departure finalized due to lack of commitment. Jean-Marie is tasked with finding a replacement without transferring responsibilities to Sharmug.
+- **Samson Bertrand** — on performance management as of 30 Jun 2026. Authorized payment of 10k for the month; compensation levels adjusted to reflect recent performance. Jean-Marie is monitoring task execution closely to evaluate improvement.
+
+## LinkedIn Premium Duo for Team (Jun 2026)
+
+Decision from 30 Jun 2026 Session 2: team members adopt **LinkedIn Premium Duo** subscriptions at 2,100 shillings per person per month. Team members pair up; **Abdulkadir Mhina** coordinates pairing and activation. See [Inbound Strategy](../clients-partnerships/win-new/inbound/inbound-strategy.md) for full details.
+
 ## Related Pages
 
 - [Teaching Methodology](../training-reskilling/teaching-methodology.md)
