@@ -134,6 +134,28 @@ The method: comment with a specific point of view on a post, then send a connect
 
 When leads come in through this channel, update the meeting setup with conversation history so the full team can evaluate the prospect.
 
+## Contract and Engagement Policies (Jun 2026)
+
+### Minimum Contract Term
+
+A **mandatory 3-month minimum contract** was established as policy. Rationale: project delivery requires sufficient time to show results; shorter engagements create unviable client relationships. Any prospect requesting less than 3 months is declined or redirected.
+
+### Commission-Only Rejected
+
+Prospects requesting a commission-only or pay-per-success payment model are rejected. Basis: this model creates inefficient resource allocation and misaligned business risk. StepUp.One operates on a monthly subscription basis only. (See also: [Kushal](../../../entities/clients/kushal.md) — refused pay-per-success Jun 2026.)
+
+### Care-Based Communication
+
+The team has adopted a **care-based communication framework** for outbound outreach, explicitly moving away from aggressive sales tactics. The framing: genuine interest in the prospect's situation, not pressure. This does not conflict with the authority principle ([Authority in Sales](authority-in-sales.md)) — authority comes from confident positioning, not aggressive pushing.
+
+## Lead Sourcing: Contact List Exhaustion
+
+As of June 2026, existing contact lists in the CRM are fully utilized and approaching saturation. The team must develop new strategies for identifying fresh prospects. Active tasks:
+
+- Combine team insights to generate a new shared target list
+- Review individual LinkedIn connection counts for fractional executives and investors (network size determines sourcing depth)
+- Ahmed Farhan to analyze contacts who engaged but stopped responding (share findings within 2 days of 30 Jun 2026)
+
 ## Related Pages
 
 - [Inbound Strategy](../inbound/inbound-strategy.md) -- the parallel content-based strategy
