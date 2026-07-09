@@ -47,6 +47,12 @@ Anis's directive: Ahmed Farhan should analyze whether every function in Metal ca
 
 The comparison approach: for every click/action in Metal, find the equivalent in the internal CRM.
 
+## Onboarding Call
+
+The initial Metal.so onboarding call was scheduled for **30 Jun 2026** but was rescheduled by Hamza Janjua (Metal.so) to the **last week of July 2026**. The rescheduling was communicated via email and Anis confirmed the new timing.
+
+Anis was travelling internationally (South Korea → India → Sri Lanka, approximately 3 weeks starting late June) during this period, which aligned with the delay.
+
 ## Access
 
 Anis to share credentials with Ahmed Farhan (pending as of 2026-06-26).
