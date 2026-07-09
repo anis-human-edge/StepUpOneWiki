@@ -126,7 +126,7 @@ The wiki gets richer with every source added. Cross-references are maintained au
 
 | Page | Description |
 |------|-------------|
-| [Khadir Rangooni](entities/people/khadir-rangooni.md) | IC Impact Consulting; booked then cancelled founder meeting 25 Jun 2026; follow-up warranted |
+| [Khadir Rangooni](entities/people/khadir-rangooni.md) | IC Impact Consulting; booked then cancelled founder meeting 25 Jun 2026; offered Aston University MSc student project hosting Jul 2 (deadline passed) |
 | [Lewis](entities/people/lewis.md) | Hot inbound prospect (Australia); word-of-mouth; Anis 100% confident he will sign; Lewis video = PhD thesis on pitching |
 | [Pawan](entities/people/pawan.md) | Warm inbound prospect; word-of-mouth; product needs one improvement before GTM; days/weeks to close |
 
