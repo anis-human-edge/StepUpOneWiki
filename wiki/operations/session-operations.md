@@ -142,6 +142,17 @@ Anis is traveling internationally for approximately 3 weeks: **South Korea → I
 
 The Jul 8 session (08:02 BST) proceeded normally: pipeline metrics reviewed, outreach policy updates delivered, team performance discussed.
 
+## LinkedIn Premium Duo Policy (Jun–Jul 2026)
+
+LinkedIn Premium is being rolled out across the team using the **Premium Duo** plan — two users on one subscription at reduced cost.
+
+- **Cost:** 2,100 shillings per person per month (paired rate)
+- **Structure:** Team members pair up to share the Duo plan
+- **Responsible for posting cost breakdown:** Abdulkadir Mhina (assigned Jun 30 session)
+- **Teaching:** Mahmud Bilow assigned to teach the 5-stage inbound marketing model in conjunction with this rollout
+
+The Duo model allows the team to access LinkedIn Premium features (InMail, analytics, visibility) at half the individual cost by pairing.
+
 ## LinkedIn Premium Upgrade Protocol (Jun 2026)
 
 Some clients require LinkedIn premium account upgrades managed by the team. Process:
