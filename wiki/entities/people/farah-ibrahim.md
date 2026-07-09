@@ -45,6 +45,16 @@ Farah also pushes for practical application over theory: "We built thousands of 
 - **5 campaign ideas for client:** Compile 5 specific campaign strategy suggestions. Present to Mohamed Anis to facilitate discussion on implementation. (Assigned 24 Jun 2026.)
 - **Contact Zulfi and Raj:** Reach out to offer services and inquire about managing their accounts. (Assigned 24 Jun 2026.)
 
+## Jun 30, 2026: Australia Outreach Coaching
+
+Farah received coaching from Anis on how to handle the Australia client accounts outreach strategy.
+
+**The FOMO approach — rejected:** The team had been considering a FOMO-based ("fear of missing out") angle for outreach to Australian prospects. Anis rejected this framing as too manipulative and transactional for the relationship stage.
+
+**Anis's direction:** Use the 7-stage relationship framework and apply a **care-based approach** — focus on the prospect's actual situation, needs, and context (the CNT framework) rather than manufacturing urgency. The correct path is to move the prospect through Doubt → Harmless → Curious one step at a time, with genuine personalisation.
+
+**AI facilitation:** Anis advised Farah to use the AI (internal system) to help structure and draft the care-based messaging, then review it with human judgment before sending. The AI helps with scale and structure; the human ensures authenticity.
+
 ## Jun 25, 2026: Coordination Conflict and Disempowerment
 
 Farah expressed significant frustration about a perceived coordination failure: he felt that other team members (specifically Abdulkadir Mhina) had acted on his clients' accounts without informing him. He described it as feeling "underestimated as a team leader."
