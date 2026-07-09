@@ -110,7 +110,7 @@ The wiki gets richer with every source added. Cross-references are maintained au
 | [AI Landing Pages](entities/systems/ai-landing-pages.md) | AI-powered landing page creation (Studios) |
 | [Execution Engine](entities/systems/execution-engine.md) | Two-layer Foundation + Engine methodology powering all products |
 | [Reskilling Engine](entities/systems/reskilling-engine.md) | Training underserved populations into AI-amplified professionals |
-| [Metal.so](entities/systems/metal-so.md) | Fundraising platform (YC/Techstars partnerships); 30-day mastery target; potential client add-on at $200–300/mo |
+| [Metal.so](entities/systems/metal-so.md) | Fundraising platform (YC/Techstars partnerships); 30-day mastery target; potential client add-on at $200–300/mo; onboarding rescheduled to last week of Jul 2026 |
 
 ### Entities — Clients
 
