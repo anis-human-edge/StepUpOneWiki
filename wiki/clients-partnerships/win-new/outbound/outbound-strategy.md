@@ -137,6 +137,62 @@ The method: comment with a specific point of view on a post, then send a connect
 
 When leads come in through this channel, update the meeting setup with conversation history so the full team can evaluate the prospect.
 
+## Target List Status (as of Jul 2026)
+
+The fractional CXO target list — 23,437 contacts — was **fully exhausted** by end of June 2026. Every contact on that list has been messaged. The team needs new sourcing before outbound can continue at scale.
+
+New sourcing directions under discussion as of Jun 30 session:
+- **Accelerators** — partner with or scrape from YC, Techstars, Plug and Play, etc. for fresh founder lists
+- **Incubators** — similar population, earlier stage
+- **Open VC** — a curated, open-access list of venture-backed founders
+
+The immediate next step (assigned to Ahmed Farhan): identify and upload a new target list to the CRM by **Friday Jul 11, 2026**.
+
+## ICP Restriction: Founders and CEOs Only
+
+As of the Jul 8 session, StepUp.One's outbound ICP for the fundraising and GTM engines is restricted to **Founders and CEOs only**. Non-founders (journalists, analysts, operators without founding roles) are explicitly excluded.
+
+Reason: past outreach to non-founders produced no conversions and diluted campaign data. Every outreach message sent to a non-Founder/CEO is wasted capacity.
+
+## Booking Link Protocol
+
+**Never include a booking/calendar link in the first outreach message.**
+
+Evidence: 3 confirmed ghostings were attributed to sending a calendar link in the initial message. The recipient feels immediately "sold to" — the link signals that the outreach is a sales play, triggering the same doubt response as a direct pitch. The prospect disengages before reading the value proposition.
+
+Correct sequence:
+1. First message: value-oriented opener, no link
+2. Second or third message: offer to connect/explore further
+3. Only share the booking link *after* the prospect has shown genuine interest
+
+## Commission-Only and Pay-Per-Success Policy
+
+StepUp.One does not accept commission-only or pay-per-success fee arrangements. When prospects or clients propose this model, decline clearly.
+
+Evidence: approximately 99% of the time, prospects who request pay-per-success are signalling that they do not believe enough in the service to pay upfront — not that they lack budget. Accepting these terms creates misaligned incentives and devalues the service.
+
+**Standard response:** StepUp.One operates on a monthly subscription model. The value is in the daily execution and systems built — not in the individual outcome per prospect.
+
+## 3-Month Minimum Contract
+
+StepUp.One requires a **3-month minimum commitment** from all clients. This is non-negotiable and must be stated clearly at the close stage.
+
+Reason: outbound campaigns take time to produce results. The first month is list building and testing. The second month is momentum. The third month is where meetings compound. Any shorter engagement produces insufficient data and almost certainly under-delivers — which harms both the client and StepUp.One's reputation.
+
+## Active Pipeline Metrics (Jul 2026)
+
+Current pipeline snapshot from the Jul 8 session:
+
+| Stage | Count |
+|-------|-------|
+| Educate | 28 |
+| Convince | 22 |
+| Meetings | 18 |
+
+Total active opportunities across all three active stages: 68.
+
+Note: these are not cumulative historical counts — they represent live opportunities currently being worked.
+
 ## Related Pages
 
 - [Inbound Strategy](../inbound/inbound-strategy.md) -- the parallel content-based strategy
