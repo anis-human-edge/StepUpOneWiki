@@ -207,6 +207,8 @@ Not all relationships are equal. Confusing relationship with trust, or trust wit
 
 **Transactional is not bad.** 90% of all business globally, including Infosys with 300,000 employees, runs on transactional work relationships. It is not a failure mode — it is the normal mode of professional life.
 
+**Transactional is the necessary first rung, not the goal.** Nobody starts wanting a relationship — they start with doubt (Stage 1). The transactional level is what you earn after moving someone through Doubt → Harmless → Curious and into a working engagement. It is the beginning of a real relationship, not the end of one. Moving beyond transactional to Trusted and Outcome requires consistently delivering value over time — it cannot be rushed or manufactured.
+
 **Trusted is rare and hard-won.** Anis has built trusted relationships with perhaps five people over 30 years of active networking. Getting there requires sustained value delivery over time.
 
 **Outcome is above trusted.** Trusted means they believe in you. Outcome means they act at scale because of it. Example: calling a Fortune 500 CEO you have a trusted relationship with and asking them to hire 1,000 people from StepUp.One — and them saying yes. That is an outcome relationship.
