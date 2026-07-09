@@ -132,6 +132,16 @@ Mohamed Anis will be away for **both July and August 2026** (two full months). H
 - Team was told: "You will make a killing actually" — momentum is there, trust the system
 - Anis's pitch style does not rely on personal credentials; the core idea is what any team member can present
 
+### Anis Travel Itinerary (Late Jun – Late Jul 2026)
+
+Anis is traveling internationally for approximately 3 weeks: **South Korea → India → Sri Lanka**. Departure was late June 2026; return expected late July 2026.
+
+### Session Leadership in Anis's Absence
+
+**Mohamed Sharmuge Mohamed** is leading the daily sessions while Anis is away, as confirmed by the Jul 8, 2026 session. The session structure and cadence continue as normal — Sharmuge leads from the chair with the same format.
+
+The Jul 8 session (08:02 BST) proceeded normally: pipeline metrics reviewed, outreach policy updates delivered, team performance discussed.
+
 ## LinkedIn Premium Upgrade Protocol (Jun 2026)
 
 Some clients require LinkedIn premium account upgrades managed by the team. Process:
