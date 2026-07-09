@@ -1,11 +1,41 @@
 ---
 title: "Wiki Log"
 type: overview
-updated: 2026-06-30
+updated: 2026-07-09
 sources: []
 ---
 
 # Wiki Log
+
+## [2026-07-09] ingest | 9 sources from Jun 30–Jul 8 2026 (GDrive + Gmail)
+
+**Sources ingested (9):**
+- `raw/gdrive/2026-06-30-stepup-one-daily-learning-0803-bst-notes-by-gemini-1OVmF_BemucXvov.md` — Jun 30 morning session: fractional CXO target list (23,437) fully exhausted; new sourcing strategy needed; client reviews (Ali M, Troy Events, Linda Munday, Aron, John Burton); Nathan George rejected commission-only; 3-month minimum contract formalised; Jean-Marie Ndikumana reported Huda termination and Samson salary sanction.
+- `raw/gdrive/2026-06-30-stepup-one-daily-learning-1259-bst-notes-by-gemini-1VZ5Nb7246HVh.md` — Jun 30 afternoon session: LinkedIn Premium Duo (2,100 shillings/person/month), 5-stage inbound marketing model. (Duplicate of morning content plus afternoon additions.)
+- `raw/gmail/2026-06-30-metal-onboarding-call-rescheduled-to-last-week-july.md` — Email thread: Metal.so onboarding call rescheduled from Jun 30 to last week of July; Anis confirmed traveling South Korea → India → Sri Lanka ~3 weeks.
+- `raw/gmail/2026-06-30-notes-stepup-one-daily-learning-30-jun-2026.md` — Gmail Gemini notes for Jun 30 (two sessions). Same content as GDrive files; confirms LinkedIn Premium Duo policy and 5-stage inbound model; Abdulkadir Mhina to post Duo cost, Mahmud Bilow to teach 5-stage inbound.
+- `raw/gmail/2026-07-01-deborah-meaden-human-edge-your-business-magazine.md` — Inbound pitch from Filippa (Your Business Magazine, 18 years, UK SME audience). Deborah Meaden + James Caan confirmed for next issue. Requested Robin's calendar. No wiki action taken — filed for awareness; requires Anis response.
+- `raw/gmail/2026-07-02-impact-consulting-meeting-follow-up-next-steps.md` — Follow-up from Khadir Rangooni: offered to host StepUp.One for Aston University MSc Investment Analysis & Risk student project. Project Tool form link sent; deadline end of Thu Jul 2 (now passed).
+- `raw/gmail/2026-07-06-pe-transformation-lead-gen.md` — Email from Willie Bass Jr. (WC Bass Enterprises, Managing Partner) introducing a "WP Alum" working on PE transformation who may need lead gen services. Cc'd sanju@forwardai.dev.
+- `raw/gdrive/2026-07-08-stepup-one-daily-learning-0802-bst-notes-by-gemini-1DB07PGDTZ9wIawbLquZc5MEulxT1qafj03XJhNQfAZk.md` — Jul 8 session: outreach policy updates (no booking links, no "we are both attending," Founders/CEOs only); Yasin Mohamed independently sourced Founders and Funders Chicago event (45–53 leads); pipeline metrics 28/22/18 (educate/convince/meetings); AI Studio malfunction; Mame Trafi $25.9 AI usage; 56 registered users; 22K impression LinkedIn comment success.
+- `raw/gmail/2026-07-08-notes-stepup-one-daily-learning-8-jul-2026.md` — Gmail duplicate of Jul 8 GDrive session notes. Confirms same content.
+
+**Wiki pages created (3):**
+- `wiki/entities/people/jean-marie-ndikumana.md` — Team leader; reported Huda termination and Samson salary sanction in Jun 30 session.
+- `wiki/entities/people/yasin-mohamed.md` — Team member; independently sourced Founders and Funders Chicago event (45–53 leads, Jul 8 session).
+- `wiki/entities/people/willie-bass-jr.md` — Managing Partner, WC Bass Enterprises; warm inbound intro to unnamed PE transformation prospect, Jul 6 2026.
+
+**Wiki pages updated (10):**
+- `wiki/entities/systems/metal-so.md` — Added onboarding call rescheduling (Jun 30 → last week of July) and Anis travel context.
+- `wiki/entities/people/khadir-rangooni.md` — Added Aston University student project offer (Jun 30) and Jul 2 follow-up; noted deadline has passed.
+- `wiki/entities/partners/ic-impact-consulting.md` — Updated status from prospect to potential academic collaboration partner; added engagement timeline.
+- `wiki/clients-partnerships/win-new/outbound/outbound-strategy.md` — Added 5 new sections: Target List Status (23,437 fractional CXOs exhausted), ICP Restriction (Founders/CEOs only), Booking Link Protocol (never in first message, 3 confirmed ghostings), Commission-Only Policy (no exceptions), 3-Month Minimum Contract, Active Pipeline Metrics (28/22/18).
+- `wiki/training-reskilling/client-relationship-framework.md` — Added clarification to the Transactional level: transactional is the necessary first rung after Doubt, not the end goal; moving beyond it requires sustained value delivery.
+- `wiki/entities/people/ahmed-farhan.md` — Added new action item block (Jul 8: new target list by Friday, no-booking-link enforcement, Founders/CEOs-only enforcement; Jun 30: analyze silent contacts, coach Kaddafi, new sourcing strategy).
+- `wiki/entities/people/farah-ibrahim.md` — Added Jun 30 section: Australia outreach coaching — FOMO approach rejected; Anis directed care-based approach using 7-stage framework + AI assistance.
+- `wiki/operations/session-operations.md` — Added Anis travel itinerary (South Korea → India → Sri Lanka ~3 weeks), confirmed Mohamed Sharmuge Mohamed leading daily sessions in Anis's absence (Jul 8 confirmed), added LinkedIn Premium Duo policy section (2,100 shillings/person/month).
+- `wiki/index.md` — Added 3 new people pages; updated Metal.so, Khadir Rangooni, IC Impact Consulting, and Outbound Strategy descriptions; updated date.
+- `wiki/log.md` — This entry.
 
 ## [2026-06-30] ingest | GDrive farm — Jun 29 Karen & Anis meeting notes + Daily Learning transcript
 
