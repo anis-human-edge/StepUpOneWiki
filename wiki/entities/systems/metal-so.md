@@ -1,9 +1,10 @@
 ---
 title: "Metal.so"
 type: entity
-updated: 2026-06-27
+updated: 2026-07-09
 sources:
   - raw/gdrive/2026-06-26-stepup-one-daily-learning-0803-bst-notes-by-gemini-11GirnzWyncp261YeQKgMlmnJV-nTsZ-MD6UadSZP5Bs.md
+  - raw/gmail/2026-06-30-metal-onboarding-call-rescheduled-to-last-week-july.md
 ---
 
 # Metal.so
