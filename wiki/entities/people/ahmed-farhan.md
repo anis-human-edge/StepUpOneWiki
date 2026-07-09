@@ -47,6 +47,21 @@ Ahmed Farhan is responsible for assigning accelerator lakes to each team member 
 - Alliance team → CNT for other assigned targets
 - Patience Ciza → Techstars lake ownership
 
+## Open Action Items (as of 2026-07-09)
+
+### From 8 Jul 2026 — Outreach Refinements + New Target List
+
+- **Upload new target list by Friday (Jul 11):** The fractional CXO list of 23,437 has been fully exhausted. Ahmed Farhan is responsible for sourcing and uploading a new target list to the CRM. Suggested sources: accelerators (YC, Techstars, Plug and Play), incubators, Open VC.
+- **Enforce no-booking-link policy:** Ensure all team members are aware that calendar/booking links must never appear in initial outreach messages. Three ghostings were confirmed as linked to this behaviour. Communicate the rule to the full team.
+- **Enforce Founders/CEOs-only ICP rule:** Review ongoing campaigns and remove any non-founder contacts (journalists, analysts, operators without founding roles). Going forward, only Founders and CEOs are valid targets for the fundraising and GTM engines.
+- **Enforce no "we are both attending" language:** This phrase in outreach messages was flagged as ineffective and should be removed from all templates.
+
+### From 30 Jun 2026 — Target List Exhausted + Client Reviews
+
+- **Analyze silent / non-responding contacts:** Pull from CRM all contacts who have been messaged but never responded. Categorise by source, timing, and message type. Identify patterns — is the silence clustered around a particular list, message, or period? Share findings. (Due approximately Jul 2 — now overdue.)
+- **Coach Kaddafi on prospect qualification:** Kaddafi was coached on how to distinguish a good prospect from a bad one. Ahmed Farhan to follow up to ensure the teaching has landed and Kaddafi is applying the qualification framework independently.
+- **New sourcing strategy ideation:** Lead the discussion on where to find the next target list now that the fractional CXO list is exhausted. Evaluate accelerators, incubators, Open VC as sourcing pools.
+
 ## Open Action Items (as of 2026-06-28)
 
 ### From 27 Jun 2026 — 7-Stage Framework + Meta Platform
