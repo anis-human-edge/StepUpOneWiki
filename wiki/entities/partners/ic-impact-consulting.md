@@ -1,9 +1,10 @@
 ---
 title: "IC Impact Consulting"
 type: entity
-updated: 2026-06-25
+updated: 2026-07-09
 sources:
   - raw/gmail/2026-06-25-appointment-cancelled-khadir-rangooni-ic-impact-consulting.md
+  - raw/gmail/2026-07-02-impact-consulting-meeting-follow-up-next-steps.md
 ---
 
 # IC Impact Consulting
