@@ -138,4 +138,4 @@ The wiki gets richer with every source added. Cross-references are maintained au
 | [CEO Coaches](entities/partners/ceo-coaches.md) | Partner type: coaches referring executives to influence/transition engines |
 | [Deal Advisors](entities/partners/deal-advisors.md) | Partner type: M&A advisors partnering on exit engine deals |
 | [DATABIOMIX](entities/partners/databiomix.md) | Swiss company; inbound pitch from CEO Marco Meola, Jun 2026; deck under review |
-| [IC Impact Consulting](entities/partners/ic-impact-consulting.md) | Consulting firm; Khadir Rangooni booked then cancelled founder meeting 25 Jun 2026 |
+| [IC Impact Consulting](entities/partners/ic-impact-consulting.md) | Consulting firm; transitioned from prospect to potential Aston University academic collaboration; student project deadline Jul 2 (status unknown) |
