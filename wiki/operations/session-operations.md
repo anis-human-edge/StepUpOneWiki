@@ -142,6 +142,24 @@ Anis is traveling internationally for approximately 3 weeks: **South Korea → I
 
 The Jul 8 session (08:02 BST) proceeded normally: pipeline metrics reviewed, outreach policy updates delivered, team performance discussed.
 
+## Growth Timetable (Jul 2026)
+
+Introduced for team members who do not currently manage active client work. Organizes the day into 30-minute intervals across three activities:
+
+| Slot | Activity | Focus |
+|------|----------|-------|
+| 30 min | **Opportunities** | Review existing CRM opportunities. Filter by name. Check stages: first follow-up, second follow-up, third follow-up. Who responded, who didn't, what's next. |
+| 30 min | **Fractional CXOs** | Navigate the fractional CXO list. How many sent connections? How many connected back? How many engaging? What's the next action for each? |
+| 30 min | **Network building** | Send new connection requests. Upload 20 new targets to outreach list. Build the Excel tracker for batch CRM import. |
+
+Total: 90 minutes of structured daily work.
+
+**Purpose:** Build disciplined routine rather than random daily action. "When I wake up I have one two three four — you clear this one, at the end of the day you can ask yourself what did I achieve today."
+
+**Validation:** Hamza Ahmed piloted the timetable and reported significant improvement in time management and concentration — no longer multitasking during meetings. See [Hamza Ahmed](../entities/people/hamza-ahmed.md).
+
+The timetable is available in the team group chat. It applies to team members without client work; a separate timetable for client-facing members is planned.
+
 ## LinkedIn Premium Duo Policy (Jun–Jul 2026)
 
 LinkedIn Premium is being rolled out across the team using the **Premium Duo** plan — two users on one subscription at reduced cost.
