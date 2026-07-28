@@ -27,6 +27,16 @@ Team member at StepUp.One focused on CRM dashboards and opportunity tracking.
 
 Hamza's manual data entry into Excel became a key teaching moment about sustainable leadership: building systems that auto-update rather than manually maintaining external dashboards that will inevitably be abandoned.
 
+## Growth Timetable Feedback (Jul 2026)
+
+Hamza Ahmed was among the first team members to test the Growth Timetable — the structured 30-minute interval daily routine introduced for team members without active client work. He reported significant improvement in time management and concentration:
+
+> "Previously I used to do everything randomly... now I get very potential for my things."
+
+He noted that before the timetable, he would multitask during meetings (doing LinkedIn follow-up while attending), causing poor concentration. The timetable created clear transitions between activities: 30 minutes on existing opportunities → 30 minutes on fractional CXOs → 30 minutes on new connection building.
+
+His feedback validated the timetable for broader rollout to the team.
+
 ## CNT Assignment (June 2026)
 
 Hamza Ahmed and a colleague named Gun were assigned by Mohamed Anis to develop the CNT (Context, Need, Timing) strategy for **fractional Chief Experience Officers (CXOs)**. The task is to identify the "vegetable market" for fractional CXOs — what space do they enter when actively seeking new engagements? This is considered a high-value ICP because fractional CXOs are highly receptive to StepUp.One's services.
