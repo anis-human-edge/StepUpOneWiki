@@ -1,11 +1,28 @@
 ---
 title: "Wiki Log"
 type: overview
-updated: 2026-07-09
+updated: 2026-07-28
 sources: []
 ---
 
 # Wiki Log
+
+## [2026-07-28] ingest | 2 GDrive files from Jul 25–27 2026
+
+**Sources ingested (2):**
+- `raw/gdrive/2026-07-27-stepup-one-daily-learning-0800-bst-notes-by-gemini-1UWCNuQMJ3WasOgAxH6V_1RdNq1co1p1vuSjyjhVVmmY.md` — Jul 27 morning session: CRM dashboard updates, growth timetable (3×30 min) validated by Hamza Ahmed, Phantom Buster troubleshooting, CXO Influence Engine reframed as thought leadership (not lead gen), niche-first strategy, Troy Evans follow-up, meeting attendance improvement via WhatsApp.
+- `raw/gdrive/2026-07-25-gemini-export-25-july-2026-lukasz-urban-1-Rm6ZmIR_A6wsGKZz2E80KqeGx-PRFj-a2xbL3gLmJQ.md` — Gemini export summary of Jun 16 meeting with Lukasz Urban: fractional CFO building AI-native cash flow tool for Germany/Poland; agreed to delegate sales outreach to StepUp.One (~$400/mo); Anis interested in partnership on the product itself.
+
+**Pages created (2):**
+- `wiki/entities/people/troy-evans.md` — Prospect; recorded meeting Jul 22; flagged by Anis for active follow-up.
+- `wiki/entities/people/lukasz-urban.md` — Fractional CFO / finance consultant; building AI-native cash flow management tool; partnership agreed in principle Jun 16.
+
+**Pages updated (5):**
+- `wiki/entities/systems/cxo-influence-engine.md` — Added strategic clarification: engine is thought leadership, not lead generation; must start with a sharp niche; wrong to mix with lead gen; who the right buyer is.
+- `wiki/entities/people/ahmed-farhan.md` — Added Jul 27 action items: refine CXO strategy with niche, increase WhatsApp follow-up on booked meetings, follow up Troy Evans, roll out growth timetable.
+- `wiki/entities/people/hamza-ahmed.md` — Added growth timetable pilot feedback (significant improvement in time management and meeting concentration).
+- `wiki/operations/session-operations.md` — Added Growth Timetable section with 3×30-min structure and Hamza's validation.
+- `wiki/index.md` — Added Troy Evans and Lukasz Urban to people catalog.
 
 ## [2026-07-09] ingest | 9 sources from Jun 30–Jul 8 2026 (GDrive + Gmail)
 
