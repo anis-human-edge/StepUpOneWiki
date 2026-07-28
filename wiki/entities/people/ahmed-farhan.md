@@ -48,6 +48,15 @@ Ahmed Farhan is responsible for assigning accelerator lakes to each team member 
 - Alliance team → CNT for other assigned targets
 - Patience Ciza → Techstars lake ownership
 
+## Open Action Items (as of 2026-07-27)
+
+### From 27 Jul 2026 — CXO Influence Engine Reframing
+
+- **Refine CXO Influence Engine strategy:** The current strategy and target list are completely wrong per Anis. Must restart with a specific niche (e.g., AI + cybersecurity, healthcare + AI, data + AI) rather than broad CEO/CXO targeting. Understand the distinction: the engine is thought leadership, not lead generation. These are two different products for two different buyers. Present the refined strategy, niche selection, and updated target list the following day.
+- **Increase meeting attendance rate:** Prospects are booked but not showing up. Add WhatsApp outreach to the existing email sequence to increase communication density between booking and meeting. The officer CEO email must also be sent via WhatsApp.
+- **Follow up with Troy Evans:** Anis flagged Troy Evans as a good prospect. Ensure active follow-up is in progress.
+- **Implement Growth Timetable for team:** The 30-minute interval timetable is validated (Hamza Ahmed reported improved time management and concentration). Ensure all team members without client work have integrated it into their routines.
+
 ## Open Action Items (as of 2026-07-09)
 
 ### From 8 Jul 2026 — Outreach Refinements + New Target List
