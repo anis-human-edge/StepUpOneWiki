@@ -84,6 +84,7 @@ The wiki gets richer with every source added. Cross-references are maintained au
 | [Willie Bass Jr.](entities/people/willie-bass-jr.md) | Managing Partner at WC Bass Enterprises (globalwcgroup.com); warm inbound intro to PE transformation prospect, Jul 6 |
 | [Lukasz Urban](entities/people/lukasz-urban.md) | Fractional CFO building AI-native cash flow management tool (Germany/Poland); met with Anis Jun 16; agreed to delegate outreach to StepUp.One (~$400/mo) |
 | [Troy Evans](entities/people/troy-evans.md) | Prospect; recorded meeting with Anis Jul 22; Anis flagged as "a good guy" and assigned follow-up to Ahmed Farhan (Jul 27) |
+| [Laura Cortizo](entities/people/laura-cortizo.md) | Prospect; met with Anis Jul 28; recording in Drive; Ahmed Farhan assigned pre-meeting email |
 
 ### Product & Engineering
 
