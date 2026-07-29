@@ -5,6 +5,7 @@ updated: 2026-07-28
 sources:
   - raw/website/2026-04-16-cxo-influencer.md
   - raw/gdrive/2026-07-27-stepup-one-daily-learning-0800-bst-notes-by-gemini-1UWCNuQMJ3WasOgAxH6V_1RdNq1co1p1vuSjyjhVVmmY.md
+  - raw/gmail/2026-07-27-notes-stepup-one-daily-learning-27-jul-2026.md
 ---
 
 # CXO Influence Engine
