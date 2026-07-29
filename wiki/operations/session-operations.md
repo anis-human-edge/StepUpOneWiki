@@ -18,6 +18,9 @@ sources:
   - raw/gmail/2026-06-30-notes-stepup-one-daily-learning-30-jun-2026.md
   - raw/gdrive/2026-07-08-stepup-one-daily-learning-0802-bst-notes-by-gemini-1DB07PGDTZ9wIawbLquZc5MEulxT1qafj03XJhNQfAZk.md
   - raw/gmail/2026-07-08-notes-stepup-one-daily-learning-8-jul-2026.md
+  - raw/gmail/2026-07-27-notes-stepup-one-daily-learning-27-jul-2026.md
+  - raw/gmail/2026-07-28-notes-stepup-one-daily-learning-28-jul-2026.md
+updated: 2026-07-29
 ---
 
 # Daily Learning Session Operations
