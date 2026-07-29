@@ -7,6 +7,25 @@ sources: []
 
 # Wiki Log
 
+## [2026-07-29] ingest | 3 Gmail files from Jul 27–28 2026
+
+**Sources ingested (3):**
+- `raw/gmail/2026-07-27-notes-stepup-one-daily-learning-27-jul-2026.md` — Gemini notes from Jul 27 session (same session already ingested from GDrive); Phantom Buster troubleshooting, CXO Influence Engine as thought leadership, CRM dashboard updates, Troy Evans follow-up, WhatsApp outreach for no-show reduction.
+- `raw/gmail/2026-07-28-notes-stepup-one-daily-learning-28-jul-2026.md` — Jul 28 session: opportunity reclassification (gold/bronze priority tiers), stricter pre-meeting qualification, QuickMail subscription ($49) approved to unblock LinkedIn outreach, personalized vs automated messaging issue identified, AI job application tool idea (100 jobs for clients), commenting system troubleshooting, Dr. Chris research, Michael fundraising follow-up.
+- `raw/gmail/2026-07-28-meeting-records-laura-cortizo-stepup-one-founder.md` — Google Meet records confirming Anis–Laura Cortizo prospect meeting on Jul 28; recording link captured.
+
+**Pages created (1):**
+- `wiki/entities/people/laura-cortizo.md` — New prospect; met with Anis Jul 28; limited details until meeting notes ingested.
+
+**Pages updated (7):**
+- `wiki/entities/people/ahmed-farhan.md` — Added Jul 28 action items: email Laura Cortizo, process QuickMail subscription.
+- `wiki/entities/people/mohamed-anis.md` — Added Jul 28 action items: research Dr. Chris, fix commenting system, contact Michael, fund QuickMail ($49), investigate AI job application tool, evaluate AI for lead engagement.
+- `wiki/clients-partnerships/win-new/outbound/outbound-strategy.md` — Added pipeline reclassification (gold/bronze tiers), stricter qualification policy, QuickMail tooling, personalized vs automated messaging finding.
+- `wiki/operations/session-operations.md` — Added Jul 28 session highlights: qualification tightening, messaging quality, QuickMail, AI job application tool, commenting system issues.
+- `wiki/entities/systems/cxo-influence-engine.md` — Added Jul 27 Gmail source.
+- `wiki/entities/people/troy-evans.md` — Added Jul 27 Gmail source.
+- `wiki/index.md` — Added Laura Cortizo to people catalog.
+
 ## [2026-07-28] ingest | 2 GDrive files from Jul 25–27 2026
 
 **Sources ingested (2):**
