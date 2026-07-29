@@ -51,6 +51,13 @@ Ahmed Farhan is responsible for assigning accelerator lakes to each team member 
 - Alliance team → CNT for other assigned targets
 - Patience Ciza → Techstars lake ownership
 
+## Open Action Items (as of 2026-07-28)
+
+### From 28 Jul 2026 — QuickMail + Laura Cortizo
+
+- **Email Laura Cortizo:** Send an email outlining StepUp.One's services before the scheduled meeting with Anis. (Meeting took place Jul 28 — see [Laura Cortizo](laura-cortizo.md).)
+- **Process QuickMail subscription:** Subscribe to the selected plan on the QuickMail platform. Execute the first set of automated lead engagement messages to unblock LinkedIn outreach pipeline.
+
 ## Open Action Items (as of 2026-07-27)
 
 ### From 27 Jul 2026 — CXO Influence Engine Reframing
