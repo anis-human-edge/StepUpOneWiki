@@ -233,6 +233,26 @@ Confirmed principle: always follow up personally, never with AI-generated messag
 - AI-generated follow-ups "shoot yourself in the foot"
 - Maximum research time before a pitch: 30 minutes to 1 hour
 
+## Jul 28, 2026 Session Highlights
+
+Key topics and decisions from the Jul 28 Daily Learning session:
+
+### CRM and Qualification Tightening
+- Opportunities reclassified into stages including educate, convince, gold, and bronze. Gold and bronze are priority follow-up tiers.
+- Stricter pre-meeting qualification mandated to cut no-show rates — only prepared, qualified clients proceed to scheduling.
+
+### Messaging Quality
+- Generic, automated responses identified as a pipeline problem. Messages must include specific client references to demonstrate research and credibility.
+
+### QuickMail Subscription Approved
+- QuickMail ($49/month) approved by Anis to bypass technical limitations in managing LinkedIn outreach. Ahmed Farhan responsible for subscribing and running the first batch of automated lead engagement messages.
+
+### AI Job Application Tool (New Product Direction)
+- Anis assigned investigation of a potential new product: an AI tool that automatically applies for 100 jobs on behalf of clients. This would serve the [Career Launchpad](../entities/systems/career-launchpad.md) and [Reskilling Engine](../entities/systems/reskilling-engine.md) audiences — underserved populations entering the workforce.
+
+### Commenting System Issues
+- The automated comment generation system is experiencing technical issues. Anis assigned to troubleshoot and restore functionality.
+
 ## Related Pages
 
 - [Teaching Methodology](../training-reskilling/teaching-methodology.md)
