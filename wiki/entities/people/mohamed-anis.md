@@ -48,6 +48,17 @@ Mohamed Anis personally builds the [Client Management Platform](../systems/clien
 - Collaborates with [Rivelino Rigters](rivelino-rigters.md) on AI curriculum for post-release youth in the Netherlands
 - Works closely with Farah Ibrahim (team leader), Mahmud Bilow, Patience Ciza, Mohamed sharmuge Mohamed, Abdulkadir Mhina, and the broader team
 
+## Open Action Items (as of 2026-07-28)
+
+### From 28 Jul 2026 — AI Tools, Operations, Pipeline
+
+- **Research Dr. Chris:** Review Dr. Chris's profile and history to understand his goals ahead of the scheduled meeting.
+- **Fix commenting system:** Troubleshoot system issues currently blocking automatic comment generation for the inbound strategy.
+- **Contact Michael:** Follow up to confirm Michael has read the fundraising documents and understands the StepUp.One service.
+- **Fund QuickMail subscription:** Provide $49 to cover the QuickMail subscription. This was approved in the Jul 28 session to unblock LinkedIn outreach pipeline management.
+- **Investigate AI job application tool:** Explore building an AI tool that automatically applies for 100 jobs on behalf of clients — a potential new product for the [Career Launchpad](../systems/career-launchpad.md) and [Reskilling Engine](../systems/reskilling-engine.md).
+- **Evaluate AI for lead engagement:** Assess feasibility of using AI to handle early-stage lead engagement tasks.
+
 ## Open Action Items (as of 2026-06-23)
 
 - **Meeting funnel:** Build a small funnel to capture the reason for a meeting when a potential lead books a session. Goal: prevent non-qualified leads from booking and improve conversion efficiency. (Assigned 23 Jun 2026 Daily Learning session.)
