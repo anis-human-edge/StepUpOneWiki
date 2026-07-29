@@ -194,6 +194,27 @@ Total active opportunities across all three active stages: 68.
 
 Note: these are not cumulative historical counts — they represent live opportunities currently being worked.
 
+## Pipeline Stage Reclassification (Jul 2026)
+
+From the Jul 28, 2026 session: the team reclassified client opportunities to prioritize high-potential leads. Pipeline stages in use include **educate**, **convince**, **gold**, and **bronze** — with gold and bronze representing priority tiers for follow-up engagement. Team members are directed to actively work all four stages and prioritize contacts in gold and bronze.
+
+## Stricter Pre-Meeting Qualification (Jul 2026)
+
+From the Jul 28 session: the team mandated stricter pre-meeting qualification processes to reduce no-show rates. Only clients who pass qualification proceed to scheduling. This builds on the website qualification funnel (see [Inbound Strategy](../inbound/inbound-strategy.md)) and applies to outbound-booked meetings as well.
+
+Goal: reduce wasted meeting slots where prospects book but don't show. Combined with WhatsApp follow-up (from the Jul 27 session), qualification and communication density together are the two-pronged approach to improving attendance.
+
+## Outreach Tooling: QuickMail (Jul 2026)
+
+The team approved a **QuickMail subscription ($49/month)** in the Jul 28, 2026 session to bypass technical limitations and manage LinkedIn outreach pipeline. QuickMail is being evaluated as the primary tool for running automated lead engagement messages at scale.
+
+**Owner:** Ahmed Farhan (subscription setup and first message batch)
+**Approved by:** Mohamed Anis ($49 funded)
+
+## Personalized vs. Automated Messaging (Jul 2026)
+
+A key finding from the Jul 28 session: generic, automated responses are degrading pipeline quality. Prospects can detect templated messages and disengage. The corrective: outreach must include specific client references — demonstrating that the sender has researched the prospect — to credibly show value before asking for a meeting.
+
 ## Related Pages
 
 - [Inbound Strategy](../inbound/inbound-strategy.md) -- the parallel content-based strategy
