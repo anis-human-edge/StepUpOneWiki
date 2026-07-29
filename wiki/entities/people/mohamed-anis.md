@@ -9,6 +9,8 @@ sources:
   - raw/gdrive/2026-04-14-daily-learning-0754.md
   - raw/gdrive/2026-04-15-daily-learning-0758.md
   - raw/gmail/2026-06-23-notes-stepup-one-daily-learning-23-jun-2026.md
+  - raw/gmail/2026-07-28-notes-stepup-one-daily-learning-28-jul-2026.md
+updated: 2026-07-29
 ---
 
 # Mohamed Anis
