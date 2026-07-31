@@ -1,13 +1,14 @@
 ---
 source: farmer/gdrive
-farmed: 2026-07-09T00:00:00Z
+farmed: 2026-07-31T05:48:02Z
 drive_id: 1DB07PGDTZ9wIawbLquZc5MEulxT1qafj03XJhNQfAZk
 title: "StepUp.One Daily Learning – 2026/07/08 08:02 BST – Notes by Gemini"
 mime_type: application/vnd.google-apps.document
 folder: SUO Meeting Recordings
-modified: 2026-07-08T10:17:50.544Z
+modified: "2026-07-08T10:17:50Z"
 owner: anis@human-edge.io
 ---
+
 # **ð Notes**  
 
  Jul 8, 2026
