@@ -1,7 +1,7 @@
 ---
 title: "Follow-up Messaging Strategy"
 type: topic
-updated: 2026-06-29
+updated: 2026-08-04
 sources:
   - raw/gdrive/2026-04-14-daily-learning-0754.md
   - raw/gdrive/2026-04-15-daily-learning-0758.md
@@ -9,6 +9,7 @@ sources:
   - raw/gmail/2026-06-23-notes-stepup-one-daily-learning-23-jun-2026.md
   - raw/gdrive/2026-06-23-stepup-one-daily-learning-0757-bst-notes-by-gemini-1ZCCXh3.md
   - raw/gdrive/2026-06-29-stepup-one-daily-learning-0759-bst-transcript-16vdDhEFHS8qSdyx_7ATYQCZrQx0ZHgFzyPdRdJ9nTg4.md
+  - raw/gdrive/2026-08-03-stepup-one-daily-learning-0759-bst-notes-by-gemini-1UfJC4AZlidmiErgUpWT0mbq230tOJzJW6mwd6sB0Wkc.md
 ---
 
 # Follow-up Messaging Strategy
