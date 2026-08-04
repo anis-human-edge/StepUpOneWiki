@@ -40,9 +40,10 @@ The wiki gets richer with every source added. Cross-references are maintained au
 
 | Page | Description |
 |------|-------------|
-| [Outbound Strategy](clients-partnerships/win-new/outbound/outbound-strategy.md) | Full outbound system: 4 motions, 9-step pipeline, KYC framework, AI integration, metrics; ICP rules (Founders/CEOs only, no booking links, 3-month minimum, commission-only refusal); pipeline metrics Jul 2026 |
+| [Outbound Strategy](clients-partnerships/win-new/outbound/outbound-strategy.md) | Full outbound system: 4 motions, 9-step pipeline, KYC framework, AI integration, metrics; ICP rules (Founders/CEOs only, no booking links, 3-month minimum, commission-only refusal); pipeline metrics Jul 2026; ABSM pivot Aug 2026 |
+| [ABSM Methodology](clients-partnerships/win-new/outbound/absm-methodology.md) | Account Based Sales and Marketing: 3-engine framework (Connection 80% rate, Engagement 1-month wait, Pitching after 3 months); target $10M–$100M companies; industry-by-industry; separate reporting per engine |
 | [Authority in Sales](clients-partnerships/win-new/outbound/authority-in-sales.md) | The confidence principle: never beg, project authority, use small responses |
-| [Follow-up Messaging](clients-partnerships/win-new/outbound/follow-up-messaging.md) | When and how to follow up: one-line messages, tone, education-to-convince pipeline |
+| [Follow-up Messaging](clients-partnerships/win-new/outbound/follow-up-messaging.md) | When and how to follow up: one-line messages, tone, education-to-convince pipeline; post-meeting CEO-office email protocol (Aug 2026) |
 | [Lake Strategy & CNT Framework](clients-partnerships/win-new/outbound/lake-strategy.md) | Accelerator lakes, hungry fish ICP model, CNT principle, social media engagement strategy |
 
 ### Clients & Partnerships — Win New > Inbound
