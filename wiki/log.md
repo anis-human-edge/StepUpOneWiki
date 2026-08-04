@@ -7,6 +7,25 @@ sources: []
 
 # Wiki Log
 
+## [2026-08-04] ingest | 1 GDrive file — Aug 3 Daily Learning (07:59 BST)
+
+**Source:** `raw/gdrive/2026-08-03-stepup-one-daily-learning-0759-bst-notes-by-gemini-1UfJC4AZlidmiErgUpWT0mbq230tOJzJW6mwd6sB0Wkc.md`
+
+Gemini notes + full transcript from the Aug 3 07:59 BST Daily Learning session. Key content: ABSM methodology pivot, 3-engine framework detail, client pipeline review (Lakshmi, Tiboot, Dimitry, Joy), post-meeting follow-up protocol, LinkedIn profile transformation, Frier team accountability discussion.
+
+**Pages created (5):**
+- `wiki/clients-partnerships/win-new/outbound/absm-methodology.md` — Full ABSM framework: 3 engines, target company profile ($10M–$100M), industry-by-industry approach, internal validation, account graph concept, LinkedIn transformation
+- `wiki/entities/clients/lakshmi.md` — Fractional CXO/GP prospect (US); Oracle background; meeting Aug 3
+- `wiki/entities/clients/tiboot.md` — Independent board of advisors prospect; meeting Aug 3
+- `wiki/entities/clients/dimitry.md` — Flying car startup (UAE); $15M Series A; meeting Aug 3
+- `wiki/entities/clients/joy.md` — Fractional inside sales executive prospect; meeting Aug 3
+
+**Pages updated (4):**
+- `wiki/clients-partnerships/win-new/outbound/outbound-strategy.md` — Added ABSM pivot section with key decisions and link to new ABSM page
+- `wiki/clients-partnerships/win-new/outbound/follow-up-messaging.md` — Added post-meeting CEO-office email protocol
+- `wiki/index.md` — Added ABSM methodology page, updated outbound strategy description, added 4 new prospect entries
+- `wiki/log.md` — This entry
+
 ## [2026-07-29] ingest | 3 Gmail files from Jul 27–28 2026
 
 **Sources ingested (3):**
