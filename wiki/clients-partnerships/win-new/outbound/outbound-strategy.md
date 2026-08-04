@@ -1,7 +1,7 @@
 ---
 title: "Client Outbound Strategy"
 type: overview
-updated: 2026-07-29
+updated: 2026-08-04
 sources:
   - raw/gdrive/2026-04-13-daily-learning-0751.md
   - raw/gdrive/2026-04-13-daily-learning-1250.md
@@ -13,6 +13,7 @@ sources:
   - raw/gdrive/2026-07-08-stepup-one-daily-learning-0802-bst-notes-by-gemini-1DB07PGDTZ9wIawbLquZc5MEulxT1qafj03XJhNQfAZk.md
   - raw/gmail/2026-07-08-notes-stepup-one-daily-learning-8-jul-2026.md
   - raw/gmail/2026-07-28-notes-stepup-one-daily-learning-28-jul-2026.md
+  - raw/gdrive/2026-08-03-stepup-one-daily-learning-0759-bst-notes-by-gemini-1UfJC4AZlidmiErgUpWT0mbq230tOJzJW6mwd6sB0Wkc.md
 ---
 
 # Client Outbound Strategy
