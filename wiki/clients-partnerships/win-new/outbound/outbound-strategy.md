@@ -216,8 +216,27 @@ The team approved a **QuickMail subscription ($49/month)** in the Jul 28, 2026 s
 
 A key finding from the Jul 28 session: generic, automated responses are degrading pipeline quality. Prospects can detect templated messages and disengage. The corrective: outreach must include specific client references — demonstrating that the sender has researched the prospect — to credibly show value before asking for a meeting.
 
+## Strategic Pivot to ABSM (Aug 2026)
+
+As of the Aug 3, 2026 session, StepUp.One is pivoting from fundraising as its primary service to **Account Based Sales and Marketing (ABSM)** — a long-term, relationship-first GTM methodology.
+
+**Reason for the pivot:**
+- Fundraising clients never stay longer than 3 months, regardless of results. All effort must be repeated with every new client.
+- ABSM produces sticky, multi-year client relationships. Even mediocre ABSM execution retains clients far longer than excellent fundraising.
+- ABSM targets a fundamentally different client profile: well-funded companies with $10M–$100M in revenue — not underfunded startups who can't pay or stay.
+
+**Key decisions from Aug 3 session:**
+- ABSM adopted as the new 3-engine methodology (Connection, Engagement, Pitching) — each engine run and reported separately.
+- Internal ABSM hunt to run first — StepUp.One applies the methodology to its own growth before any client rollout.
+- Target companies: $10M–$100M revenue, approached industry by industry (IT services and B2B SaaS first).
+- 100 target accounts per industry, ~50 stakeholders each.
+- LinkedIn profile transformation: all team members update to ABSM specialist positioning.
+
+See [ABSM Methodology](absm-methodology.md) for the full framework.
+
 ## Related Pages
 
+- [ABSM Methodology](absm-methodology.md) — the full 3-engine ABSM framework (Aug 2026 pivot)
 - [Inbound Strategy](../inbound/inbound-strategy.md) -- the parallel content-based strategy
 - [Authority in Sales](authority-in-sales.md) -- the attitude required for successful outbound
 - [Follow-up Messaging](follow-up-messaging.md) -- specific tactics for re-engaging silent prospects
