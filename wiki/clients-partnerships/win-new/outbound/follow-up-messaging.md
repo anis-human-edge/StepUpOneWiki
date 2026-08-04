@@ -24,6 +24,22 @@ Follow-up is where most outbound deals are won or lost. StepUp.One's approach co
 - After months of silence (e.g., the David client, 6-12 months): still worth following up. "Just keep following up until he says yes or no."
 - **After delivering a completed product:** wait one week, then send a follow-up confirming project completion and requesting feedback. This is a non-negotiable close-the-loop step for all active client engagements.
 
+## Post-Meeting Follow-Up Protocol (Aug 2026)
+
+For every client or prospect meeting, a detailed follow-up email must be sent from the office of the CEO. This protocol was standardized in the Aug 3, 2026 session after a case where a prospect (Louis) had gone cold because no follow-up re-grounded them in the meeting context.
+
+**Workflow:**
+1. After any meeting with a prospect or client, locate the meeting transcript or Gemini notes.
+2. Copy the notes/transcript and instruct AI (Claude, ChatGPT, or Gemini) to draft a detailed follow-up email that re-anchors the recipient in what was discussed and confirmed.
+3. Send the email **from the office of the CEO** — not from the individual team member's personal address.
+4. **CC Mohamed Anis** on every such email.
+
+**Why this works:** prospects often lose context after a meeting. A well-written follow-up that references exactly what was discussed re-activates their memory and gives them everything they need to move forward. It also signals high professionalism and authority.
+
+**Owner:** Ahmed Farhan (operational execution). Mohamed Anis (review on high-value prospects).
+
+This protocol applies to all meetings — new prospects, re-engagements, and existing clients. It is not optional.
+
 ## Message Length and Format
 
 There is an active debate within the team about message length:
