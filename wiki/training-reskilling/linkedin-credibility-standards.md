@@ -1,9 +1,12 @@
 ---
 title: "LinkedIn Credibility Standards"
 type: topic
-updated: 2026-06-28
+updated: 2026-08-09
 sources:
   - raw/gdrive/2026-06-27-stepup-one-daily-learning-0759-bst-notes-by-gemini-1D0pBlm8LuwLAYA2p1wWnMV9PHLhGGBwbmentPT0xaPM.md
+  - raw/gdrive/2026-08-05-stepup-one-daily-learning-0800-bst-notes-by-gemini-1jHWubbviLSyASk9o7XQiAfN_D_eYmd4hiHskpjLAYd0.md
+  - raw/gdrive/2026-08-07-stepup-one-daily-learning-0801-bst-notes-by-gemini-1-Phjyae7anP44ZTOioPvSGL5Gdbag1AeZxmS3cFcqjc.md
+  - raw/gdrive/2026-08-08-stepup-one-daily-learning-0802-bst-notes-by-gemini-1RkbR4sJct0W5WL3Bf7f-xGJR9fH30NprTaUX3k1KvEk.md
 ---
 
 # LinkedIn Credibility Standards
