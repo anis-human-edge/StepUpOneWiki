@@ -22,6 +22,7 @@ Managing Partner at WC Bass Enterprises (globalwcgroup.com). Made a warm inbound
 | Date | Event |
 |------|-------|
 | 2026-07-06 | Sent email introducing a "WP Alum" (unnamed) who is working on PE (private equity) transformation and may need lead generation services. Cc'd sanju@forwardai.dev. |
+| 2026-08-03 | Co-hosted meeting with Anis and Frances MacDonald (talent manager, crypto/Web3/AI). Meeting documented via Otter.ai. |
 
 ## Notes
 
