@@ -1,11 +1,41 @@
 ---
 title: "Wiki Log"
 type: overview
-updated: 2026-07-28
+updated: 2026-08-09
 sources: []
 ---
 
 # Wiki Log
+
+## [2026-08-09] ingest | 9 files — Aug 1–8 Gmail + Aug 5/7/8 GDrive Daily Learning sessions
+
+**Sources ingested (9):**
+- `raw/gmail/2026-08-01-notes-stepup-one-daily-learning-1-aug-2026.md` — ABSM 3-engine introduction, LinkedIn pending connection withdrawal, iStudio service issue, sequence definitions
+- `raw/gmail/2026-08-03-meeting-summary-willie-bass-frances-macdonald-stepup-one.md` — Meeting: Anis + Willie Bass + Frances MacDonald (talent manager, crypto/Web3/AI); trial collaboration proposed
+- `raw/gmail/2026-08-04-meeting-records-paul-dsouza-stepup-one-founder.md` — Google Meet recording of Anis–Paul D'Souza meeting; recording in Drive
+- `raw/gmail/2026-08-04-notes-stepup-one-daily-learning-4-aug-2026.md` — CRM backlog, ABSM strategy shift, LinkedIn profile transformation mandate, 100-account target list assignment
+- `raw/gmail/2026-08-05-notes-stepup-one-daily-learning-5-aug-2026.md` — ABSM cycle (1 month per stage), LinkedIn management summary
+- `raw/gmail/2026-08-06-onboarding-process-for-your-gtm-campaign-with-stepup-one.md` — Ahmed Farhan onboarding email to Jim (Crescendo); 7-step GTM campaign setup
+- `raw/gmail/2026-08-07-notes-stepup-one-daily-learning-7-aug-2026.md` — Profile branding, VP title discussion, campaign continuity summary
+- `raw/gmail/2026-08-08-notes-stepup-one-daily-learning-8-aug-2026.md` — ABSM pivot summary, 10-20-30 rule, profile transformation mandate
+- `raw/gdrive/2026-08-05-stepup-one-daily-learning-0800-bst-notes-by-gemini-1jHWubbviLSyASk9o7XQiAfN_D_eYmd4hiHskpjLAYd0.md` — Full Aug 5 transcript: ABSM cycle refined to 1-month stages, multi-threaded relationships (5+ stakeholders), Roman army metaphor, 4 ABSM flavors, 80/20 rule, LinkedIn pending management, existing connections parallel activation
+- `raw/gdrive/2026-08-07-stepup-one-daily-learning-0801-bst-notes-by-gemini-1-Phjyae7anP44ZTOioPvSGL5Gdbag1AeZxmS3cFcqjc.md` — Full Aug 7 transcript: 10-second rule debate (clarity vs. curiosity), VP of Account-Based Growth title, Win/Keep/Grow framing, Break-In/Protect/Grow methodology, campaign continuity decision, Chol Akuien Germany move
+- `raw/gdrive/2026-08-08-stepup-one-daily-learning-0802-bst-notes-by-gemini-1RkbR4sJct0W5WL3Bf7f-xGJR9fH30NprTaUX3k1KvEk.md` — Full Aug 8 transcript: 10-20-30 rule, "You live and die by your accounts," account management education, Infosys 80/20 example, new team member Margaret Njuguna, website pivot to stepup.one/ABSM, filler words communication tip
+
+**Pages created (6):**
+- `wiki/entities/people/margaret-njuguna.md` — New team member introduced Aug 8 by Abdulkadir Mhina
+- `wiki/entities/people/byaombe-wilondja.md` — Active team member; Aug 7 & 8 sessions; communication improvement and profile transformation
+- `wiki/entities/people/frances-macdonald.md` — Talent manager (crypto/Web3/AI); met with Anis and Willie Bass Aug 3; trial collaboration proposed
+- `wiki/entities/people/paul-dsouza.md` — Prospect who met with Anis Aug 4; recording in Drive
+- `wiki/entities/clients/jim-crescendo.md` — New GTM campaign client being onboarded; Ahmed Farhan managing; 7-step process sent Aug 6
+- `wiki/log.md` — This entry
+
+**Pages updated (5):**
+- `wiki/clients-partnerships/win-new/outbound/absm-methodology.md` — Major update: ABSM cycle changed to 1-month per stage; added multi-threaded relationship requirement (5+ stakeholders), Roman army metaphor, 80/20 rule with Infosys example, 4 ABSM flavors, 3 engagement scenarios (protect/land-expand/win-new), Win/Keep/Grow framing, Break-In/Protect/Grow methodology, 10-20-30 profile rule, VP title guidance, LinkedIn connection management rules, campaign continuity note, stepup.one/ABSM resource
+- `wiki/training-reskilling/linkedin-credibility-standards.md` — Added ABSM Profile Transformation section: 10-20-30 rule (banner/headline/about), professional title upgrade guidance, pending connection management (withdraw after 30 days, keep <700)
+- `wiki/entities/people/willie-bass-jr.md` — Added Aug 3 Frances MacDonald meeting; added Frances MacDonald to related pages
+- `wiki/index.md` — Added 6 new entries (Frances MacDonald, Paul D'Souza, Byaombe Wilondja, Margaret Njuguna, Jim/Crescendo); updated ABSM methodology and LinkedIn descriptions
+- `wiki/log.md` — This entry
 
 ## [2026-08-04] ingest | 1 GDrive file — Aug 3 Daily Learning (07:59 BST)
 
