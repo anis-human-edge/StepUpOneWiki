@@ -96,6 +96,20 @@ If you identify 5,000 stakeholders, you must connect with at least 4,000 before 
 
 **What to report:** pitch rate, meeting booking rate, conversion rate — all separate from engagement metrics.
 
+## The ABSM Cycle: 1 Month Per Stage
+
+As refined in the Aug 5 session, the cycle has been tightened from a vague "3-month" window to **1 month per stage**:
+
+| Month | Stage | Activity |
+|-------|-------|----------|
+| Month 1 | Connection | Connect only — no private messaging, no pitching |
+| Month 2 | Engagement | Nurture with value — commenting, white papers, relevant content |
+| Month 3 | Pitching | Pitch only when prospect asks; never cold-pitch |
+
+**Why 1 month per stage:** a 30-day gap between stages is sufficient to avoid appearing scripted or robotic to prospects. Longer gaps slow revenue; shorter gaps feel rushed and damage relationship authenticity.
+
+**Existing connections run in parallel:** for a client's *existing* LinkedIn connections (built before the ABSM campaign started), the Engagement Engine can be activated simultaneously from day one — those relationships have already passed the connection threshold.
+
 ## Reporting Structure
 
 All three engines must be reported separately. The old model of "how many meetings did we book?" collapses the funnel into a single number that hides where the breakdown is. ABSM reporting shows exactly which engine needs work:
