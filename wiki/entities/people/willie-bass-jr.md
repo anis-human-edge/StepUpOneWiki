@@ -36,5 +36,7 @@ Managing Partner at WC Bass Enterprises (globalwcgroup.com). Made a warm inbound
 
 ## Related Pages
 
+- [Frances MacDonald](frances-macdonald.md) — prospect introduced via Willie on Aug 3; talent manager in crypto/Web3/AI
 - [GTM Engine](../systems/gtm-engine.md)
+- [Talent Acquisition Engine](../systems/talent-acquisition-engine.md) — relevant to Frances MacDonald's interest
 - [Outbound Strategy](../../clients-partnerships/win-new/outbound/outbound-strategy.md)
