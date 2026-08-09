@@ -1,9 +1,10 @@
 ---
 title: "Willie Bass Jr."
 type: entity
-updated: 2026-07-09
+updated: 2026-08-09
 sources:
   - raw/gmail/2026-07-06-pe-transformation-lead-gen.md
+  - raw/gmail/2026-08-03-meeting-summary-willie-bass-frances-macdonald-stepup-one.md
 ---
 
 # Willie Bass Jr.
