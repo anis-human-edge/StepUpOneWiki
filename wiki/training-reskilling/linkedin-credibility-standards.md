@@ -123,6 +123,44 @@ All team members doing outbound must complete steps 1-4 before sending connectio
 
 ---
 
+## ABSM Profile Transformation (Aug 2026)
+
+As StepUp.One pivots to Account-Based Sales and Marketing, all team profiles must be transformed from fundraising-focused to ABSM-focused. This is a one-time overhaul of the existing profile, then maintained going forward.
+
+### The 10-20-30 Second Rule
+
+Every profile element must be evaluated against the time a prospect spends on it:
+
+| Element | Time Budget | Requirement |
+|---------|------------|-------------|
+| **Banner** | 10 seconds | Create curiosity — make them want to read further. Must be concise, impactful, and visually clean. |
+| **Headline** | 20 seconds | Define your work — who you help and what you help them achieve. The 10-second rule: if a new visitor can't understand what you do within 10 seconds, the headline fails. |
+| **About section** | 30 seconds | Complete understanding of the service. Lead with the client's pain point (protecting/winning large accounts), not the mechanics of ABSM. Secondary services (fundraising, talent acquisition) go at the bottom. |
+
+**Clarity beats curiosity:** abstract slogans that create mystery but no clarity fail the 10-second test. Prospects don't engage with confusion — they disengage.
+
+### Professional Title Upgrade for ABSM Outreach
+
+Internal titles ("team leader," "fundraising expert") do not signal seniority to enterprise executives. For ABSM campaigns targeting senior decision-makers, titles must convey peer-level authority.
+
+**Principle:** if your title doesn't tell a VP or C-suite contact that you're at their level, you're starting the conversation from a position of inferiority.
+
+**Example upgrade:** "VP of Account-Based Growth" or similar standard corporate title that clearly signals seniority in the account management domain.
+
+**The seniority ladder in ABSM:** outreach to a target account is structured by seniority — if a junior team member fails to get a response, a more senior member follows up. Titles must reflect this hierarchy to make the escalation credible.
+
+### Pending Connection Management
+
+Active management of pending LinkedIn invitations is required for account health:
+
+- **Withdraw after 30 days:** if a prospect hasn't accepted a connection request within 30 days, withdraw the request. A long-pending request signals a rejection that hasn't been formally declined.
+- **Keep pending count below 700:** LinkedIn's algorithm de-prioritizes accounts with excessive pending invitations. This negatively affects reach and connection acceptance rates.
+- **When to purge:** if the pending count exceeds 700, conduct a bulk withdrawal. Remove connections even if doing so reduces the network's compounding effect — account preservation takes priority over theoretical upside.
+
+Farah Ibrahim (Aug 5 session): removed 1,500 pending connections to mitigate account risk. While removing contacts reduces the compounding effect of the network, the risk of account depletion outweighs the potential rewards.
+
+---
+
 ## Related Pages
 
 - [Client Relationship Framework](client-relationship-framework.md) — how profile credibility fits into the 7-stage relationship model
