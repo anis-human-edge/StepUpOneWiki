@@ -220,13 +220,46 @@ The internal run validates the methodology and produces a replicable playbook. Y
 
 **Team structure:** teams are organized by industry. The team running ABSM for IT services is separate from the team running ABSM for B2B SaaS.
 
-## LinkedIn Profile Transformation
+## LinkedIn Profile Transformation for ABSM
 
-All team members and client-facing profiles must be updated to reflect ABSM specialist positioning:
+All team members and client-facing profiles must be updated to reflect ABSM positioning. As of Aug 2026, the team is transitioning away from fundraising-focused language.
 
-- Remove fundraising-focused language.
-- Add ABSM specialist identity (use AI to rewrite: paste the ABSM service page + white paper into Claude or ChatGPT and ask it to rewrite your profile).
-- Resources: ABSM service page and ABSM working paper (both published on the StepUp.One website).
+### The 10-20-30 Second Rule
+
+Every profile must pass the **10-20-30 second test**:
+
+| Element | Time | Goal |
+|---------|------|------|
+| Banner | 10 seconds | Create curiosity — make them want to read more |
+| Headline | 20 seconds | Define your work — who you help and what you help them achieve |
+| About section | 30 seconds | Perfect understanding of the service; should include secondary offerings (fundraising, talent) at the bottom |
+
+The banner must answer "who do they help and what do they help them achieve?" within 10 seconds. Abstract slogans that generate curiosity but no clarity fail this test. Clarity is the primary goal; curiosity is secondary.
+
+**Profile banner under discussion (Aug 2026):** "You live and die by your accounts. We build the ground your team sells on." — The first sentence resonates strongly with account managers because their career is tied to account performance. Still under team debate on final wording.
+
+### Professional Title Upgrade
+
+Internal titles ("team leader," "team member," "fundraising expert") lack credibility with senior executives. They signal internal hierarchy, not peer-level authority.
+
+**Recommended upgrade:** adopt standard corporate titles that match the seniority of the contacts being targeted. Proposed example: **Vice President of Account-Based Growth**.
+
+The seniority-based outreach strategy requires a title hierarchy — different team members with different seniority levels target an account in sequence. If a junior contact fails, a more senior person steps in. Titles must reflect this ladder.
+
+### LinkedIn Connection Management
+
+- Withdraw connection requests that have been pending for **more than 30 days** — they signal a rejection that hasn't been acknowledged
+- Keep total pending invites **below 700** — exceeding this threshold causes LinkedIn to de-prioritize the account algorithmically
+- If account health is at risk, remove pending connections even if this reduces the network's compounding effect; account preservation takes priority
+
+### Campaign Continuity
+
+The shift to ABSM does **not** replace existing successful campaigns (fundraising, fractional CXO, executive outreach). These campaigns continue in parallel. ABSM is applied only to **new account acquisitions** — not to established, long-standing client relationships where interference would be high-risk.
+
+### Resources
+
+- ABSM service page and working paper: [stepup.one/ABSM](https://stepup.one/ABSM) (published Aug 2026)
+- Profile rewriting: paste the ABSM service page + white paper into Claude or ChatGPT and ask it to rewrite your profile with the 10-20-30 rule.
 
 ## Handling Client-Directed Transactional Requests
 
