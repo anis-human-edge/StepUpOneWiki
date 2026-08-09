@@ -134,6 +134,79 @@ The account graph answers four questions every Friday:
 
 The current CRM supports roughly 40–50% of this. The account graph as described in the ABSM working paper requires purpose-built software. StepUp.One's near-term goal is to show a basic version of this — not the full real-time graph — using the CRM tools available.
 
+## ABSM Scope and Applicability
+
+ABSM is **not for all sales situations**. It is reserved for high-value B2B deals requiring long-term relationship building.
+
+| Sale Type | ABSM Required? |
+|-----------|----------------|
+| Low-cost products ($10–$100) | No — immediate transactional outreach is fine |
+| High-value B2B (enterprise deals) | Yes — ABSM is the only reliable path |
+| Million-dollar+ contracts | Yes — single-threaded relationships always fail at this level |
+
+**When ABSM is unnecessary**, skip the 3-month cycle and use direct transactional outreach. ABSM is expensive in time; don't apply it where it isn't warranted.
+
+## Multi-Threaded Relationships
+
+High-value ABSM requires building relationships with **multiple stakeholders** on the client side simultaneously. A single "champion" contact is insufficient for large deals.
+
+**The benchmark:** a company must have at least 5 key decision-makers or stakeholders to run an effective ABSM campaign. If you can only identify 1–2 decision-makers, the account is too thin for ABSM.
+
+**Why multi-threading matters:** significant B2B deals involve collective decision-making — 10 or more people may evaluate a purchase together. Relying on one internal champion means the deal collapses if that person changes roles, leaves, or loses internal influence.
+
+Mohamed Anis's **Roman Army metaphor** (Aug 5 session): Effective ABSM requires coordinated group action, not individual heroics. Many sales teams fail because they operate like the "German army" — individuals running forward separately to achieve heroic wins. Successful ABSM requires the team to act in structured formation, like the Roman army — coordinated, protecting the relationship collectively.
+
+## The 80/20 Rule in Account Management
+
+Large companies often generate **80% of their revenue from only 10–20 key clients** (sometimes 99/1 — Infosys earns $9B of its $10B revenue from 20 accounts). This creates:
+
+- High stakes: losing one key account is catastrophic; losing a small account is negligible
+- High anxiety: senior executives are deeply worried about protecting those few relationships
+- High opportunity: ABSM directly addresses this fear
+
+**Three ABSM engagement scenarios** (in order of urgency to clients):
+1. **Protect** — defend a high-value account ($100M+) from a competitor who is making inroads
+2. **Land and expand** — break into an account currently dominated by a competitor
+3. **Win new** — build a relationship with a completely new, high-value prospect
+
+Protecting an existing large account is the most urgent use case — potential loss is an immediate career risk for the account manager.
+
+## Four ABSM Flavors
+
+| Account Type | Goal |
+|-------------|------|
+| New small accounts | Build relationships; convert to large accounts over time |
+| New large accounts | Multi-threaded engagement; 3-month+ cycle |
+| Existing small accounts | Nurture and grow; avoid neglect |
+| Existing large accounts | Protect and maintain; AI-assisted relationship health monitoring |
+
+The operational work (commenting, nurturing, messaging) is consistent across all four flavors. The strategy differs based on whether the goal is protecting established revenue or pursuing new business.
+
+## Account Categorization for Job Security
+
+Account managers' job security is **directly tied** to the financial performance of the accounts they manage:
+
+- **$1M account:** if revenue doesn't grow over 4 quarters, manager risks termination
+- **$100M account:** if revenue drops from $100M to $80M, manager may not be fired but will be demoted or moved to a smaller account — large-account management requires specialized skills
+- **New account:** future opportunity; nurture to grow into a large account
+
+StepUp.One's survival is tied to the financial performance of the accounts it holds — the same logic applies internally.
+
+## "Win, Keep, and Grow" Framing
+
+The ABSM value proposition is structured as three client outcomes:
+
+- **Win** — new account acquisition (applies to startups primarily)
+- **Keep** — protect existing accounts (applies to enterprises primarily)
+- **Grow** — expand revenue within existing accounts (applies to both)
+
+The LinkedIn profile "About" section and banner should focus on these client pain points (what the client fears losing or wants to gain), not on the mechanics of ABSM (what the team does internally).
+
+**"Break In, Protect, and Grow" methodology** (internal language):
+- **Break in** — reach out to and connect with new accounts
+- **Protect** — secure and refine the value of existing high-value accounts
+- **Grow** — leverage satisfied existing accounts to attract new opportunities
+
 ## Internal Validation Before Client Rollout
 
 Before applying ABSM to client accounts, StepUp.One must run it internally:
