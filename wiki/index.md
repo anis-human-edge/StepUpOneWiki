@@ -82,10 +82,14 @@ The wiki gets richer with every source added. Cross-references are maintained au
 | [Marco Meola](entities/people/marco-meola.md) | CEO & Co-founder of DATABIOMIX; inbound partner inquiry Jun 2026 |
 | [Jean-Marie Ndikumana](entities/people/jean-marie-ndikumana.md) | Team leader managing a sub-team; oversaw Huda termination and Samson salary sanction (Jun 30) |
 | [Yasin Mohamed](entities/people/yasin-mohamed.md) | Team member; independently sourced Founders and Funders Chicago event (45–53 leads, Jul 2026) |
-| [Willie Bass Jr.](entities/people/willie-bass-jr.md) | Managing Partner at WC Bass Enterprises (globalwcgroup.com); warm inbound intro to PE transformation prospect, Jul 6 |
+| [Willie Bass Jr.](entities/people/willie-bass-jr.md) | Managing Partner at WC Bass Enterprises (globalwcgroup.com); warm inbound intro to PE transformation prospect Jul 6; co-hosted Frances MacDonald meeting Aug 3 |
 | [Lukasz Urban](entities/people/lukasz-urban.md) | Fractional CFO building AI-native cash flow management tool (Germany/Poland); met with Anis Jun 16; agreed to delegate outreach to StepUp.One (~$400/mo) |
 | [Troy Evans](entities/people/troy-evans.md) | Prospect; recorded meeting with Anis Jul 22; Anis flagged as "a good guy" and assigned follow-up to Ahmed Farhan (Jul 27) |
 | [Laura Cortizo](entities/people/laura-cortizo.md) | Prospect; met with Anis Jul 28; recording in Drive; Ahmed Farhan assigned pre-meeting email |
+| [Frances MacDonald](entities/people/frances-macdonald.md) | Talent manager; crypto/Web3/AI; 20→140 employees in 30 countries; met with Anis & Willie Bass Aug 3; interested in AI recruitment trial |
+| [Paul D'Souza](entities/people/paul-dsouza.md) | Prospect; met with Anis Aug 4 (recorded) |
+| [Byaombe Wilondja](entities/people/byaombe-wilondja.md) | Team member; active in ABSM sessions Aug 7 & 8; working on profile transformation and communication improvement |
+| [Margaret Njuguna](entities/people/margaret-njuguna.md) | New team member introduced Aug 8 by Abdulkadir Mhina; onboarding to ABSM methodology |
 
 ### Product & Engineering
 
