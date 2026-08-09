@@ -133,6 +133,7 @@ The wiki gets richer with every source added. Cross-references are maintained au
 | [Tiboot](entities/clients/tiboot.md) | Fractional executive prospect; runs independent board of advisors; meeting Aug 3 2026 |
 | [Dimitry](entities/clients/dimitry.md) | Flying car startup (UAE); raising $15M Series A; meeting Aug 3 2026; commission-only risk flag |
 | [Joy](entities/clients/joy.md) | Fractional inside sales executive prospect; meeting Aug 3 2026; strong fit with StepUp.One GTM service |
+| [Jim (Crescendo)](entities/clients/jim-crescendo.md) | New GTM campaign client being onboarded Aug 6 2026; Ahmed Farhan managing |
 
 ### Entities — People (Prospects)
 
