@@ -85,12 +85,14 @@ If you identify 5,000 stakeholders, you must connect with at least 4,000 before 
 **Goal:** Convert engaged relationships into sales conversations — but only when the prospect is ready.
 
 **The hard rules:**
-- Only activate after at least **3 months** of connection and engagement.
+- Only activate after **at least 1 month each** of connection and engagement (minimum 2 months total before pitching; 3 months is the full cycle).
+- Pitching cannot occur in the first month — there is zero visibility or historical context with the prospect at that point.
+- Pitching too early, before proper nurturing has occurred, effectively invalidates any prior engagement effort.
 - Only pitch if the prospect **explicitly asks** what you do.
 - If a client instructs "never pitch unless they ask" — hold to that; it works.
 - When you do pitch: keep it conversational and pointed, not a formal presentation.
 
-**Why this ordering matters:** a prospect who has been connected and engaged for 3 months already knows your name, has seen your value, and likely has an impression of what you do. When they ask, they're already warm. Pitching before this point destroys the trust built by the first two engines.
+**Why this ordering matters:** a prospect who has been connected and engaged for 1–2 months already knows your name, has seen your value, and likely has an impression of what you do. When they ask, they're already warm. Pitching before this point destroys the trust built by the first two engines.
 
 **What to report:** pitch rate, meeting booking rate, conversion rate — all separate from engagement metrics.
 
