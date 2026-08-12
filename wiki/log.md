@@ -1,11 +1,25 @@
 ---
 title: "Wiki Log"
 type: overview
-updated: 2026-08-09
+updated: 2026-08-12
 sources: []
 ---
 
 # Wiki Log
+
+## [2026-08-12] ingest | 2 GDrive files — Aug 10 transcript + Aug 11 Notes by Gemini
+
+**Sources ingested (2):**
+- `raw/gdrive/2026-08-10-stepup-one-daily-learning-0757-bst-transcript-1Q3yX5r7S2_PUjYKUXCCGUFkVBVMTy7GzBE8Uqo6URWQ.md` — Aug 10 transcript (54 min): ABSM landing page live review; three B2B persona framework; account mapping call explained; landing page structure and feedback
+- `raw/gdrive/2026-08-11-stepup-one-daily-learning-0800-bst-notes-by-gemini-1evex6eR3u-mv2iKMPyx_VEpqRU2WL7w9IxXDVRGqC1U.md` — Aug 11 Notes by Gemini (1h34m session): no summary or transcript produced by Gemini; smaller group (Farah Ibrahim, Nuuh Iftin, Abdulla Salem, Aisha Jaama, Hirwa Hamza, Abdulkadir Mhina, Margaret Njuguna, Marwa Chimosa)
+
+**Pages created (1):**
+- `wiki/strategy-vision/absm-landing-page.md` — stepup.one/ABSM landing page: structure, Aug 10 team feedback, CTA issues, proposed revisions, "give us one account" account mapping promise
+
+**Pages updated (3):**
+- `wiki/clients-partnerships/win-new/outbound/absm-methodology.md` — Added Three B2B Personas section (startup/scaleup/enterprise pain points and ABSM application); added Account Mapping Call section; added ABSM terminology guidance (write out full term before abbreviating); added cross-reference to landing page
+- `wiki/index.md` — Added ABSM Landing Page entry; updated ABSM Methodology description
+- `wiki/log.md` — This entry
 
 ## [2026-08-09] ingest | 9 files — Aug 1–8 Gmail + Aug 5/7/8 GDrive Daily Learning sessions
 
