@@ -58,6 +58,7 @@ The wiki gets richer with every source added. Cross-references are maintained au
 |------|-------------|
 | [Research Engine](strategy-vision/research-engine.md) | Signal identification system for inbound and outbound: watch lists, trending topics, AI tiers |
 | [Human + AI](strategy-vision/human-plus-ai.md) | StepUp.One's defensible advantage: why the combination cannot be stolen |
+| [ABSM Landing Page](strategy-vision/absm-landing-page.md) | stepup.one/ABSM page development: structure, Aug 10 team feedback, proposed revisions, "give us one account" CTA and account mapping promise |
 
 ### Operations
 
