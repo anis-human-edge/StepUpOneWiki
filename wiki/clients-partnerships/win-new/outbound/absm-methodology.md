@@ -135,6 +135,60 @@ The account graph answers four questions every Friday:
 
 The current CRM supports roughly 40–50% of this. The account graph as described in the ABSM working paper requires purpose-built software. StepUp.One's near-term goal is to show a basic version of this — not the full real-time graph — using the CRM tools available.
 
+## The Three B2B Personas
+
+ABSM applies to all three B2B company types — but the pain point and ABSM approach differs fundamentally for each. (Refined Aug 10 session; these distinctions now anchor the [ABSM landing page](../../../strategy-vision/absm-landing-page.md).)
+
+### 1. Startup — "Not Invited to the Table"
+
+A B2B startup often needs just **one enterprise logo** to survive and change its trajectory. The problem is not capability — it's visibility: they're not invited to the RFP table. They don't even get a seat in the process.
+
+**ABSM for Getting Invited:**
+- Identify the 10–20 key people in the target account
+- Build excitement and curiosity — make them feel that if they don't invite you, they'll miss something big
+- Depth of relationship needed: relatively shallow but targeted; goal is an invitation, not a long relationship
+- Scale: ~10–20 people per account
+
+**When ABSM doesn't apply to startups:** if the startup sells $10–$100 products, skip ABSM. It applies only when winning one enterprise client changes everything.
+
+### 2. Scaleup — "Losing at the Committee Stage"
+
+A scaleup is invited to RFPs because they're a known quantity ($50M–$200M company). They go through the whole process: pitch, proposal, negotiation. But they keep losing at the final stage, when a **buying committee of 10+ people** votes collectively and decides "these guys are too small" or "we already have relationships elsewhere."
+
+**ABSM for Cracking the Deal:**
+- A deal is already on the table; the clock is running
+- Build deep relationships with the entire buying committee — not just the champion contact
+- This is different from getting invited: excitement alone doesn't win a $10M deal; deep trust across the committee does
+- Scale: ~200 people per account (committee members, influencers, champions across departments)
+
+### 3. Enterprise — "Protecting What We Have"
+
+A large enterprise's senior account manager lives in fear. They have 10 accounts that generate 80–90% of the company's revenue. Losing one $100M account is a career-ending event. They're not focused on winning new business — they're focused on protecting what they have.
+
+**ABSM for Protect & Grow:**
+- The threat is a competitor who is quietly building relationships inside accounts the client assumed were locked
+- ABSM maps all stakeholders inside each key account and monitors relationship health
+- Scale: 1,000–2,000 people across 10 large accounts
+- Internal StepUp.One shorthand: this is the "Protect" scenario in Win/Keep/Grow
+
+### How to Talk About All Three
+
+The single unifying message: **"Whether you are a startup, scaleup, or large enterprise — you live and die by your accounts. The only medicine is the same: bottom-up account-based relationship building."** The depth and scale differ; the fundamental approach does not.
+
+**Practical note on terminology:** "ABM" (Account Based Marketing) is widely recognized; "ABSM" (Account Based Sales and Marketing) is not. When pitching externally, always write the full term first — "Account-Based Sales and Marketing (ABSM)" — before abbreviating. The term ABSM is a proprietary StepUp.One coinage; claim it but don't assume the audience knows it.
+
+## Account Mapping Call
+
+The ABSM onboarding offer: **"Give us the name of one account. We'll show you everything."**
+
+Specifically: using LinkedIn Sales Navigator against the client's existing profile —
+1. Client names a target account (e.g., Siemens)
+2. StepUp.One pulls all stakeholders in that account who match the ABSM profile: C-suite, VPs, directors, departments, countries, cities
+3. Cross-references with the client's existing LinkedIn connections — shows exactly which of those 200 key people the client is already connected to (say, 20) and which 180 remain unconnected
+4. Delivers a prioritized connection list and a relationship gap map
+
+This mapping takes 15 minutes to a few days, not weeks. It is the first deliverable in any ABSM engagement and the demonstration of the "two-week promise" on the landing page.
+
 ## ABSM Scope and Applicability
 
 ABSM is **not for all sales situations**. It is reserved for high-value B2B deals requiring long-term relationship building.
