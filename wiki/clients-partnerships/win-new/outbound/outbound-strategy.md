@@ -216,6 +216,19 @@ The team approved a **QuickMail subscription ($49/month)** in the Jul 28, 2026 s
 
 A key finding from the Jul 28 session: generic, automated responses are degrading pipeline quality. Prospects can detect templated messages and disengage. The corrective: outreach must include specific client references — demonstrating that the sender has researched the prospect — to credibly show value before asking for a meeting.
 
+## Referral Policy: No Referrals (Aug 2026)
+
+**StepUp.One does not do referrals. This is a company-wide policy.**
+
+Established Aug 13, 2026 in the context of the [Kelly Ora](../../../entities/people/kelly-ora.md) partnership conversation.
+
+**Why:**
+1. **Trust capital deficit.** When StepUp.One refers a client to a third-party product or service, it is vouching for that product. Vouching requires trust capital — the referred client needs to believe StepUp.One knows and endorses what it's recommending. During the early phase of any client relationship (the first 1–2 months), StepUp.One is still building that trust. Referring before trust is established amplifies the risk.
+2. **Unknown quality.** Referring to an external company StepUp.One doesn't know well is additionally dangerous. If the referral product disappoints, StepUp.One's credibility with the client takes the damage.
+3. **No upside without accountability.** A referral creates obligation (you are implicitly responsible for the outcome) without the ability to control quality.
+
+**The alternative:** when a third party approaches with a referral partnership offer, propose the GTM Engine instead. StepUp.One can run LinkedIn profile management for them as a client — connecting with 200 relevant targets per month, educating those contacts, amplifying content — without acting as a referring party. This creates commercial value for the partner without the referral risk.
+
 ## Strategic Pivot to ABSM (Aug 2026)
 
 As of the Aug 3, 2026 session, StepUp.One is pivoting from fundraising as its primary service to **Account Based Sales and Marketing (ABSM)** — a long-term, relationship-first GTM methodology.
