@@ -7,6 +7,21 @@ sources: []
 
 # Wiki Log
 
+## [2026-08-15] ingest | 2 GDrive files — Aug 13 + Aug 14 Daily Learning Notes by Gemini
+
+**Sources ingested (2):**
+- `raw/gdrive/2026-08-13-stepup-one-daily-learning-0759-bst-notes-by-gemini-1x0eRs2eHZEsI0_0AJ294fLUyWM1_-HYGtXJ018qkIcM.md` — Aug 13 session (99KB): referral policy established; Kelly Ora partnership discussed; three account archetypes framework ("Cannot Crack / Cannot Lose / Pays for Everything") introduced as LinkedIn headline framework; banner "You live and die by your account" finalized; leads Garro/Daniela/Wilson positive; Honey follow-up ongoing; Alan rescheduled
+- `raw/gdrive/2026-08-14-stepup-one-daily-learning-0802-bst-notes-by-gemini-1VqfgAMahQNqJFrJfe1dhisuNwpQCtzV1Sfu8fiZLuQc.md` — Aug 14 session (56KB): core service crystallized ("we build relationships — that's it"); 100 small things vs 5 big things philosophy; ABSM campaign launch decided for Monday Aug 18; CRM gap flagged (2,000+ opportunities vs <50 active jobs); service expansion ideas (virtual events, blogging revival, cross-platform amplification)
+
+**Pages created (1):**
+- `wiki/entities/people/kelly-ora.md` — Prospect; beta testing program for founders; referral declined; GTM service offered; meeting 2026-08-15
+
+**Pages updated (4):**
+- `wiki/clients-partnerships/win-new/outbound/absm-methodology.md` — Added: Three Account Archetypes section (Cannot Crack / Cannot Lose / Pays for Everything); Core Product crystallization section (relationship building); 100 Small Things Philosophy; ABSM Campaign Launch Decision (Aug 18); finalized banner and headline; sources updated
+- `wiki/clients-partnerships/win-new/outbound/outbound-strategy.md` — Added: Referral Policy (no referrals — company-wide); sources updated
+- `wiki/training-reskilling/client-relationship-framework.md` — Added: Part 6 — The Five Big Things and the 100 Small Things; sources updated
+- `wiki/index.md` — Added Kelly Ora entry; updated descriptions for ABSM Methodology, Outbound Strategy, Client Relationship Framework
+
 ## [2026-08-12] ingest | 2 GDrive files — Aug 10 transcript + Aug 11 Notes by Gemini
 
 **Sources ingested (2):**
