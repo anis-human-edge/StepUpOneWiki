@@ -293,7 +293,9 @@ Every profile must pass the **10-20-30 second test**:
 
 The banner must answer "who do they help and what do they help them achieve?" within 10 seconds. Abstract slogans that generate curiosity but no clarity fail this test. Clarity is the primary goal; curiosity is secondary.
 
-**Profile banner under discussion (Aug 2026):** "You live and die by your accounts. We build the ground your team sells on." — The first sentence resonates strongly with account managers because their career is tied to account performance. Still under team debate on final wording.
+**Profile banner (decided Aug 13, 2026):** "You live and die by your account. We build the ground your team sells on." — The first sentence resonates with everyone because it applies universally — startup, scaleup, or enterprise. The team confirmed the message on Aug 13. The banner works as a hook; readers must go deeper into the profile to understand the offering, which is intentional.
+
+**Headline strategy (Aug 13, 2026):** "Three accounts decide your year." — Followed by: "One you cannot crack. One you cannot lose. One that pays for everything." This headline creates curiosity and is specific enough to draw the right people in without limiting the audience to one segment. See the [Three Account Archetypes](#three-account-archetypes-the-external-positioning-headline) section below for the full framework behind this headline.
 
 ### Professional Title Upgrade
 
