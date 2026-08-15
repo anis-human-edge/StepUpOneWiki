@@ -266,6 +266,62 @@ Mohamed Anis: *"If you can build this kind of psychology-driven sales assembly l
 
 ---
 
+---
+
+## Part 6: The Five Big Things and the 100 Small Things
+
+From the Aug 14, 2026 session. This is Mohamed Anis's most direct articulation of *why* relationship building at scale is a product people will pay for.
+
+### The Paradox of Relationship Maintenance
+
+Most professionals know how to do the five big things in a client relationship. Nobody needs to be taught:
+
+- Take the client to dinner
+- Invite them to a meaningful event
+- Send a personal gift for a milestone
+- Attend their conference or product launch
+- Book a catch-up call when the relationship feels distant
+
+These are instinctive. They feel significant. They are visible. But they require the relationship to already be warm enough to justify them.
+
+**What most professionals neglect** are the 100 small things that actually build and maintain warmth at scale:
+
+- Comment thoughtfully on a LinkedIn post
+- Congratulate someone on a promotion they mentioned in passing
+- Acknowledge a birthday
+- Reshare their content with a genuine observation
+- Notice and reference something they published weeks ago
+- Engage with their team members and colleagues
+- Show up consistently in their LinkedIn feed — not with pitches, but with presence
+
+Mohamed Anis: *"If somebody would do this for me 20 years ago, I would have paid them in gold. Because you do all the big things — you want to do all the big things — but you do none of the small things. All right, guys."*
+
+### Why This Creates a Product
+
+The 100 small things are:
+- Low-effort per action but high in aggregate
+- Systemically neglected by senior people who are too busy or too proud
+- Invisible until absent (the client only notices when they stop happening)
+- Impossible to fake at scale without a dedicated system
+
+StepUp.One runs this system for clients — consistently executing the hundred small things across multiple accounts simultaneously — so that when the client shows up for the five big things, the relationship is already warm and the ask lands.
+
+**Farah Ibrahim (Aug 14):** *"The relationship either way is clear — if you want to marry a girl, you have to build the relationship; if you want to win a client, you have to build the relationship. But the question is: is commenting and congratulating enough to close a big client?"*
+
+The debate surfaced a real tension: the 100 small things are necessary but may not be sufficient for high-value engagements. The team identified additional capabilities to build: virtual events (research → host → record → edit → post on client's behalf), content amplification across platforms (Instagram, Twitter/X), and blogging. These expand the offering without changing the core product.
+
+### Practical Application
+
+For every client account, the team maintains:
+1. A relationship calendar — birthdays, job changes, funding rounds, anniversaries
+2. A content engagement habit — comment on posts from target accounts weekly
+3. A multi-stakeholder map — relationships spread across multiple people, not concentrated on one champion
+4. A periodic value-drop — share something genuinely useful, without a pitch attached
+
+This is the operational definition of the [ABSM Engagement Engine](../clients-partnerships/win-new/outbound/absm-methodology.md#2-engagement-engine).
+
+---
+
 ## Related Pages
 
 - [Follow-up Messaging Strategy](../clients-partnerships/win-new/outbound/follow-up-messaging.md) — when and how to follow up at each stage
