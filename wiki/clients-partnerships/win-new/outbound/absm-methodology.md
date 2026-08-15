@@ -324,6 +324,92 @@ The shift to ABSM does **not** replace existing successful campaigns (fundraisin
 
 ABSM is the standard. But if a client explicitly brings their own strategy and asks for execution only, execute their strategy — do not refuse. If the client dictates the approach, the outcome responsibility shifts to them. Keep the conversation going with ambiguous clients rather than closing the door prematurely.
 
+## Three Account Archetypes: The External Positioning Headline
+
+Developed across Aug 12–13 sessions. This is the framework behind the headline "Three accounts decide your year." It is the external client-facing articulation of the three ABSM engagement scenarios — translated from internal methodology language into a proposition that resonates with any B2B sales leader.
+
+| Archetype | Who it applies to | What they feel | What we do |
+|-----------|-------------------|----------------|------------|
+| **The one you cannot crack** | Startup entering a market; or any company with a prospect who never responds despite repeated outreach | "I can't even get a seat at the table" / "They're closed to me and working with my competitor" | Build familiarity through consistent, low-pressure presence (content engagement, BSM, multi-level stakeholder mapping) before asking for anything |
+| **The one you cannot lose** | Scaleup with a critical prospect in the CRM who must be won; or enterprise protecting a flagship account | "Losing this one is existential" | Build multi-threaded relationships across the buying committee — do not rely on a single champion |
+| **The one that pays for everything** | Enterprise with 10 large accounts generating 80–90%+ of revenue | "I can't see inside my most important accounts clearly" | Map all stakeholders inside each key account; monitor relationship health; prevent competitor infiltration |
+
+**Important nuances from team discussion (Aug 13):**
+- "Cannot crack" applies equally to accounts already in your network that you cannot penetrate *and* to accounts you haven't connected with yet — both interpretations are valid.
+- "Cannot lose" is a CRM priority (highest-value prospect you must convert), not an existing client. Once a client is signed and paying, they graduate to the third archetype.
+- "Pays for everything" = an existing, paying client. The goal is relationship maintenance and growth, not winning.
+
+**Engagement strategy per archetype:**
+- *Cannot crack:* like and engage with their content without selling; identify decision-makers at multiple levels using BSM; create slow familiarity
+- *Cannot lose:* build relationships with multiple decision-makers, not just the primary contact; account stability requires redundant relationships
+- *Pays for everything:* consistent small-task relationship maintenance (see [100 Small Things Philosophy](#100-small-things-philosophy)); never let the relationship become purely transactional
+
+This framework maps to the three B2B company stages (startup / scaleup / enterprise) described in the [Three B2B Personas](#the-three-b2b-personas) section, but is distinct: a single company can have accounts in all three categories simultaneously.
+
+---
+
+## The Core Product: Relationship Building (Aug 14, 2026 Crystallization)
+
+After weeks of positioning exploration around ABSM, account mapping, and service language, Mohamed Anis crystallized the fundamental answer on Aug 14:
+
+> *"We do only one thing for our clients: we build relationships. That's it. Sophisticated, multi-threaded relationships — with one person, ten people, a hundred people, a thousand people — inside accounts that matter."*
+
+Everything else — winning accounts, cracking committees, protecting revenue — is downstream of this. The product is not winning accounts (StepUp.One cannot directly close deals for clients). The product is **relationship capital**: a systematic, sustained program of relationship-building tasks that clients either don't know how to do or don't have the capacity to do at scale.
+
+**Why this framing matters for pitching:** "We build relationships" is not a pitch. It is a description of a product. When translated into a pitch, the story is:
+1. Revenue in B2B comes from relationships.
+2. Relationships are hard to build and even harder to maintain at scale.
+3. Most people know the five big things (take the client to dinner; attend their event; book a call) but systematically neglect the hundred small things.
+4. We do the hundred small things for you — every day — so that when the moment for a big thing arrives, the relationship is already warm.
+
+---
+
+## 100 Small Things Philosophy
+
+From the Aug 14 session. This is the operational heart of the relationship-building product.
+
+**The five big things** — what everyone knows to do and wants to do:
+- Take the client to dinner
+- Invite them to a relevant event
+- Book a one-on-one catch-up call
+- Send a personalised gift
+- Attend their conference or launch
+
+**The 100 small things** — what everyone neglects:
+- Comment thoughtfully on their LinkedIn post
+- Congratulate them on a new role, promotion, or funding round
+- Acknowledge their birthday
+- Share their content with a genuine observation
+- Engage with their team members' content
+- Respond to their articles or publications
+- Tag them in relevant conversations
+- Note their product launches or company milestones
+
+**The insight:** high-value clients do the five big things naturally. What differentiates StepUp.One is systematic execution of the 100 small things — at scale, for multiple accounts simultaneously, without the client having to think about it.
+
+**Why small things matter more than they appear:** clients who receive only transactional outreach (request → meeting → pitch) feel sold to. Clients whose contacts have consistently appeared in their periphery — liking, commenting, congratulating — feel genuinely known before the first big ask arrives. The small things are the accumulation that makes the big things land.
+
+**Service implications (raised in Aug 14 session):**
+- Commenting, connecting, and congratulating — confirmed core offering
+- Virtual events for clients: research relevant events → host or co-host → record → edit → post on client's behalf (Farah Ibrahim's proposal)
+- Blogging revival: StepUp.One has an established process in Notion; the team discussed reopening this chapter for clients
+- Cross-platform content amplification: take high-quality content from one platform (LinkedIn) and distribute it to Instagram, Twitter/X, and others to increase client visibility beyond LinkedIn
+
+---
+
+## ABSM Campaign Launch Decision (Aug 14, 2026)
+
+**Decision:** Launch the ABSM campaign by **Monday, 2026-08-18** (the Monday following the Aug 14 session).
+
+**Context:** The team debated whether to test with a few profiles first before transforming the entire team's LinkedIn presence. After nearly a month of discussion, the consensus was to proceed with the full transformation and launch. Key rationale:
+- Running a different campaign from what profiles say has worked before (fundraising profiles running fractional CXO campaigns)
+- The longer the discussion continues without execution, the more momentum is lost
+- The CRM contains 2,000+ existing opportunities; the team was instructed to work these actively while the ABSM campaign is being prepared — do not wait for the new target list
+
+**CRM opportunity gap:** Ahmed Farhan flagged that the team has fewer than 50 active jobs in the CRM against 2,000+ opportunities already in the pipeline. The instruction: exhaust existing network and CRM opportunities before asking for new lists.
+
+---
+
 ## Related Pages
 
 - [Outbound Strategy](outbound-strategy.md) — the broader outbound system that ABSM sits within
