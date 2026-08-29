@@ -1,0 +1,43 @@
+---
+source: farmer/gmail
+farmed: 2026-08-29T00:00:00Z
+thread_id: 1a0389c3b4c9724c
+subject: "Notes: 'StepUp.One Daily Learning' 25 Aug 2026"
+from: gemini-notes@google.com
+labels: [INBOX, UNREAD]
+date: 2026-08-25
+---
+
+# Notes: 'StepUp.One Daily Learning' 25 Aug 2026
+
+Notes from 'StepUp.One Daily Learning'
+
+These notes have been sent to Invited guests in your organisation.
+
+The content was auto-generated on August 25, 2026, 10:25 AM BST, and may contain errors.
+
+## Summary
+
+The team reviewed account-based strategies and quantified relationship capital while refining targeting metrics for future outreach campaigns.
+
+## Account Centric Strategy Transition
+
+The discussion prioritized an account-focused outreach strategy to improve engagement quality over simple connection counts. Participants noted that professional relationships serve as a vital driver for long-term revenue.
+
+## Quantifying Relationship Capital
+
+The group decided to implement a point-based system to quantify relationship capital within the CRM. This framework assigns numerical values to interactions to standardize the perceived value of executive contacts.
+
+## Refining Campaign Execution
+
+Outreach campaigns will now target larger organizations using standardized batch sizes for better tracking. Members emphasized the necessity of strict quality control regarding marketing materials to maintain professional credibility.
+
+## Suggested Next Steps
+
+- [The group] Research Relationship Capital: Investigate if any existing platforms or applications measure relationship capital. Report findings within 24 hours.
+- [Mohamed Anis, Ahmed Farhan] Review Campaign Feedback: Analyze the 200 items collected by Ahmed to evaluate the effectiveness of the current campaign.
+- [The group] Check Search Filters: Verify individual functionality and LinkedIn Sales Navigator settings.
+- [Ahmed Farhan] Test Outreach Variants: Experiment with alternative communication options to identify effective engagement strategies for founders.
+- [Ahmed Farhan] Define Campaign Limits: Establish clear stopping points at specific intervals such as 200, 300, or 500 connections.
+- [The group] Evaluate Marketing Assets: Critically assess current content and visuals from a client perspective to ensure professional standards.
+- [Mohamed Anis] Assess Campaign Materials: Conduct a detailed study of all assets to determine overall effectiveness.
