@@ -7,6 +7,18 @@ sources: []
 
 # Wiki Log
 
+## [2026-09-01] ingest | 1 Gmail file — Aug 31 Daily Learning Notes by Gemini
+
+**Source ingested (1):**
+- `raw/gmail/2026-08-31-notes-stepup-one-daily-learning-31-aug-2026.md` — Aug 31 session: Size Mine client strategy (AI sizing, $30B return market, Korean firm expanding to US/Europe); ABSM US enterprise targeting parameters (1,000–5,000 employees, C-level/VP, CEO-first, 1 account per person, 10–20 contacts); outreach messaging standards (no sales pitch templates); action items for proposal drafting and Korean translation.
+
+**Pages created (1):**
+- `wiki/entities/clients/size-mine.md` — AI sizing client; 3-pillar service (capital, GTM, international expansion); proposal in progress
+
+**Pages updated (2):**
+- `wiki/clients-partnerships/win-new/outbound/absm-methodology.md` — Added: US Enterprise Targeting Parameters section (Aug 31) and Outreach Messaging Standards section; sources updated
+- `wiki/index.md` — Added Size Mine; updated ABSM Methodology description
+
 ## [2026-08-15] ingest | 2 GDrive files — Aug 13 + Aug 14 Daily Learning Notes by Gemini
 
 **Sources ingested (2):**
