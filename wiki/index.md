@@ -136,6 +136,7 @@ The wiki gets richer with every source added. Cross-references are maintained au
 | [Dimitry](entities/clients/dimitry.md) | Flying car startup (UAE); raising $15M Series A; meeting Aug 3 2026; commission-only risk flag |
 | [Joy](entities/clients/joy.md) | Fractional inside sales executive prospect; meeting Aug 3 2026; strong fit with StepUp.One GTM service |
 | [Jim (Crescendo)](entities/clients/jim-crescendo.md) | New GTM campaign client being onboarded Aug 6 2026; Ahmed Farhan managing |
+| [Size Mine](entities/clients/size-mine.md) | AI sizing solutions ($30B clothing return market); Korean firm; StepUp.One raising capital + GTM + international expansion (US/Europe); proposal in progress Aug 2026 |
 
 ### Entities — People (Prospects)
 
