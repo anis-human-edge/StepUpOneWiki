@@ -411,6 +411,42 @@ From the Aug 14 session. This is the operational heart of the relationship-build
 
 ---
 
+## US Enterprise Targeting Parameters (Aug 31, 2026)
+
+From the Aug 31 Daily Learning session, Mohamed Anis specified the precise targeting parameters for ABSM US enterprise outreach:
+
+| Parameter | Value |
+|-----------|-------|
+| Geography | US-based only |
+| Company size | 1,000–5,000 employees |
+| Growth signal | High-growth metrics |
+| Target roles | C-level and VP-level executives only |
+| Priority contact | CEO first (establishes credibility for subsequent connections) |
+| Contacts per account | 10–20 high-level contacts |
+| Accounts per team member | 1 company per person (deep focus, not broad spray) |
+
+**Rationale for CEO-first:** Connecting with the CEO first gives credibility that makes subsequent connections with their direct reports and subordinate leadership significantly easier. The CEO's name in a shared network lends weight to the outreach chain.
+
+**"Good" vs "bad" accounts:** Distinctions between easier and harder accounts are deliberately disregarded. Consistent, persistent outreach across all assigned accounts is the standard — cherry-picking kills the methodology's compounding effect.
+
+**Why Sales Navigator:** LinkedIn Sales Navigator is required to filter by US geography, employee headcount (1,000–5,000), and high-growth metrics simultaneously. As of Aug 31, the team is being directed to sign up for Sales Navigator.
+
+## Outreach Messaging Standards (Aug 31, 2026)
+
+Mohamed Anis explicitly prohibited the use of standard, sales-oriented pitch templates for initial LinkedIn connection requests to enterprise prospects.
+
+**What to avoid:**
+- Standard "I'd like to connect" templates
+- Anything that reads as a sales pitch
+- Direct service descriptions in the opening message
+
+**What to use instead:**
+- Sophisticated, neutral messaging focused on **relationship building**
+- Messages that do not alienate potential enterprise clients
+- Tone that treats the recipient as a peer, not a prospect
+
+**Why this matters at the C-level:** Enterprise C-level executives receive dozens of cold LinkedIn requests daily. A message that feels like a pitch is immediately identified and ignored. A message that creates genuine curiosity or signals peer-level authority gets through. See [Authority in Sales](authority-in-sales.md) for the underlying confidence principle.
+
 ## Related Pages
 
 - [Outbound Strategy](outbound-strategy.md) — the broader outbound system that ABSM sits within
