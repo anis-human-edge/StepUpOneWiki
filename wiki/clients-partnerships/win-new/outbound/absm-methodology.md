@@ -1,7 +1,7 @@
 ---
 title: "ABSM Methodology"
 type: overview
-updated: 2026-08-15
+updated: 2026-08-31
 sources:
   - raw/gdrive/2026-08-03-stepup-one-daily-learning-0759-bst-notes-by-gemini-1UfJC4AZlidmiErgUpWT0mbq230tOJzJW6mwd6sB0Wkc.md
   - raw/gmail/2026-08-01-notes-stepup-one-daily-learning-1-aug-2026.md
