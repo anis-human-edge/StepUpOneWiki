@@ -34,7 +34,9 @@ The wiki gets richer with every source added. Cross-references are maintained au
 | [AI Curriculum Overview](training-reskilling/ai-curriculum-overview.md) | Progressive AI skills ladder for the underserved: from website creation to application building |
 | [Teaching Methodology](training-reskilling/teaching-methodology.md) | How Daily Learning sessions work: no repetition, live demos, attitude training, role structure |
 | [Client Relationship Framework](training-reskilling/client-relationship-framework.md) | 7-stage client journey (Doubt → Harmless → Curious → Expert → Experienced → Trusted → Sustained Outcomes), respect vs trust, cooking level, relationship hierarchy, flick-and-punch two-liner for silent connector conversion; 100 small things vs 5 big things philosophy (Aug 2026) |
-| [LinkedIn Credibility Standards](training-reskilling/linkedin-credibility-standards.md) | Profile checklist for outbound team members: 500+ connections, verification tick, photo, posting standards — passing the scammer filter; ABSM profile transformation with 10-20-30 rule (Aug 2026) |
+| [LinkedIn Credibility Standards](training-reskilling/linkedin-credibility-standards.md) | Profile checklist for outbound team members: 500+ connections, verification tick, photo, posting standards — passing the scammer filter; ABSM profile transformation with 10-20-30 rule (Aug 2026); commenting discipline: 24-hour rule, AI vs human comments (Sep 2026) |
+| [LinkedIn Commenting](training-reskilling/linkedin-commenting.md) | The commenting methodology: 24-hour rule, AI vs human detection, Farah's commenting skill, Anis's 18-technique system (Build/Bound/Challenge/Connect), Abdulkadir's class, second/third-degree virality (Sep 2026) |
+| [Talent Formula](training-reskilling/talent-formula.md) | Talent × Effort = Skill; Skill × Effort = Achievement; the proof trap; Infosys benchmark ($300M/year talent investment, 10k grads); earnings trajectory argument; talent identification in Kakuma via learnability + effort (Sep 2026) |
 
 ### Clients & Partnerships — Win New > Outbound
 
