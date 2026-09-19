@@ -7,6 +7,22 @@ sources: []
 
 # Wiki Log
 
+## [2026-09-19] ingest | 3 GDrive files — Sep 16, 17, 18 Daily Learning Notes by Gemini
+
+**Sources ingested (3):**
+- `raw/gdrive/2026-09-16-stepup-one-daily-learning-0801-bst-notes-by-gemini-1LuhCdrjlOXc.md` — Sep 16 session (159KB): ABSM deep dive on IT services enterprise targeting (100k+ employees); Rapid7 org structure analysis; CEO/CCO/CFO role breakdown; BDM vs account manager distinction; breaking-in prioritized over protect/expand; C-level as ladder/catalyst; large deal specialist targeting at Cognizant (62) and Infosys (36); LinkedIn commenting discipline failure — 24-hour rule established; AI vs human comments review; IT services knowledge-theft risk; Studio tool as proprietary defense.
+- `raw/gdrive/2026-09-17-stepup-one-daily-learning-0759-bst-notes-by-gemini-1in1ELQT5eAW.md` — Sep 17 session (134KB): Ahmed compiled 1,000+ breaking-in accounts and CXO lists; LinkedIn commenting drives senior exec profile views (confirmed); viral content via 2nd/3rd-degree engagement; proof trap for underserved job-seekers; Infosys benchmark ($100M hiring + $200M training); Talent × Effort = Skill formula; earnings trajectory (delivery driver vs software engineer over 10 years); talent identification in Kakuma via learnability and effort.
+- `raw/gdrive/2026-09-18-stepup-one-daily-learning-0758-bst-notes-by-gemini-1mv36MVo1pW8.md` — Sep 18 session (82KB): Farah Ibrahim built a custom AI commenting skill (8–18 words, human elements, conversational connectors); Anis's 18-technique advanced commenting system (Build/Bound/Challenge/Connect families); AI token usage discussion (Nvidia recommends $500k/year per employee); commenting skill released to team.
+
+**Pages created (2):**
+- `wiki/training-reskilling/linkedin-commenting.md` — LinkedIn commenting methodology: 24-hour rule, AI vs human detection, Farah's commenting skill, Anis's 18-technique system, Abdulkadir's class, second/third-degree virality
+- `wiki/training-reskilling/talent-formula.md` — Talent × Effort = Skill formula; proof trap; Infosys benchmark; earnings trajectory; Kakuma talent identification via learnability + effort
+
+**Pages updated (3):**
+- `wiki/clients-partnerships/win-new/outbound/absm-methodology.md` — Added: IT Services Enterprise Targeting section (Sep 2026): 100k+ employee target, universal IT org structure, BDM vs AM distinction, C-level as ladder, large deal specialists as gold mine, knowledge-theft risk, breaking-in prioritized, account prospecting standards; sources updated
+- `wiki/training-reskilling/linkedin-credibility-standards.md` — Added: Commenting as a Credibility Signal section: 24-hour rule, AI vs human detection, Abdulkadir's class, Farah's skill, Anis's 18-technique system; sources updated
+- `wiki/index.md` — Added LinkedIn Commenting and Talent Formula pages; updated ABSM Methodology and LinkedIn Credibility Standards descriptions
+
 ## [2026-09-01] ingest | 1 Gmail file — Aug 31 Daily Learning Notes by Gemini
 
 **Source ingested (1):**
