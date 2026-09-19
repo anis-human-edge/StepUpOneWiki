@@ -449,10 +449,97 @@ Mohamed Anis explicitly prohibited the use of standard, sales-oriented pitch tem
 
 **Why this matters at the C-level:** Enterprise C-level executives receive dozens of cold LinkedIn requests daily. A message that feels like a pitch is immediately identified and ignored. A message that creates genuine curiosity or signals peer-level authority gets through. See [Authority in Sales](authority-in-sales.md) for the underlying confidence principle.
 
+## IT Services Enterprise Targeting (Sep 2026)
+
+From the Sep 16–17 Daily Learning sessions. StepUp.One's ABSM campaign is now specifically targeting professionals within **large IT services enterprises** (100,000+ employees) as buyers of the ABSM "break-in" service.
+
+### Why IT Services
+
+IT services companies — Cognizant, Infosys, IBM, Accenture, and equivalents — share a critical business problem: they live or die by their ability to break into new enterprise accounts, expand existing ones, and protect their most valuable relationships. Their internal sales professionals (Business Development Managers) are paid $200,000+ salaries specifically for this work.
+
+StepUp.One's value proposition: provide systematic, AI-assisted account intelligence and relationship-building capacity to BDMs and account managers who need to perform at scale.
+
+### The Universal IT Services Org Structure
+
+Mohamed Anis (Sep 16): *"The organizational structure of IT services companies on earth — Cognizant, Infosys, IBM, Accenture — is fundamentally the same. No difference whatsoever."*
+
+Every large IT services company has the same skeleton:
+
+| Layer | Role | ABSM Relevance |
+|-------|------|----------------|
+| **Top** | 10 CXOs (CEO, CCO, CFO, CTO…) | Connect first as ladder/catalyst; do not pitch for 3 months |
+| **Middle** | 100 Business Development Managers | Hunt these to sell "break-in" service |
+| **Bottom** | 100 Account Managers / Client Partners | Hunt these to sell "expand and protect" service |
+
+Minor regional or vertical differences exist in the middle layer (e.g., Infosys uses "Head of Telecom" where Cognizant uses "Head of Americas"), but the top and bottom are structurally identical across the industry.
+
+### Account Manager vs Business Development Manager
+
+These two roles are frequently confused but have completely distinct responsibilities:
+
+| Role | Responsibility | ABSM Service to Sell |
+|------|---------------|---------------------|
+| **Account Manager / Client Partner** | Protect and grow an account that is already won | Expand and protect service |
+| **Business Development Manager / Sales Manager** | Break into brand-new accounts | Break-in service |
+
+An account manager never breaks into new accounts — that is exclusively the BDM's domain. When approaching large IT companies, target these two groups separately with different value propositions.
+
+### Target Size: 100,000+ Employees
+
+The Sep 16 session established that the IT services targeting applies to **companies with 100,000 or more employees** (Cognizant, Infosys, IBM, Accenture). Companies like Rapid7 or CrowdStrike (7,000–10,000 employees) are excluded — they are too small to have the full BDM/AM structure described above and represent a different market.
+
+*Note: The Aug 31 targeting parameters (1,000–5,000 employees) apply to the general ABSM outbound campaign for StepUp.One's GTM service. The 100,000+ threshold applies specifically to IT services enterprise ABSM targeting.*
+
+### C-Level as Ladder, Not Pitch Target
+
+Even though CXOs are not the immediate buyers of the break-in service, they are still the **first contacts** to establish within any target account:
+
+**Why connect with CXOs first:**
+- Connecting with the CEO lends credibility that makes all subsequent connections easier ("I'm connected to your CEO")
+- The CEO connection functions as a catalyst — the downstream BDM or account manager sees the shared connection and assigns higher status to the outreach
+- Building a CXO connection even with zero intent to pitch them opens the entire account's relationship network
+
+**The rule:** connect with CXOs even if it takes 30 days. Do not pitch them. Do not ask for meetings. Just connect, engage consistently, and use the relationship as leverage.
+
+To reach CXO-level contacts, team members must "punch above their weight" — developing LinkedIn profiles and commenting credibility that makes a C-suite executive willing to accept a connection request. See [LinkedIn Commenting](../../../training-reskilling/linkedin-commenting.md) and [LinkedIn Credibility Standards](../../../training-reskilling/linkedin-credibility-standards.md).
+
+### High-Value Targets: Large Deal Specialists
+
+A segment identified in the Sep 16 session as "super gold mine" targets:
+
+- **At Cognizant:** approximately 62 people with titles like "Global Head of Large Deals" or "Strategic Large Deals" — these individuals manage billion-dollar sales pipelines
+- **At Infosys:** approximately 36 equivalent personnel
+
+These are the highest-value prospects because they are under the most pressure to perform and have the most to gain from external ABSM support.
+
+### Industry Risk: The Knowledge Theft Problem
+
+Mohamed Anis flagged a fundamental risk in targeting IT services companies:
+
+> *"The risk in IT services is that clients will bring you in, absorb everything you know, and execute it themselves. Their BDMs are paid $200,000 salaries and have deep expertise. They can extract your methodology and implement it without you."*
+
+This is unlike fundraising (where founders buy because they lack specialized knowledge and cannot replicate the capability). IT services BDMs already possess the underlying skills — they are buying execution capacity and scale, not knowledge.
+
+**The strategic implication:** StepUp.One must build **proprietary assets** (specifically the AI Studio tool) that clients cannot replicate on their own. Human knowledge alone cannot win or retain IT services deals. The defensible advantage must be embedded in tooling.
+
+**Decision (Sep 16):** The team decided to prioritize **breaking in** over protecting and expanding accounts, because protecting and expanding are considered too high-risk given the knowledge-theft dynamic.
+
+### Account Prospecting at Scale (Sep 17)
+
+Ahmed Farhan compiled **1,000+ breaking-in accounts** and general CXO lists for target prospecting as of Sep 17. Operational standards:
+
+- **Daily prospecting window:** 10 AM to 11 AM (demonstrate progress and share examples in this window)
+- **Engagement first:** engage with prospects via likes and comments on posts *before* sending direct connection requests — do not cold-connect without prior visibility
+- **Diversification as insurance:** spread prospecting activity across multiple team members to create redundancy in the pipeline. If one person's account goes cold, others continue
+- **Account verification before engagement:** before investing effort in any account, check LinkedIn for recent posts and job listings. A company that hasn't posted in over a year is "dead" — skip it. A company posting within the last week is active and should be prioritized
+
+---
+
 ## Related Pages
 
 - [Outbound Strategy](outbound-strategy.md) — the broader outbound system that ABSM sits within
 - [Follow-up Messaging](follow-up-messaging.md) — post-meeting follow-up protocol (transcript → AI → CEO office)
 - [Authority in Sales](authority-in-sales.md) — the attitude required when running ABSM
+- [LinkedIn Commenting](../../../training-reskilling/linkedin-commenting.md) — how commenting drives ABSM engagement and C-level reach
 - [ICP Hierarchy](../../../strategy-vision/icp-hierarchy.md) — how target accounts are structured
 - [GTM Engine](../../../entities/systems/gtm-engine.md) — StepUp.One's client-facing GTM service
