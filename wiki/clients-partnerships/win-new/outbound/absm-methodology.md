@@ -1,7 +1,7 @@
 ---
 title: "ABSM Methodology"
 type: overview
-updated: 2026-08-31
+updated: 2026-09-19
 sources:
   - raw/gdrive/2026-08-03-stepup-one-daily-learning-0759-bst-notes-by-gemini-1UfJC4AZlidmiErgUpWT0mbq230tOJzJW6mwd6sB0Wkc.md
   - raw/gmail/2026-08-01-notes-stepup-one-daily-learning-1-aug-2026.md
@@ -13,6 +13,8 @@ sources:
   - raw/gdrive/2026-08-13-stepup-one-daily-learning-0759-bst-notes-by-gemini-1x0eRs2eHZEsI0_0AJ294fLUyWM1_-HYGtXJ018qkIcM.md
   - raw/gdrive/2026-08-14-stepup-one-daily-learning-0802-bst-notes-by-gemini-1VqfgAMahQNqJFrJfe1dhisuNwpQCtzV1Sfu8fiZLuQc.md
   - raw/gmail/2026-08-31-notes-stepup-one-daily-learning-31-aug-2026.md
+  - raw/gdrive/2026-09-16-stepup-one-daily-learning-0801-bst-notes-by-gemini-1LuhCdrjlOXc.md
+  - raw/gdrive/2026-09-17-stepup-one-daily-learning-0759-bst-notes-by-gemini-1in1ELQT5eAW.md
 ---
 
 # ABSM Methodology
