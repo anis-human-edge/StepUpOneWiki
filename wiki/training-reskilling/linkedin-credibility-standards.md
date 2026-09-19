@@ -164,8 +164,40 @@ Farah Ibrahim (Aug 5 session): removed 1,500 pending connections to mitigate acc
 
 ---
 
+---
+
+## Commenting as a Credibility Signal (Sep 2026)
+
+From the Sep 16–17 sessions. Consistent, high-quality public commenting is now recognized as one of the most powerful credibility signals on LinkedIn — separate from profile setup.
+
+**Evidence:** After Ahmed Farhan commented on LinkedIn posts in the Sep 16–17 period, senior executives at Cognizant and Infosys viewed his profile. The commenting directly caused the profile views from exactly the prospects the team is targeting.
+
+### The 24-Hour Rule
+
+All leadership team members must comment on designated posts within **24 hours** of publication. Mohamed Anis made this a mandatory discipline standard following the Sep 16 session, where the team failed to comment within 24 hours on a designated post. Excuses (late posting times, waiting for worthwhile content) were rejected.
+
+### Commenting Quality: Human vs AI
+
+**The problem with AI-generated comments (Sep 16 finding):** After reviewing actual team comments, Anis identified that AI-generated text is immediately detectable by sophisticated readers:
+- Overly complex phrasing ("deeper tension," "catalyze")
+- Perfect three-part structures that no human naturally writes
+- Generic observations that could apply to any post on that topic
+- Suspiciously flawless grammar and sentence structure
+
+**The standard:** comments should be 8–18 words, conversational, specific to the actual post content, and contain small natural imperfections.
+
+**Development resources:**
+- **Abdulkadir Mhina's commenting class:** all team members doing outbound must attend. This is the primary training for developing authentic commenting voice.
+- **Farah Ibrahim's commenting skill:** a custom AI skill for generating executive-level comments (built Sep 18), incorporating human elements and conversational connectors. Stored in a shared team document.
+- **Anis's 18-technique commenting system** (released Sep 18): 18 techniques organized in four families (Build, Bound, Challenge, Connect). Feed a post → system returns top 3 recommended comment angles.
+
+See [LinkedIn Commenting](linkedin-commenting.md) for the full commenting methodology.
+
+---
+
 ## Related Pages
 
+- [LinkedIn Commenting](linkedin-commenting.md) — the full commenting methodology, AI vs human standards, and commenting skills
 - [Client Relationship Framework](client-relationship-framework.md) — how profile credibility fits into the 7-stage relationship model
 - [Outbound Strategy](../clients-partnerships/win-new/outbound/outbound-strategy.md) — the full outbound system
 - [Follow-up Messaging](../clients-partnerships/win-new/outbound/follow-up-messaging.md) — what to say once credibility is established
