@@ -1,0 +1,89 @@
+---
+source: farmer/gmail
+farmed: 2026-09-23T00:00:00Z
+thread_id: 1a0a496579805b5e
+subject: "Notes: 'StepUp.One Daily Learning' 15 Sept 2026"
+from: gemini-notes@google.com
+labels: [IMPORTANT, INBOX]
+date: 2026-09-15
+---
+
+Notes from 'StepUp.One Daily Learning'
+
+These notes have been sent to Invited guests in your organisation.
+
+The content was auto-generated on September 15, 2026, 10:23 AM BST, and may contain errors.
+
+## Quick notes
+
+### ABSM training program structure
+
+Ahmed Farhan introduced a 1-month training program structured across 4 weeks to align the entire team on ABSM concepts.
+Running the ABSM process requires a team of at least 10 people.
+
+### Leadership engagement and accountability
+
+Mohamed Anis emphasized that leaders must demonstrate active participation and urgency rather than remaining passive.
+Abdulkadir Mhina noted that demonstrating leadership skills requires having proper opportunities and space provided.
+
+### Account selection and intelligence execution
+
+Team members are instructed to select accounts from the shared Excel sheet and run the Farah skill through GPT for account intelligence.
+Analyzing 1 major IT services company provides operational insights applicable across thousands of similar firms.
+Cognizant generated $21.1 billion in revenue for 2025, with healthcare and financial services acting as primary revenue segments.
+Top accounts driving revenue for Cognizant include Novartis, Merck, and KeyBank.
+
+### IT services versus product company business models
+
+IT services companies solve recurring client problems through customized service engagements, whereas product companies build scalable automated products for broader market adoption.
+
+### Cognizant business scale and industry structure
+
+Losing Novartis would reduce Cognizant market capitalization by 5% to 10%, translating to a $1 billion drop on a $200 million revenue account.
+Health sciences ranks at the top of Cognizant industry structure, followed by financial services divisions including banking, capital markets, insurance, and fintech.
+Cognizant generates $21 billion in total revenue, with $6 billion originating from healthcare and $6 billion from finance.
+
+### ABSM product variations and account strategy
+
+The ABSM product line includes breaking into new accounts, expanding existing accounts, and protecting key accounts.
+Breaking into new accounts represents the easiest sales approach because prospective clients face minimal risk.
+Protecting existing accounts carries high operational risks and requires established trust before execution.
+Account targeting involves isolating specific buying centers, such as US healthcare BDRs, to streamline outreach systematically.
+
+### Public commenting and engagement standards
+
+Public commenting on client accounts demands world-class quality because substandard remarks risk professional credibility and deal disruption.
+Mastering high-level public engagement serves as a powerful weapon for building executive visibility and professional indispensability.
+
+### Client acquisition phases
+
+Mohamed Anis prioritized signing up 10 clients during the breaking in phase before moving to expand and protect phases.
+
+### LinkedIn engagement and algorithm optimization
+
+Mohamed Anis noted that strategic comments drove post impressions to 40,000 before the algorithm plateaued.
+Mohamed Anis advised keeping comments strictly limited to 1 line to maintain perceived intelligence.
+
+## Suggested next steps
+
+[Leaders] Review ABSM Training: Review the shared training document and provide feedback on the ABSM concepts.
+
+[Ahmed Farhan] Share Excel Sheet: Share the Excel sheet link in the group to allow team members to assign their names to selected accounts.
+
+[The group] Select Account: Select an account from the provided Excel sheet and assign a name to it.
+
+[The group] Apply Farah Skill: Copy the Farah skill and utilize ChatGPT to perform account intelligence for the chosen company.
+
+[The group] Develop Connection Strategy: Identify priority clients within the selected account and devise a strategy to connect with top C-suite executives.
+
+[The group] Practice Commenting: Practice writing high-quality comments on LinkedIn posts to improve engagement skills for future client interactions.
+
+[Ahmed Farhan] Research Leader Accounts: Research and identify specific accounts managed by Cognizant leaders such as Sachin Gada by utilizing artificial intelligence tools.
+
+[Ahmed Farhan] Identify Stakeholders: Research and identify the individuals at Cognizant responsible for account breaking in.
+
+[The group] Research Clients: Use Chat Generative Pretrained Transformer to perform research on your assigned client and prepare for the next meeting.
+
+[The group] Practice Commenting: Compose world class LinkedIn comments that are strictly limited to 1 line in length.
+
+[The group] Prepare Account Strategies: Acquire specific account assignments and master the required skills to execute tasks on those accounts.
