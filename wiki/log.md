@@ -7,6 +7,21 @@ sources: []
 
 # Wiki Log
 
+## [2026-09-24] ingest | 3 GDrive files — Sep 21, 22, 23 Daily Learning Notes by Gemini
+
+**Sources ingested (3):**
+- `raw/gdrive/2026-09-21-stepup-one-daily-learning-0757-bst-notes-by-gemini-1qAm0JMUbMgl.md` — Sep 21 session: Talent Formula deep dive (nature+nurture model; talent = genetics + environment); 5-step talent discovery framework (hunger → exposure → capability commitment → training → talent emergence); Marwa (new mother, never boxed) as discovery example; 3-month timeline for talent to emerge at ~5% skill, 24 months to 100%; deliberate practice (measurable goals, video recording, self-reflection, coach feedback) vs initial training; AI 5-option graded talent test — scored on first unaided choice; random monkey = 25%.
+- `raw/gdrive/2026-09-22-stepup-one-daily-learning-0759-bst-notes-by-gemini-1hojRCDjlyxY.md` — Sep 22 session: 4 commenting objectives formalized (relationship building, reach/virality, traffic, thought leadership); ABSM vs viral commenting distinction (poster vs poster's audience); post age rule (recent posts only; old posts = stalking); respect scoring framework (like=10%, reply=20%, two-way reply=30%, client-initiated connection=50%, service inquiry=~70%); commenting tool updated to 3 options (Build, Challenge, Connect angles); AI 5-option scoring system detailed (3 phases: training/practice/performance; 1,000 comments over 100 days; talent thresholds; badges); URL clicks take priority over impressions in performance phase; Microsoft AI revenue analysis (OpenAI = $24B of $34B).
+- `raw/gdrive/2026-09-23-stepup-one-daily-learning-0758-bst-notes-by-gemini-1c8sRnHaS4ie.md` — Sep 23 session: team division proposal debated and rejected — all team members continue existing hunting + add ABSM on top; 3-phase commenting system confirmed (1,000 comments / 100 days); monkey probability analysis (normal = 25%, lucky = 50%, 100% is possible for top talent); ~90% of IT services senior management never post content; golden hour rule (follow, bell notifications, comment within first hour, connect within 24h); cold connections without context prohibited; news-based outreach triggers as alternative for non-posting 90% (congratulate CEO within hours of major announcement); account scaling plan: master 1 account → expand to 5.
+
+**Pages updated (3):**
+- `wiki/training-reskilling/talent-formula.md` — Added: Nature + Nurture model; 5-Step Talent Discovery framework with boxing analogy; Talent Timeline table (3 months = 5% skill; 24 months = 100%; achievement ladder from Year 3+); Deliberate Practice vs Initial Training (measurable goals, video, self-reflection, coach feedback); AI-Graded Talent Test section (5 options, scored on first choice, probability baseline); sources and date updated
+- `wiki/training-reskilling/linkedin-commenting.md` — Added: 4 Commenting Objectives table; Viral Commenting vs ABSM Commenting distinction; Post Age Rule; Respect Scoring Framework table; Commenting Tool Update (3 options); AI 5-Option Assessment System (3-phase scoring, talent thresholds, badges, URL clicks > impressions); sources and date updated
+- `wiki/clients-partnerships/win-new/outbound/absm-methodology.md` — Added: ABSM Execution Rules (Sep 22–23) section covering active poster focus, golden hour rule, cold connections prohibited, news-based outreach triggers, 1→5 account scaling, team structure resolution; sources and date updated
+
+**Pages updated (1, structural):**
+- `wiki/index.md` — Updated LinkedIn Commenting, Talent Formula, and ABSM Methodology descriptions with Sep 22–23 content
+
 ## [2026-09-19] ingest | 3 GDrive files — Sep 16, 17, 18 Daily Learning Notes by Gemini
 
 **Sources ingested (3):**
