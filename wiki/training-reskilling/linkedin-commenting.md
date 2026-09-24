@@ -111,6 +111,134 @@ True content virality on LinkedIn does not depend only on your direct (first-deg
 
 ---
 
+## The 4 Commenting Objectives
+
+From the Sep 22 session, Anis formalized four distinct objectives for LinkedIn commenting. Each has different strategies, metrics, and target post types:
+
+| Objective | Goal | Primary Metric | Key Tactic |
+|-----------|------|----------------|-----------|
+| **Relationship Building** | Earn respect and recognition from a specific target individual | Engagement from target (like → reply → connection) | Comment on recent posts from your target accounts (hours/days old) |
+| **Reach / Virality** | Maximize impression count; build broad awareness | Impressions | Comment on already-viral posts within first hour of trending |
+| **Traffic** | Drive clicks to a URL | URL clicks | Include a link in the comment (sacrifices virality) |
+| **Thought Leadership** | Generate massive conversations; establish professional authority | Reply count; quality of conversation triggered | Comment strategy designed to provoke substantive discussion |
+
+**The critical distinction:** these objectives require different approaches and cannot be blended carelessly. Adding a link to a comment designed for virality destroys its reach, because LinkedIn's algorithm reduces impressions when it detects a link (users perceive it as selling). Driving traffic requires sacrificing virality.
+
+**Thought leadership example:** Ryan spent 7 years commenting solely to establish thought leadership — no traffic, no relationship building, no impressions as metrics. His comments were designed to trigger conversations. Clients can issue direct instructions like "never chase virality — only thought leadership."
+
+---
+
+## Viral Commenting vs ABSM Commenting
+
+A distinction first made in the Sep 22 session that clarifies a previously confused area:
+
+**Viral commenting:**
+- Target posts from major influencers or large brands — *not* prospective clients
+- Goal is reach and impressions — the poster is not the relationship target
+- Comment to be seen by the *audience* of the post, not by the poster
+- Success = high impressions from the post's extended network
+
+**ABSM commenting:**
+- Target posts from specific individuals at target accounts (e.g., Sanju at Cognizant)
+- Goal is relationship building with the poster specifically
+- Success = the poster notices, reacts, or eventually connects
+- Impressions are a secondary metric — a comment that gets 10,000 impressions but zero reaction from Sanju has failed its ABSM purpose
+
+These two modes look identical from the outside (both involve commenting on LinkedIn posts) but have fundamentally different objectives, metrics, and target selection criteria.
+
+---
+
+## Post Age Rule
+
+From the Sep 22 session. **Commenting on old posts creates a stalking perception.**
+
+Commenting on a post from 2 months ago signals to the author that you scrolled through their full post history, which reads as surveillance, not engagement. The author's likely reaction: "Why is this person digging through my old posts? What do they want?"
+
+By contrast, commenting on a post that was published hours or days ago feels natural and organic. The author assumes their post simply reached you through their feed — there is no negative association.
+
+**Rules:**
+- ABSM commenting: target posts published within **hours to days** of the current time
+- If a target rarely posts, this creates a problem (see Golden Hour in the ABSM Methodology)
+- Old posts (1+ months) should not be commented on for ABSM purposes
+- The same logic applies to liking behavior — serial-liking old posts also signals stalking
+
+---
+
+## Respect Scoring Framework
+
+From the Sep 22 session. Commenting cannot build a deep relationship — but it can build respect. Anis defined a concrete scoring framework for measuring how much respect a comment sequence has earned:
+
+| Action from Target | Respect Score |
+|-------------------|---------------|
+| No reaction | 0% |
+| Target likes your comment | 10% |
+| Target replies to your comment | 20% |
+| You reply back; target replies again | 30% |
+| Target initiates a connection request with you | 50% |
+| Target asks about your services | ~70% (highly unlikely via commenting alone) |
+
+**Key insight:** 10 likes or comments from a target do not constitute a relationship. They constitute mutual acknowledgment. The target will not say hello to you on LinkedIn, will not follow your posts, and will not recommend you. The relationship is not built — only the foundation of respect exists.
+
+Commenting is a **standalone weapon** — do not combine it with connection requests. Treat it as one tool in a sequence. The connection request is a separate weapon used after respect has been earned.
+
+---
+
+## Commenting Tool Update: 3 Options
+
+**Decision from Sep 22:** the commenting tool (Farah Ibrahim's AI skill) was updated to generate **3 distinct comment options** from different perspectives, rather than a single generated comment.
+
+**Rationale:** a single AI-generated comment limits the user's ability to evaluate quality. Providing 3 options forces the user to read and compare, building judgment. The act of choosing the best of 3 options develops the same critical faculty being trained in the talent assessment system.
+
+The 3 options are generated from different commenting angles (Build, Challenge, Connect) rather than 3 variations of the same approach.
+
+---
+
+## AI 5-Option Assessment System (3-Phase Scoring)
+
+From the Sep 22–23 sessions, a full system for developing and measuring commenting talent:
+
+### The 3 Phases
+
+| Phase | What Happens | What's Measured |
+|-------|-------------|-----------------|
+| **Training** | 1,000 comments over 100 days; AI presents 5 options per post (ranked 1–5); user picks first choice before receiving explanation | First-choice score (talent) |
+| **Practice** | User practices commenting on their own profile and target accounts | Same scoring system; tracking improvement |
+| **Performance** | Live client commenting with tracked outcomes | Score + actual relationship outcomes |
+
+### The Scoring Logic
+
+For each comment, the user selects 1 of 5 AI-generated options (1 = worst, 5 = best). **The score is based on the first choice, before correction.** The AI then explains why the selected option ranked as it did and why option 5 was best.
+
+After 1,000 comments, the cumulative score becomes the **talent percentage**:
+- Average score of 1 (always worst) → ~0% talent (nearly impossible)
+- Average score of 3 (always middle) → ~50% talent  
+- Average score of 5 (always best) → 100% talent (marker of exceptional aptitude)
+- Random selection → ~25% (the "monkey baseline")
+
+### The Talent Threshold
+
+After 3 months of training (1,000 comments):
+- **Below 25%**: redirected to other tasks — talent for commenting is absent
+- **~50%**: average; given feedback and further time
+- **75%+**: strong talent signal; accelerated to practice phase
+
+### Badges and Recognition
+
+Top-score runs trigger recognition:
+- 5 consecutive "option 5" selections → Level 1 badge
+- 20 consecutive "option 5" selections → Level 2 badge
+- These badges serve as verifiable credentials of commenting proficiency
+
+### Why URL Clicks Beat Impressions
+
+In the performance phase, **URL clicks take priority over impressions** as the skill score metric:
+
+A comment that generates 10,000 impressions but zero URL clicks = **5% skill score** (failure).
+
+Impressions without action prove reach but not effectiveness. URL clicks prove that the comment was compelling enough to drive the reader to take an action — the clearest signal that the comment created real value.
+
+---
+
 ## Related Pages
 
 - [LinkedIn Credibility Standards](linkedin-credibility-standards.md) — profile setup before outreach
