@@ -537,7 +537,77 @@ Ahmed Farhan compiled **1,000+ breaking-in accounts** and general CXO lists for 
 
 ---
 
-## Related Pages
+## ABSM Execution Rules (Sep 22–23, 2026)
+
+Refinements from the Sep 22 and Sep 23 Daily Learning sessions that sharpen how the Engagement Engine is run in practice.
+
+### Focus on Active Posters (First 3 Months)
+
+Mohamed Anis (Sep 23): approximately **90% of senior IT services professionals never publish content on LinkedIn**. Only around 10% actively post.
+
+**The rule:** for the first three months of an ABSM campaign, focus the Engagement Engine exclusively on individuals who are **actively posting**. The 90% who don't post cannot be warmed through commenting — they require different triggers (see News-Based Outreach below).
+
+**Practical implication:** use Sales Navigator to filter for active posters within target accounts. Follow 15–20 relevant accounts daily and enable bell notifications to catch posts within the first hour.
+
+### The Golden Hour Rule
+
+When a target posts, the window to engage is short. The sequence:
+
+1. **Follow the target** and enable bell notifications so their posts surface immediately
+2. **Comment within the first hour** — early comments receive maximum visibility while the post is still gaining traction
+3. **Connect within 24 hours** — a connection request sent after a meaningful public comment has context; it doesn't feel cold
+
+The golden hour is the rare moment when a non-posting target is visible and reachable. Missing it means waiting for their next post (which could be weeks or months away).
+
+**Safety note:** keep comments to **one line** when using the AI commenting skill on live posts. Short comments avoid AI-detection patterns and reduce risk of appearing scripted.
+
+### Cold Connections Prohibited
+
+Mohamed Anis (Sep 23): **cold connections without a specific context or reason must never be done.**
+
+A connection request with no prior engagement, no shared context, and no reason for reaching out reads as spam to a senior IT services executive. It wastes the connection attempt and signals lack of intent to the recipient.
+
+Every connection request must be grounded in one of:
+- A comment or like the person has already seen (public engagement first)
+- A news event that provides a natural congratulatory reason (see below)
+- A shared connection or relevant event
+
+### News-Based Outreach Triggers
+
+For the 90% of target senior management who do not post content, major company news is the primary alternative engagement trigger.
+
+**How it works:**
+- Monitor target accounts for major announcements: strong quarterly results, large contract wins, industry recognition, major hires or promotions
+- When a major announcement breaks, send a **congratulatory message to the relevant executive within hours** — not days, within hours
+- A timely, genuine congratulation on a significant achievement has a reliably high response rate even from executives who never respond to standard outreach
+
+**Why it works:** congratulating someone on a real achievement is not a pitch. It is a peer acknowledgment. The executive who just announced a record quarter is in a moment of public pride — an authentic, timely congratulation lands as genuine recognition, not as a sales approach.
+
+Mohamed Anis (Sep 23): *"Reacting to a major corporate achievement or a strong quarterly result and sending a congratulatory message to a chief executive officer within hours is a reliable way to secure a response."*
+
+**Sources to monitor:** company LinkedIn pages, Google News alerts on target accounts, LinkedIn's own notification system for company updates.
+
+### Account Scale-Up: 1 → 5 Accounts
+
+The ABSM execution model starts with a single target account (e.g., Cognizant). The discipline of running commenting, following, golden-hour engagement, news monitoring, and connection sequencing for one account must be mastered before expanding.
+
+**Scaling rule:** once the team has mastered the full workflow on one account — active poster identification, golden-hour engagement, cold-connection avoidance, news-triggered outreach — expand scope to **five accounts simultaneously**.
+
+Running five accounts at once is the operational steady state. Running one account is the training state.
+
+### Team Structure: ABSM + Existing Hunting (Sep 23)
+
+A proposal to divide the team into separate ABSM and non-ABSM groups was debated and **rejected** in the Sep 23 session. The resolution:
+
+- All team members continue their **existing hunting work** (outreach to founders, fractional CXO campaigns, and other non-ABSM campaigns)
+- All team members **add ABSM on top** — not instead of — their existing tasks
+- No one is left behind on previous methods; no one is excluded from ABSM capability development
+
+**Rationale (Farah Ibrahim, Sep 23):** *"Whatever you are doing, keep on doing. You should not stop and then add ABSM on top of it. You become more powerful."*
+
+The team members who do not develop ABSM capability risk being sidelined as the business matures toward large-account focus. Both tracks run in parallel until the transition is complete.
+
+---
 
 - [Outbound Strategy](outbound-strategy.md) — the broader outbound system that ABSM sits within
 - [Follow-up Messaging](follow-up-messaging.md) — post-meeting follow-up protocol (transcript → AI → CEO office)
