@@ -1,9 +1,10 @@
 ---
 title: "Talent Formula"
 type: topic
-updated: 2026-09-19
+updated: 2026-09-24
 sources:
   - raw/gdrive/2026-09-17-stepup-one-daily-learning-0759-bst-notes-by-gemini-1in1ELQT5eAW.md
+  - raw/gdrive/2026-09-21-stepup-one-daily-learning-0757-bst-notes-by-gemini-1qAm0JMUbMgl.md
 ---
 
 # Talent Formula
