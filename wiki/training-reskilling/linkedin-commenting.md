@@ -240,6 +240,30 @@ Impressions without action prove reach but not effectiveness. URL clicks prove t
 
 ---
 
+## High-Stakes Commenting: CEOs and Senior Targets (Sep 2026)
+
+Commenting on high-value target posts — particularly the CEO of a company you are pursuing as a client — carries a different risk/reward calculus than general commenting practice.
+
+**The principle: good is not good enough.**
+
+Mohamed Anis to Ahmed Farhan after his comment on a target CEO's post (Sep 25 session):
+> *"I appreciate the courage you have, but you have to be careful. You don't get many chances with the CEO. Imagine I'm going to sign a deal with him, and then I say Ahmed Farhan will be your team leader — and then he says, 'It's the same guy who's been putting comments on my thing.' Can you imagine that scenario? Your comment is actually a good comment, but good is bad — good is not good enough. We need the best."*
+
+### Why this matters
+
+Once you comment on a target CEO's post, you are on their radar. That comment is now part of their perception of you — and by extension, of StepUp.One. A mediocre comment from a team member who will later be proposed as their account leader undermines the pitch before the meeting has happened.
+
+### The standard for CEO-target comments
+
+- **Practice with others first.** Build commenting confidence and quality on less sensitive targets before engaging with high-priority CEOs.
+- **Only comment when the comment is exceptional.** "Exceptional" means: adds a genuine insight, demonstrates deep understanding of the CEO's world, and would make the CEO curious about who you are.
+- **Never comment just to comment.** A weak comment on a CEO's post is worse than no comment. Silence is neutral; a poor comment is a negative signal.
+- **When in doubt, hold.** If you cannot craft a comment you would be proud of even after multiple drafts, wait for a better post.
+
+This standard applies specifically to C-suite executives at accounts you are actively targeting for business. General commenting volume on non-target posts is encouraged and follows the standard commenting methodology.
+
+---
+
 ## Related Pages
 
 - [LinkedIn Credibility Standards](linkedin-credibility-standards.md) — profile setup before outreach
