@@ -16,6 +16,7 @@ sources:
   - raw/gdrive/2026-08-03-stepup-one-daily-learning-0759-bst-notes-by-gemini-1UfJC4AZlidmiErgUpWT0mbq230tOJzJW6mwd6sB0Wkc.md
   - raw/gdrive/2026-08-13-stepup-one-daily-learning-0759-bst-notes-by-gemini-1x0eRs2eHZEsI0_0AJ294fLUyWM1_-HYGtXJ018qkIcM.md
   - raw/gdrive/2026-08-14-stepup-one-daily-learning-0802-bst-notes-by-gemini-1VqfgAMahQNqJFrJfe1dhisuNwpQCtzV1Sfu8fiZLuQc.md
+  - raw/gdrive/2026-09-25-stepup-one-daily-learning-0759-bst-notes-by-gemini-1r1AKXs0pdBE.md
 ---
 
 # Client Outbound Strategy
