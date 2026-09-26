@@ -196,6 +196,40 @@ See [LinkedIn Commenting](linkedin-commenting.md) for the full commenting method
 
 ---
 
+## Featured Section Mechanics (Sep 2026)
+
+The LinkedIn featured section is a high-visibility area on your profile — it appears prominently and is what prospects see when they want to understand who you are. Getting content into it has a non-obvious technical constraint:
+
+**The rule:** only LinkedIn **articles** can be featured. Regular posts and reposts cannot be added to the featured section.
+
+### How to feature content
+
+1. Write the content as a LinkedIn **article** (not a post).
+2. Publish the article.
+3. Copy the article's URL.
+4. Go to your profile → **Add section → Featured → Add a link**.
+5. Paste the article URL and save.
+
+Mohamed Anis discovered this in a Sep 25 session after trying multiple approaches (sharing from a post, reposting, etc.) with the team troubleshooting live:
+> *"I completely missed it — it has to be an article, it can't be a post. That is the problem. So if you want anything to be featured, it has to be an article, not a post."*
+
+**Practical implication:** if you want a piece of writing in your featured section, write and publish it as a LinkedIn article first. You cannot feature a post you've already written; you'd need to republish it as an article.
+
+---
+
+## CEO Credibility Strategy (Sep 2026)
+
+As of September 2026, Mohamed Anis shifted the profile credibility strategy for team outreach. Previously, the team's credibility anchor was the StepUp.One brand alone. Now, the strategy uses **both StepUp.One and Mohamed Anis's personal CEO profile and fundraising expertise** as dual credibility points.
+
+**Why the shift:** Anis's previous LinkedIn profile did not feature fundraising expertise, so it could not be used as a credibility anchor for the Founders Fundraising product. Now that the profile includes his fundraising track record and published content on relationship-building, the team can point to both the company and its CEO as proof of capability.
+
+Mohamed Anis in the Sep 25 session:
+> *"I was not an expert in fundraising and therefore I could not give you a credibility on fundraising. This is now my credibility — so therefore you know I can easily give my credibility. Not just my credibility, it's both the credibility."*
+
+The article selected for the featured section — "I was wrong about where relationships get built" — was chosen specifically because 20+ years of experience combined with an admission of being wrong creates high intrigue and positions Anis as an authoritative practitioner who has learned from the field.
+
+---
+
 ## Related Pages
 
 - [LinkedIn Commenting](linkedin-commenting.md) — the full commenting methodology, AI vs human standards, and commenting skills
