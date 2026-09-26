@@ -32,10 +32,19 @@ Byaombe was an active participant:
 
 - **Account management education:** Byaombe and Mahmud Bilow initially defined "living and dying by an account" in terms of trust and relationship quality. Mohamed Anis corrected this — in business, "living and dying by an account" refers strictly to **financial growth**: whether an account manager can increase revenue within their assigned accounts.
 
-## Action Items (as of 2026-08-08)
+### September 25, 2026 — Inbound Lead Escalation
 
-- [ ] Research communication and presentation techniques to identify and correct personal speech mistakes
-- [ ] Update LinkedIn profile: develop new banner, headline, and about section aligned with ABSM framework
+Byaombe brought an inbound lead to the Daily Learning session for group evaluation:
+
+- **Lead: Amanda** — reached out via LinkedIn asking about fundraising services for a real estate private equity firm. Wanted a WhatsApp call.
+- Mohamed Anis evaluated Amanda's LinkedIn profile and identified her as a recruiter trying to raise capital; her profile details did not match her stated pitch.
+- **Decision:** Play the game anyway. Send Amanda the [Founders Fundraising Page](../../systems/fundraising-engine.md) specifying the $400/month service fee for speaking to 200 investors. If Amanda accepts the terms, arrange a call with Ahmed Farhan.
+- Assigned to Byaombe Wilondja and Gloire Kwaami to execute the follow-up.
+
+## Action Items (as of 2026-09-25)
+
+- [ ] Send Amanda the founders fundraising page specifying $400/month (with Gloire Kwaami)
+- [ ] Schedule a call with Ahmed Farhan if Amanda accepts the terms
 
 ## Related Pages
 
