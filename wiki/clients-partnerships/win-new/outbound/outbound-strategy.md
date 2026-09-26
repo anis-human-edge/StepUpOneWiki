@@ -158,6 +158,25 @@ As of the Jul 8 session, StepUp.One's outbound ICP for the fundraising and GTM e
 
 Reason: past outreach to non-founders produced no conversions and diluted campaign data. Every outreach message sent to a non-Founder/CEO is wasted capacity.
 
+### Prospect Qualification in Practice: The Joseph Kravich Case (Sep 25, 2026)
+
+A live case study that crystallizes the ICP filtering principle:
+
+Ahmed Farhan received an unsolicited inbound message from a prospect named Joseph Kravich. The prospect's opening question: *"What do you mean by a key relationship account? Are you referring to a Key Bank account?"*
+
+Mohamed Anis's analysis in the Sep 25 session: a legitimate target prospect — a Founder or CEO who operates in the enterprise sales space — would immediately understand the terminology. Not understanding "key relationship account" is a fundamental signal that the person is outside the ICP. Further signals from Kravich's profile: 116 connections, founder of a small company, used AI-generated responses to answer questions in the thread.
+
+**The rule derived from this case:** if a prospect cannot understand your headline and messaging without asking basic definitional questions, they are almost certainly not your ICP. Your messaging is not the problem; the prospect is not the target.
+
+The analogy Anis used to make this visceral:
+> *"You're walking in Kakuma, and Marwa is holding a six-month-old baby. You go and say, 'Hey Marwa, we're having a tryout for the Olympic boxing team, would you like to come?' And Marwa starts laughing and asks, 'Are you okay?' — she thinks you're mentally retarded. If somebody starts a conversation with you like Joseph did, that is as strange as that. It tells you everything you need to know about whether this is your fish."*
+
+**When to pass on a prospect:** immediately, without extensive analysis, if any of the following are true:
+- They don't understand the core terminology of the service they inquired about
+- Their opening message is bizarrely off-topic (e.g., technical complaints about LinkedIn to a salesperson)
+- Their profile shows fewer than 200 connections (signals no serious professional network)
+- They self-identify as an SMB when the service targets enterprise
+
 ## Booking Link Protocol
 
 **Never include a booking/calendar link in the first outreach message.**
