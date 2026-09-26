@@ -98,6 +98,28 @@ The inbound strategy is being translated into a Product Requirements Document (P
 - Execution playbook
 - Proof metrics
 
+## Inbound Lead Triage (Sep 2026)
+
+Not every inbound lead is what they claim to be. A protocol for evaluating unexpected inbound inquiries:
+
+### The Amanda Case (Sep 25, 2026)
+
+**Scenario:** Byaombe Wilondja received an unsolicited LinkedIn message from a prospect named Amanda, inquiring about fundraising services for a real estate private equity firm. She asked for a WhatsApp call.
+
+**Triage process:**
+1. Byaombe escalated to Mohamed Anis before committing to a call.
+2. Anis reviewed Amanda's LinkedIn profile and identified a mismatch: she presented as a recruiter, but her inquiry was framed as if she was a firm seeking capital-raise services. Her profile details didn't align with her pitch.
+3. **Verdict:** Amanda is a recruiter trying to raise capital on behalf of a client — not the target ICP.
+
+**Decision:** "Play the game anyway." Even unqualified inbound leads can convert if they self-select at the right price point. The playbook:
+1. Send the [Founders Fundraising Page](../../../entities/systems/fundraising-engine.md) with the $400/month service fee clearly stated.
+2. If the prospect accepts, schedule a qualifying call with the fundraising team leader (Ahmed Farhan).
+3. If the prospect declines or goes silent: no time lost, and no unqualified meeting on the calendar.
+
+**Key principle:** for low-fit inbound leads, don't engage in exploratory back-and-forth. Send the offer with the price. Let the price do the qualification.
+
+---
+
 ## Related Pages
 
 - [Outbound Strategy](../outbound/outbound-strategy.md) -- the direct messaging counterpart
