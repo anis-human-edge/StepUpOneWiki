@@ -52,7 +52,7 @@ The wiki gets richer with every source added. Cross-references are maintained au
 
 | Page | Description |
 |------|-------------|
-| [Inbound Strategy](clients-partnerships/win-new/inbound/inbound-strategy.md) | Portfolio of parallel strategies: commenting, posting, blogging, newsletter. Research engine details |
+| [Inbound Strategy](clients-partnerships/win-new/inbound/inbound-strategy.md) | Portfolio of parallel strategies: commenting, posting, blogging, newsletter. Research engine details; inbound lead triage (Amanda case: recruiter posing as capital-seeker — send fundraising page at $400/mo, let price do qualification) (Sep 25) |
 
 ### Strategy & Vision
 
