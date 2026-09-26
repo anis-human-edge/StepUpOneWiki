@@ -1,7 +1,7 @@
 ---
 title: "Client Inbound Strategy"
 type: overview
-updated: 2026-06-23
+updated: 2026-09-25
 sources:
   - raw/gdrive/2026-04-13-daily-learning-1250.md
   - raw/gdrive/2026-04-15-daily-learning-0758.md
