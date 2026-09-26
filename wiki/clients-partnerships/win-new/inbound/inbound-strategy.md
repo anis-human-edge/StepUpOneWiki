@@ -6,6 +6,7 @@ sources:
   - raw/gdrive/2026-04-13-daily-learning-1250.md
   - raw/gdrive/2026-04-15-daily-learning-0758.md
   - raw/gmail/2026-06-23-notes-stepup-one-daily-learning-23-jun-2026.md
+  - raw/gdrive/2026-09-25-stepup-one-daily-learning-0759-bst-notes-by-gemini-1r1AKXs0pdBE.md
 ---
 
 # Client Inbound Strategy
