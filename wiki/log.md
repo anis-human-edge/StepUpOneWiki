@@ -7,6 +7,19 @@ sources: []
 
 # Wiki Log
 
+## [2026-09-26] ingest | 1 GDrive file — Sep 25 Daily Learning Notes by Gemini
+
+**Source ingested (1):**
+- `raw/gdrive/2026-09-25-stepup-one-daily-learning-0759-bst-notes-by-gemini-1r1AKXs0pdBE.md` — Sep 25 session (~54 min). Topics: prospect qualification case study (Joseph Kravich — unqualified lead who confused "key relationship account" with a bank; filtering principle: if they don't understand your headline, they're not your ICP); LinkedIn featured section mechanics (must publish as article not post; how to add as link); CEO credibility strategy (Anis's fundraising expertise now used as dual credibility anchor alongside StepUp.One brand); inbound lead evaluation (Amanda — recruiter trying to raise capital; send founders fundraising page at $400/month, let price qualify); CEO commenting standards: good is not good enough. Participants: Mohamed Anis, Ahmed Farhan, Farah Ibrahim, Nuuh Iftin, Mahmud Bilow, Abdulkadir Mhina, Byaombe Wilondja, Gloire Kwaami, Abdulla Salem, Obedi Abekya.
+
+**Pages updated (6):**
+- `wiki/training-reskilling/linkedin-credibility-standards.md` — Added: Featured Section Mechanics (article required, not post; step-by-step how-to); CEO Credibility Strategy (dual anchor: StepUp.One + Anis's fundraising expertise; article "I was wrong about where relationships get built"); source and date updated
+- `wiki/training-reskilling/linkedin-commenting.md` — Added: High-Stakes Commenting section (CEO target commenting: good is not good enough; practice with others first; only comment when comment is exceptional); source and date updated
+- `wiki/clients-partnerships/win-new/outbound/outbound-strategy.md` — Added: Prospect Qualification in Practice case (Joseph Kravich — ICP filtering principle with Marwa/Olympic boxing analogy; when to immediately pass on a prospect); source and date updated
+- `wiki/clients-partnerships/win-new/inbound/inbound-strategy.md` — Added: Inbound Lead Triage section (Amanda case: recruiter misrepresenting as PE firm; send fundraising page at $400/mo; let price do qualification); source and date updated
+- `wiki/entities/people/byaombe-wilondja.md` — Added: Sep 25 activity (Amanda lead escalation; assigned to send fundraising page with Gloire Kwaami); action items updated
+- `wiki/index.md` — Updated descriptions for LinkedIn Credibility Standards, LinkedIn Commenting, Outbound Strategy, Inbound Strategy; date updated
+
 ## [2026-09-24] ingest | 3 GDrive files — Sep 21, 22, 23 Daily Learning Notes by Gemini
 
 **Sources ingested (3):**
