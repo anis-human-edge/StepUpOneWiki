@@ -1,7 +1,7 @@
 ---
 title: "Client Outbound Strategy"
 type: overview
-updated: 2026-08-15
+updated: 2026-09-25
 sources:
   - raw/gdrive/2026-04-13-daily-learning-0751.md
   - raw/gdrive/2026-04-13-daily-learning-1250.md
