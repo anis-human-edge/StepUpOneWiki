@@ -132,7 +132,7 @@ The wiki gets richer with every source added. Cross-references are maintained au
 | [Kushal](entities/clients/kushal.md) | Client pausing service (Jun 2026); 412/47/5 campaign metrics; refused pay-per-success model |
 | [Edocite](entities/clients/edocite.md) | EdTech client; enrollment team engagement product; StepUp.One runs outbound and built their dashboard |
 | [Ferrarx](entities/clients/ferrarx.md) | Food-as-medicine delivery client; StepUp.One runs outbound to win insurance company buyers; 35 accounts hunted, 511 connections |
-| [Aurora Financial Group](entities/clients/aurora-financial-group.md) | Capital markets / investor matchmaking firm; active serve-current engagement; retail project launch + curated investor matching platform for medical/veterinary asset classes |
+| [Aurora Financial Group](entities/clients/aurora-financial-group.md) | Capital markets / investor matchmaking firm; active serve-current engagement; retail project launch + curated investor matching platform for medical/veterinary asset classes; Sep 28 2026: Karen proposes licensing StepUp.One AI platform; service→platform transition discussion underway |
 | [Lakshmi](entities/clients/lakshmi.md) | Fractional CXO / GP prospect (US); top 10 entrepreneur 2025, Oracle background; meeting Aug 3 2026 |
 | [Tiboot](entities/clients/tiboot.md) | Fractional executive prospect; runs independent board of advisors; meeting Aug 3 2026 |
 | [Dimitry](entities/clients/dimitry.md) | Flying car startup (UAE); raising $15M Series A; meeting Aug 3 2026; commission-only risk flag |
