@@ -73,7 +73,7 @@ The wiki gets richer with every source added. Cross-references are maintained au
 | Page | Description |
 |------|-------------|
 | [Mohamed Anis](entities/people/mohamed-anis.md) | Founder/CEO, session leader, system builder, primary teacher |
-| [Karen Todd](entities/people/karen-todd.md) | Contact at Aurora Financial Group; primary owner of retail project launch, investor matchmaking platform, and class segregation/crypto project |
+| [Karen Todd](entities/people/karen-todd.md) | Contact at Aurora Financial Group; primary owner of retail project launch, investor matchmaking platform, and class segregation/crypto project; Sep 28 2026: proposed AI platform licensing model — Karen as licensee under StepUp.One AI platform; decision pending |
 | [Ryan Sullivan](entities/people/ryan-sullivan.md) | Former team member; PhD on turning relationships into outcomes; author |
 | [Rivelino Rigters](entities/people/rivelino-rigters.md) | Amsterdam-based community leader working with post-release youth and refugees |
 | [Farah Ibrahim](entities/people/farah-ibrahim.md) | Senior team leader, 5+ years, session backup, win-back lead |
