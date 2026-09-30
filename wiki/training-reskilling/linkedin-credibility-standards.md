@@ -232,6 +232,124 @@ The article selected for the featured section — "I was wrong about where relat
 
 ---
 
+---
+
+## Standard Headline Format (Sep 28, 2026)
+
+After iterating through many options, the team agreed on a two-part formula for ABSM-focused profiles:
+
+```
+AI-native ABSM expert | Helping executives land and expand
+```
+
+- **Title:** "AI-native ABSM expert" — signals the specific methodology and modern AI integration
+- **Headline:** "Helping executives land and expand" — four words that land immediately with IT services executives because "land and expand" is their primary objective
+
+**Why this headline works:** "land and expand" is industry vocabulary — IT services executives use this phrase in every meeting. Prospects in this ICP read it and immediately know you understand their world.
+
+**What was rejected:**
+- "Strategic account growth and enterprise relationship" — implies you manage StepUp.One's accounts, not theirs
+- "Building the relationships B2B teams need to win, expand and protect" — too long, loses the prospect mid-sentence when only first 4 words are visible (e.g., in a comment or connection request)
+- "B2B teams" — impersonal; the prospect thinks "I'm not a B2B team"
+
+**Profile title in experience section:** "AI-native ABSM expert" (from the actual start date in 2023, not newly backdated — this is when the ABSM methodology was already being practised under a different name). Set employment type to full-time.
+
+**Call-to-action link:** "Learn how" — directs to the StepUp.One website. Reject "explore how," "discover how," or anything except a simple action phrase.
+
+---
+
+## One Featured Post Rule (Sep 28, 2026)
+
+Every profile must have **exactly one** featured post. Two or more featured items dilutes focus and appears unprofessional.
+
+Keep the featured section to a single, well-chosen article. See [Featured Section Mechanics](#featured-section-mechanics-sep-2026) above for how to add an article.
+
+---
+
+## Connection Request Policy: Blank vs Weak (Sep 28, 2026)
+
+When connecting with high-priority prospects, there are two options:
+
+1. **Send a strong, customized connection message** — ideal
+2. **Send a blank/empty connection request** — acceptable
+
+**Never** send a weak or generic message. A poor connection message actively damages credibility; a blank request merely waits for acceptance.
+
+Ahmed Farhan validated this approach in practice: without a pre-written message, he sent blank connection requests to Cognizant client partners and had 7+ accept within days. The clean profile does the persuasion work; the blank request simply creates the opening.
+
+Mohamed Anis:
+> *"It is better to send plain, empty [than a weak message]. Do not send a weak connection message and look like an idiot."*
+
+---
+
+## Profile Photo: Smile Standard (Sep 28, 2026)
+
+The profile photo must show a genuine, visible smile.
+
+**Minimum:** at least 20 visible teeth. If someone cannot count 20 teeth, the person is not smiling enough.
+
+**Why:** approachability drives connection acceptance and meeting bookings. A serious or stern expression signals "I don't want to work with you" before a single word is exchanged.
+
+Mohamed Anis on the standard:
+> *"I feel like working with her immediately. I mean, is she threatening to you? Right. The minimum number of teeth that you have to count is at least 20."*
+
+**Reference:** Marva (team member) is cited as the benchmark example of positive, welcoming energy in a profile photo.
+
+---
+
+## Profile Photo: Men's Standard (Sep 29, 2026)
+
+**Benchmark: Abdulkadir Mhina's photo** is the official standard for all men at StepUp.One.
+
+What the standard represents:
+- **Modern executive aesthetic** — not a 1990s formal suit or a low-level official style
+- **2026 executive look** — subtly elegant, high-end, conveys peer-level authority with IT services decision-makers
+- **Brand color C95917** — inner sweater/jumper under suit jacket should match this specific color code
+
+**What to avoid:**
+- Outdated formal suit style (1990s/early 2000s corporate)
+- All-white outfits (poor contrast, low visual impact)
+- Overly serious or stern expression
+
+Farhaan Abdi hassan was assigned to create an AI-generated photo reference based on Abdulkadir Mhina's standard, and to develop a women's equivalent (incorporating hijab) by 2026-09-30.
+
+---
+
+## Women's Profile Photo Standard (Sep 29, 2026 — pending)
+
+A standardized women's LinkedIn profile photo incorporating hijab is under development. Reference: Abdulkadir Mhina's photo as the base standard for modernity and elegance, with a larger suit style and hijab.
+
+Status: Farhaan Abdi hassan was tasked with generating this reference. Not yet finalized as of 2026-09-29.
+
+---
+
+## Company Email: Mandatory for All Communications (Sep 29, 2026)
+
+All professional communication — client outreach, LinkedIn support requests, account recovery — must use official StepUp.One email addresses (`@stepup.one` or `@human-edge.io`), never personal Gmail.
+
+**Why:** Gmail is used by scammers to create disposable accounts. A Gmail sender immediately triggers the prospect's scam detection. An official company email signals institutional affiliation and organizational legitimacy.
+
+Mohamed Anis:
+> *"Scammers constantly use and discard Gmail accounts, making official company emails essential for professional credibility."*
+
+If a team member lacks access to their company email, contact Abdulkadir Mhina to reset passwords or create a new address.
+
+---
+
+## Banner: Download From the Official Shared Link (Sep 29, 2026)
+
+**Do not** copy the banner by downloading it from another team member's profile. Copying from a profile reduces resolution and visibility — the banner appears dark or low quality.
+
+**Do** download the 4 official banner versions from the designated shared link Ahmed Farhan distributes in the team group. These are full-resolution source files.
+
+---
+
+## Credibility Signal: Cloud Certifications (Sep 29, 2026)
+
+Cloud certifications (e.g., AWS, Azure, Google Cloud) carry significant credibility with IT services prospects because cognitive teams, company sponsors, and client partners actively complete them. Displaying cloud-certified partner status on a profile enhances professional positioning with this ICP.
+
+---
+
 ## Related Pages
 
 - [LinkedIn Commenting](linkedin-commenting.md) — the full commenting methodology, AI vs human standards, and commenting skills
