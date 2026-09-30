@@ -42,6 +42,35 @@ When team delegation failed on the retail project, Karen stepped in personally t
 
 ---
 
+## Sep 28, 2026 Meeting — Platform vs Service Discussion
+
+Anis and Karen held their recurring meeting on 2026-09-28 (14:27 BST). Key topics:
+
+### Service vs Platform Distinction
+
+Anis drew a clear line: StepUp.One currently delivers a world-class **service** — a high-performing execution team with strong CRM and strategies — but not yet a true **platform**. A true platform requires a unified login environment where all clients, teams, and operators can access and build.
+
+### Karen's AI Platform Proposal
+
+Karen proposed aligning her real estate investor marketplace under Anis's AI platform, positioning herself as a **licensee** who would sell AI tools and the investor platform to her marketplace. She wants to retain the existing execution team within the expanded model.
+
+Anis was enthusiastic about the direction but struggled to fully visualize the complete product backbone at this stage. The decision on AI platform focus and licensing structure is **pending** — needs further visualization and alignment.
+
+### Generational Wealth Discussion
+
+Anis shared his philosophy on building assets vs working for corporations. He criticized corporate "maya" — companies provide large compensation early in careers to lock employees in while extracting millions in value, leaving people building someone else's asset rather than their own.
+
+### Open Action Items (as of 2026-09-28)
+
+| Owner | Action |
+|-------|--------|
+| Karen Todd + Anis | Schedule recurring 1-hour working sessions |
+| Mohamed Anis | Teach Karen AI — brick by brick |
+| Karen Todd + Anis | Create shared platform workspace for joint assets |
+| Pending | Finalize AI platform focus and licensing structure |
+
+---
+
 ## Related Pages
 
 - [Aurora Financial Group](../clients/aurora-financial-group.md) — company entity
