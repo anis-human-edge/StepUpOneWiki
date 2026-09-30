@@ -77,6 +77,33 @@ A parallel project involving a class segregation specialist. Legal review for cr
 
 ---
 
+---
+
+## Sep 28, 2026 — AI Platform Licensing Discussion
+
+In the Sep 28 meeting, Karen proposed a significant strategic expansion: positioning Aurora's real estate investor marketplace as a **licensed product under the StepUp.One AI platform**. Under this model:
+
+- **StepUp.One** = the AI platform backbone + licensors framework
+- **Karen Todd / Aurora** = licensee, selling AI tools + the investor platform to Aurora's marketplace
+- **Execution team** = retained within the expanded model
+
+### Service vs Platform Gap
+
+Anis articulated the current state clearly: StepUp.One possesses a world-class service — Karen's CRM + execution team + strategies — but not yet a true software platform. A true platform means clients, teams, and participants all log into a unified environment.
+
+This is a strategic milestone that defines the next phase of growth.
+
+### Key Decisions
+
+| Decision | Status |
+|----------|--------|
+| AI platform focus and licensing structure | **Pending** — needs further visualization |
+| Weekly 1-hour working sessions | Agreed in principle |
+| Anis teaching Karen AI | Committed |
+| Shared platform workspace | Agreed in principle |
+
+---
+
 ## Related Pages
 
 - [Karen Todd](../people/karen-todd.md) — primary contact at Aurora Financial Group
