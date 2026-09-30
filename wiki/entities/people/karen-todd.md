@@ -1,9 +1,10 @@
 ---
 title: "Karen Todd"
 type: entity
-updated: 2026-06-29
+updated: 2026-09-30
 sources:
   - raw/gdrive/2026-06-29-karen-and-anis-2026-06-29-1419-bst-notes-by-gemini-1GAoGSApgfu1R1GLm-79A2Fu98Omt1Uc87S_FDWQeiaQ.md
+  - raw/gdrive/2026-09-28-karen-and-anis-1427-bst-notes-by-gemini-11z-6j-7oh6j2Z30joz4fMAonq0M2xd8HPimUxuBsbXk.md
 ---
 
 # Karen Todd
