@@ -13,7 +13,7 @@ Contact at [Aurora Financial Group](../clients/aurora-financial-group.md).
 
 **Email:** ktodd@aurorefinancialgroup.com  
 **Relationship:** Active client engagement — serve-current  
-**Last interaction:** 2026-06-29 (meeting with Anis, 14:19 BST)
+**Last interaction:** 2026-09-28 (recurring meeting with Anis, 14:27 BST)
 
 ---
 
