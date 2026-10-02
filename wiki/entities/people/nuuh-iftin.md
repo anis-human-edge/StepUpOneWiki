@@ -1,45 +1,34 @@
 ---
 title: "Nuuh Iftin"
 type: entity
-updated: 2026-04-16
+updated: 2026-10-02
 sources:
-  - raw/gdrive/2026-03-21-daily-learning-0900.md
-  - raw/gdrive/2026-03-26-daily-learning-0703.md
-  - raw/gdrive/2026-03-28-daily-learning-0800.md
-  - raw/gdrive/2026-03-30-daily-learning-0758.md
-  - raw/gdrive/2026-04-09-daily-learning-0754.md
+  - raw/gdrive/2026-09-30-stepup-one-daily-learning-0755-bst-notes-by-gemini-1bWJYO5RtIEkYrvvasLj2TMXwyCSInbYSxjppaYAi3i4.md
+  - raw/gdrive/2026-10-01-stepup-one-daily-learning-0759-bst-notes-by-gemini-1SLJEnbqXog4mSBfwv6FEx7FGuIc6-JDcBMtXj4GVRAc.md
 ---
 
 # Nuuh Iftin
 
-Operations lead and senior team member at StepUp.One.
+Team member at StepUp.One. Email: nuuh.iftin@stepup.one. Regular daily session participant actively running ABSM outreach campaigns.
 
-## Role
+## Current Campaigns
 
-- **Email:** nuuh.iftin@stepup.one / nuuhnuur@gmail.com
-- **Position:** Operations lead, Priority 1 (Work with clients) leader
-- **Responsibilities:**
-  - Managing meeting logistics and TEDx Amsterdam application
-  - CRM pipeline oversight and cleaning (Met and Meeting Setup pipelines)
-  - Calendar configuration and booking form optimization
-  - Testing and providing feedback on new AI systems
-  - Investor opportunity validation (confirmed 73 cumulative opportunities from team hunting)
+- **CrowdStrike** — actively hunting this account as of Sep–Oct 2026
+- **Verizon** — proposed as a new target in Sep 30 session; Mohamed Anis flagged it as a danger account (primarily consumer telecom, ~90% of executives irrelevant to B2B ABSM). Nuuh was assigned to research Verizon's revenue model before proceeding.
 
-## Key Contributions
+## Notable Contributions
 
-- Validated the accuracy of 73 investor opportunities across the team's campaigns
-- Led the investor disqualification process, identifying suspicious contacts with proprietary platforms
-- Configured team calendars with expertise-focused naming (e.g., "StepUp.One Fundraising Expert" instead of personal names)
-- Streamlined the booking form by removing mandatory LinkedIn URL field
-- Tested the new AI twin system and provided feedback on token costs and performance
-- Handled TEDx Amsterdam email logistics
+**Sep 30, 2026:** Raised a thoughtful question about the featured post strategy — whether using Mohamed Anis's founder credibility content on team member profiles would confuse clients. Mohamed Anis clarified this was intentional: the featured post borrows founder credibility alongside company credibility, and the author is visible when clicked.
 
-## Leadership Assignment
+**Oct 1, 2026:** Contributed a key insight during the direct-outreach vs. gradual-relationship debate. Nuuh advised against rushing into pitching high-level targets, recommending slow, sophisticated relationship-building referencing the target's strategic accounts and research. Also recommended using company page posts on sales/BD topics as conversation angles with sales directors and BDMs.
 
-Assigned as the leader for [Organizational Priority 1](../../strategy-vision/organizational-priorities.md): working with existing clients and ensuring their outcomes. This is the hardest priority -- the only one that directly generates revenue.
+## Assignments (as of Oct 1, 2026)
 
-## Related Pages
+- Research Verizon's business model and revenue sources to assess its suitability as a target account
+- Update LinkedIn profile image using the team AI prompt
+- Continue CrowdStrike outreach under the top-to-bottom strategy
 
-- [Organizational Priorities](../../strategy-vision/organizational-priorities.md)
-- [Session Operations](../../operations/session-operations.md)
-- [Client Management Platform](../systems/client-management-platform.md)
+## Related
+
+- [ABSM Methodology](../../clients-partnerships/win-new/outbound/absm-methodology.md) — the methodology she is executing
+- [Abdulkadir Mhina](abdulkadir-mhina.md) — teammate, discussed similar outreach approaches
