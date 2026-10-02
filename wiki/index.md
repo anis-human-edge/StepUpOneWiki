@@ -128,6 +128,7 @@ The wiki gets richer with every source added. Cross-references are maintained au
 
 | Page | Description |
 |------|-------------|
+| [Tobi](entities/clients/tobi.md) | Client with dedicated StepUp.One team; Farhaan leads; team accountability failures Sep 2026; transitioning to new trained personnel |
 | [Alexander Demianov](entities/clients/alexander-demianov.md) | New client win (June 2026), signed via concise one-sentence outreach |
 | [Kushal](entities/clients/kushal.md) | Client pausing service (Jun 2026); 412/47/5 campaign metrics; refused pay-per-success model |
 | [Edocite](entities/clients/edocite.md) | EdTech client; enrollment team engagement product; StepUp.One runs outbound and built their dashboard |
