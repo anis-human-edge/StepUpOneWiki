@@ -611,6 +611,200 @@ The team members who do not develop ABSM capability risk being sidelined as the 
 
 ---
 
+## Account Qualification Criteria: Follow the Money (Sep 30, 2026)
+
+Two core criteria determine whether a target account belongs in the ABSM campaign. Posting frequency is **not** one of them.
+
+### Criterion 1: B2B Revenue Model
+
+The company must generate its primary revenue from other businesses, not from consumers.
+
+- **Correct target:** CrowdStrike — 100% B2B, every employee is a relevant relationship target
+- **Danger account:** Verizon — primarily a consumer telecom company; approximately 90% of its executives operate in the consumer space and are irrelevant to B2B ABSM outreach. Targeting Verizon wastes effort on thousands of consumer-division executives.
+
+Mohamed Anis (Sep 30): *"Whether a target company posts content is irrelevant because 99% of the individuals targeted for relationship-building will never post on LinkedIn. The primary qualifying criteria are determining whether a company operates on a B2B or B2C model and tracking revenue streams."*
+
+### Criterion 2: Revenue Structure Analysis
+
+Analyze **how** the company makes money — not just that it makes money.
+
+- What percentage of revenue comes from enterprises vs. consumers?
+- Is revenue organized by geography (UK head of sales, Germany AM) or by industry vertical (head of banking, head of telecom)?
+- How big is each revenue segment?
+
+Infosys spends $1–2B annually on goods (computers, software, laptops, electricity) even though it sells expertise — every enterprise buys as well as sells. Follow the money to identify the buying centers.
+
+### Why "Does This Company Post?" is the Wrong Question
+
+Abdulkadir Mhina used CDW's high LinkedIn posting frequency to prioritize it over Avanet and General Dynamics. Mohamed Anis rejected this: company page posting frequency says nothing about the individuals being targeted. The executives we need to reach are the ones who will almost never post. The qualifying question is always the B2B/B2C revenue split — not how active the corporate page is.
+
+---
+
+## Top-to-Bottom Attack Strategy (Sep 30, 2026)
+
+The foundational principle for breaking into any target account: **connect with the CXO first**.
+
+### How It Works
+
+1. Identify the company's chief-level executives (CEO, CCO, CFO, CTO, CRO)
+2. Connect with CEO first — no personalized note required; a blank request with a strong profile works
+3. Once the CEO (or CXO) accepts, connection requests to their direct reports and subordinates succeed automatically
+4. The subordinates see the shared CXO connection and assign higher status to the outreach — acceptance happens without resistance
+
+Mohamed Anis on the cascade effect:
+> *"If you're connected to their boss — there is no doubt they will connect back with you."*
+
+**The military analogy:** don't fight foot soldiers on the front line. Neutralize the chief executive first. When the leader falls, subordinate resistance collapses.
+
+### Proven Case Studies
+
+**ASML ($600B market cap):**
+- CEO: Christophe Fuket
+- Mohamed Anis commented on Fuket's World Economic Forum speech within 24 hours of publication
+- Result: within a single day, 6+ other ASML executives connected automatically — chief communication officer, chief product officer, chief information officer, an HR director, board members — without any direct connection notes sent
+
+**Fannie Mae ($4.8B):**
+- CEO: Peter
+- After connecting CEO (4–5 days prior), immediately sent blank requests to: chief privacy officer, CHRO, CFO
+- The sequential CXO clearance eliminated all future resistance from subordinate personnel
+
+**Palo Alto Networks ($350B):**
+- Started with one connection in the company
+- Used AI to list leadership: presidents, VPs, CFO, other chiefs
+- Sent blank connection requests to all of them
+- Projected: within one week of securing multiple top leaders, ~500 subordinate personnel would connect without resistance
+
+### Account Prioritization
+
+Mohamed Anis (Sep 30, confirmed Oct 1):
+- **Breaking in = Priority #1** — this is the primary objective
+- **Expanding within accounts = Priority #2**
+- **Protecting existing accounts = Zero priority** — protection yields no new results; deprioritized entirely
+
+---
+
+## Captain and Soldiers Networking Model (Sep 30, 2026)
+
+Proposed by Abdulkadir Mhina and confirmed by Mohamed Anis as the operational structure for team outreach.
+
+**The model:**
+- **Captain:** Mohamed Anis holds CXO-level connections at target accounts. His profile carries maximum credibility and his name appears as a shared connection.
+- **Soldiers:** team members leverage Mohamed Anis's CXO connections when reaching out to the subordinate layer. The shared CEO/CXO connection collapses acceptance barriers.
+
+**Targeting scope:** once a CXO connection is secured, target the **20–30 people reporting under that executive**, not just the executive alone.
+
+**5–10 accounts per person:** the team should work 5–10 target accounts per person simultaneously. Fewer than 5 is insufficient scale; the methodology compounds across accounts.
+
+---
+
+## Regional Buying Centers (Sep 30, 2026)
+
+Large enterprises organize purchasing by geography, not just by global HQ. The UK, for example, represents at minimum $23B annually in purchasing volume for large IT services companies operating there.
+
+**Structure of a regional buying center:**
+- UK CEO or head of sales (top of the hierarchy)
+- Regional account managers (report to the UK CEO)
+- Procurement/purchasing personnel (bottom of the buying chain)
+
+**Why regional centers matter for top-to-bottom strategy:**
+Attacking a buying center from both top (UK CEO) and bottom (regional purchasing staff) simultaneously creates peer pressure in the middle layer. When Joe (a mid-level exec) sees that Liam at the same level already engaged with the service, local competitive pressure drives internal adoption.
+
+---
+
+## Bull vs. Peacock: Sales Mindset Transition (Oct 1, 2026)
+
+Mohamed Anis introduced two contrasting sales archetypes to distinguish the aggressive approach many team members default to from the sophisticated approach ABSM requires.
+
+**The Bull:** charges directly at targets; pitches on first contact; transactional; measures success by immediate responses; burns through relationships quickly. Results come fast — or not at all. No compounding.
+
+**The Peacock:** builds presence and attraction over time; waits for curiosity to develop; never pitches cold; makes prospects want to ask "what do you do?" Results take longer — but they compound.
+
+**The 9-month timeline:** Mohamed Anis framed the 9-month ABSM relationship-building cycle as a product feature, not a bug:
+> *"A 9-month timeframe is comparable to cooking a relationship. You can't rush it."*
+
+The transition from bull to peacock is difficult because it requires deliberate behavioral change, not just understanding the concept. Mohamed Anis defined true effort as: learn with deep understanding + deliberate practice with feedback + measurable performance. Simply working hard without direction is not effort.
+
+**Current team diagnosis (Oct 1):** approximately 90% of StepUp.One participants operate as bulls — running and hitting targets blindly — because they rarely speak up during sessions or demonstrate strategic thinking. The team's stated objective is to develop peacock-level sophistication.
+
+---
+
+## Three Pillars of Business Success (Oct 1, 2026)
+
+Mohamed Anis identified three criteria that define whether the business is succeeding or failing. As of Oct 1, StepUp.One is failing on all three.
+
+### 1. Sustainability (Retention)
+
+Defined as long-term client retention — **not** winning new clients to replace the ones you lose.
+
+**Benchmark:** Infosys maintains a **97% client retention rate over 50 years of operation**. They are not constantly replacing lost clients; they are compounding on the same base.
+
+**Current failure mode at StepUp.One:** the team has repeatedly lost nearly all clients in a single month, forcing a restart. This is a sustainability failure.
+
+### 2. Compounding
+
+Defined as securing **multiple jobs/accounts within the same client organization**, not winning separate unrelated accounts.
+
+**Example:** after completing work for one Cognizant manager in the UK, show that work to a second Cognizant manager. Each win opens the next. This is compounding — the relationship network multiplies.
+
+**Contrast:** winning separate, unrelated accounts (Cognizant, then a French startup, then an unrelated US firm) does not compound. Each win is standalone.
+
+### 3. Scaling
+
+Defined as the capacity to win thousands or millions of clients — not staying static at the same count.
+
+Without scaling, even a sustainable, compounding business eventually stalls. Farah Ibrahim noted StepUp.One lost nearly 10 clients in a single month in the past; while that extreme has improved, structural failures in all three pillars remain.
+
+Mohamed Anis (Oct 1): *"Two choices: shut down, or restart the effort properly."*
+
+---
+
+## Duck Metaphor: Team Leadership (Oct 1, 2026)
+
+Mohamed Anis proposed the duck as the ideal leadership model for account-based teams — superior to the lion (solo dominator), wolf (pack, but hierarchical), or bull (blind charge).
+
+**Why the duck:**
+- Flies in **V-formation** — aerodynamic uplift for all members, not just the leader
+- **Rotates leadership** — when the lead duck tires, the next duck moves to the front; leadership is shared, not fixed
+- **Calm on the surface, dangerous when provoked** — professional composure with genuine resilience underneath
+
+**Application to account teams:** a team hunting a large account should not have a permanent single leader. Different team members take point on different aspects (connections, engagement, pitching, CRM). Leadership rotates with the task.
+
+**Current gap (Oct 1):** clarity on who fills which leadership role within specific account pursuits is missing. Claiming to be a leader without demonstrating consistent, active team management over weeks and months is not leadership.
+
+---
+
+## Collaborative Account Hunting (Oct 1, 2026)
+
+ABSM is explicitly a team game. Individual hunting is insufficient for large accounts.
+
+### Role Division by Contact Type
+
+Ahmed Farhan's proposed model for a Cognizant campaign:
+- **Mahmud Bilow** → business development representatives
+- **Warsame** → client partners
+- **Samatar Abdirahman** → sales personnel
+
+Each team member owns a specific contact type within the account, rather than all team members targeting the same people. This prevents overlap, avoids the appearance of mass-targeting, and maximizes coverage.
+
+### Shared CRM Coordination
+
+Team members maintain their individual assigned accounts while sharing:
+- Ideas for comments and engagement angles
+- Review of each other's connection requests before sending
+- Verification that targets are correctly filtered (decision-makers only — not security staff, facilities, or non-relevant roles)
+- Progress updates at the daily 2 PM team meeting
+
+### Standard Chartered / Cognizant Coordination Challenge (Oct 1)
+
+Mohamed Anis set a 24-hour problem-solving challenge: given 8 Cognizant employees (CEO, head of banking, head client partner of Standard Chartered, and 5 regional account managers covering Germany, Singapore, and other regions) tasked with winning and expanding the Standard Chartered account — how should they coordinate?
+
+- **Rejected approach (Samatar):** divide and conquer by industry (CEO → manufacturing, client partners → banking). Mohamed Anis rejected this as incorrect.
+- **Correct approach:** still under development by the team (deadline: next session).
+
+The point of the exercise: ABSM at scale requires a defined coordination architecture. "Divide and conquer" is a starting instinct, not a methodology.
+
+---
+
 - [Outbound Strategy](outbound-strategy.md) — the broader outbound system that ABSM sits within
 - [Follow-up Messaging](follow-up-messaging.md) — post-meeting follow-up protocol (transcript → AI → CEO office)
 - [Authority in Sales](authority-in-sales.md) — the attitude required when running ABSM
