@@ -1,11 +1,28 @@
 ---
 title: "Wiki Log"
 type: overview
-updated: 2026-09-26
+updated: 2026-10-02
 sources: []
 ---
 
 # Wiki Log
+
+## [2026-10-02] ingest | 2 GDrive files — Sep 30 & Oct 1 Daily Learning sessions
+
+**Sources ingested (2):**
+- `raw/gdrive/2026-09-30-stepup-one-daily-learning-0755-bst-notes-by-gemini-1bWJYO5RtIEkYrvvasLj2TMXwyCSInbYSxjppaYAi3i4.md` — Sep 30 session. Account hunting criteria: B2B model + revenue analysis (NOT posting frequency); Verizon caution (90% consumer-space irrelevant); top-to-bottom attack strategy; ASML case study (CEO comment → 6+ auto-connections same day); Palo Alto Networks demo ($350B); captain-and-soldiers model (Anis = captain, team = soldiers); account prioritization (breaking in #1, expanding #2, protecting = zero priority); UK regional buying centers; Cognizant compensation structure (client titles = highest earners); Tobi team issues (Farhaan reports accountability failures, transitions to new trainees); profile photo AI generation reviewed; remove.bg confirmed as background tool. Participants: Mohamed Anis, Ahmed Farhan, Farah Ibrahim, Abdulkadir Mhina, Nuuh Iftin, Farhaan Abdi Hassan, Byaombe Wilondja, Mahmud Bilow, others.
+- `raw/gdrive/2026-10-01-stepup-one-daily-learning-0759-bst-notes-by-gemini-1SLJEnbqXog4mSBfwv6FEx7FGuIc6-JDcBMtXj4GVRAc.md` — Oct 1 session. Profile standardization: experience title = "Fundraising Expert" (exact); one featured post only; profile completion gate before hunting; AI photo prompt by Ahmed shared. Bull vs Peacock metaphor (aggressive direct pitching vs sophisticated 9-month relationship building); three pillars of success: sustainability/retention (97% Infosys), compounding (multiple jobs/same client), scaling; duck leadership metaphor (V-formation, rotating leadership); collaborative account hunting (role division by contact type: BDRs/client partners/sales); Standard Chartered/Cognizant 8-person coordination challenge (24-hour deadline set). Participants: Mohamed Anis, Ahmed Farhan, Farah Ibrahim, Abdulkadir Mhina, Nuuh Iftin, Farhaan Abdi Hassan, Gloire Kwaami, Amina Musa, Samatar Abdirahman, Mahmud Bilow, Warsame Mohamed, Patience Ciza, Yasin Mohamed, Kadafi Rwango, others.
+
+**Pages updated (2):**
+- `wiki/clients-partnerships/win-new/outbound/absm-methodology.md` — added: account qualification criteria, top-to-bottom attack strategy with case studies, captain-and-soldiers model, account prioritization rules, UK buying centers, bull/peacock mindset section, three success pillars, duck leadership, collaborative account hunting, Standard Chartered challenge
+- `wiki/training-reskilling/linkedin-credibility-standards.md` — added: AI-generated photo workflow, women's photo (hijab = sweater color), remove.bg tool, experience title exact wording, featured post cleanup, profile completion gate
+
+**Pages created (3):**
+- `wiki/entities/clients/tobi.md` — new client entity; team accountability issues; transition to new personnel
+- `wiki/entities/people/farhaan-abdi-hassan.md` — new team member page; leads Tobi engagement; AI photo prompt developer
+- `wiki/entities/people/nuuh-iftin.md` — new team member page; hunting CrowdStrike/Verizon; advocates sophisticated relationship-building
+
+---
 
 ## [2026-09-30] ingest | 3 GDrive files — Sep 28–29 Daily Learning + Karen & Anis Sep 28
 
