@@ -352,6 +352,66 @@ Cloud certifications (e.g., AWS, Azure, Google Cloud) carry significant credibil
 
 ---
 
+## AI-Generated Profile Photo Workflow (Sep–Oct 2026)
+
+As of September 2026, the team uses AI image generation to create standardized professional headshots. This replaced the informal "take a new photo" approach.
+
+**The standard prompt:** Ahmed Farhan and Farhaan Abdi Hassan developed a shared team prompt for generating profile pictures. The prompt is distributed in the team WhatsApp group and a shared document. Use it — do not attempt to write your own prompt without the team's version.
+
+**For women:** the hijab color must match the sweater/jumper color for aesthetic consistency. Generate the image with this color coordination in mind. Ahmed Farhan (backed by Farhaan) maintains these women's reference images.
+
+**Suit quality standard:** Mohamed Anis compared generated image quality by suit appearance:
+- Target quality: "looks like a $1,000 suit" — reference is Abdulkadir Mhina's image
+- Failure: "looks like a $10 suit" — cheap fabric texture, poor drape
+- Use wool suit reference images and black woolen sweater/scarf references as inputs when generating
+
+**Background removal:** use **remove.bg** (remove.bg.com) — it is free and the designated tool. Canva Premium is unnecessary. Set the final background to transparent or white.
+
+**Apply the updated photo across:** LinkedIn, WhatsApp, and Google profile simultaneously.
+
+---
+
+## Experience Section Title: Exact Wording (Oct 1, 2026)
+
+The experience section must display the **exact title**: **Fundraising Expert**
+
+This applies to team members whose LinkedIn profile is positioned for fundraising outreach. Do not abbreviate, rephrase, or use a variation. The exact title matters because prospects search for and recognize specific titles.
+
+**Correct:** Fundraising Expert  
+**Incorrect:** Senior Fundraising Expert, Fundraising Specialist, Expert in Fundraising
+
+---
+
+## Featured Post: One Only, Remove Extras (Oct 1, 2026)
+
+Every profile must have **exactly one** featured post — the designated team-standard article.
+
+**Action required for non-compliant profiles (identified Oct 1):**
+1. Remove all extraneous featured posts
+2. Retain only the single designated featured post that aligns with the team standard
+
+This was enforced during the Oct 1 session when Ahmed Farhan reviewed Gloire Kwaami and Amina Musa's profiles and found multiple or missing featured posts. Profile transformation is not complete until this is corrected.
+
+Reminder: only LinkedIn **articles** can be featured (not posts). See [Featured Section Mechanics](#featured-section-mechanics-sep-2026) above.
+
+---
+
+## Profile Completion Gate (Oct 1, 2026)
+
+Ahmed Farhan (Oct 1): **all team members must finish transforming their LinkedIn profiles before advancing to the next operational phase** (active account hunting and connection requests).
+
+The profile is not complete until:
+- [ ] Profile photo generated and applied (photo + background removed with remove.bg)
+- [ ] Photo applied to LinkedIn, WhatsApp, and Google
+- [ ] Headline set to the team-standard format
+- [ ] Experience section title: exact role title
+- [ ] Featured section: exactly one designated article
+- [ ] About section updated for ABSM/fundraising positioning
+
+Profile first, hunting second. In that order, every time.
+
+---
+
 ## Related Pages
 
 - [LinkedIn Commenting](linkedin-commenting.md) — the full commenting methodology, AI vs human standards, and commenting skills
