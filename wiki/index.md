@@ -144,6 +144,8 @@ The wiki gets richer with every source added. Cross-references are maintained au
 
 | Page | Description |
 |------|-------------|
+| [Farhaan Abdi Hassan](entities/people/farhaan-abdi-hassan.md) | Team member; leads Tobi client engagement; developed AI photo prompt for team; audio issues; transitioning Tobi team to new trainees (Sep–Oct 2026) |
+| [Nuuh Iftin](entities/people/nuuh-iftin.md) | Team member; hunting CrowdStrike and Verizon accounts; flagged Verizon as concern; advocates sophisticated relationship-building over direct pitching (Sep–Oct 2026) |
 | [Khadir Rangooni](entities/people/khadir-rangooni.md) | IC Impact Consulting; booked then cancelled founder meeting 25 Jun 2026; offered Aston University MSc student project hosting Jul 2 (deadline passed) |
 | [Lewis](entities/people/lewis.md) | Hot inbound prospect (Australia); word-of-mouth; Anis 100% confident he will sign; Lewis video = PhD thesis on pitching |
 | [Pawan](entities/people/pawan.md) | Warm inbound prospect; word-of-mouth; product needs one improvement before GTM; days/weeks to close |
