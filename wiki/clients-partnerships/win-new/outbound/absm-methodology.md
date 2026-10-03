@@ -809,6 +809,82 @@ The point of the exercise: ABSM at scale requires a defined coordination archite
 
 ---
 
+## Standard Chartered Account Team Structure (Oct 2, 2026)
+
+The Oct 2 session resolved the coordination challenge set in Oct 1: how should 8 Cognizant people targeting Standard Chartered actually divide their roles?
+
+| Role | Responsibility |
+|------|---------------|
+| **CEO** | Targets senior Standard Chartered executives; establishes high-level executive relationships |
+| **Head of Banking** | Identifies banking-specific business challenges; connects Standard Chartered with internal Cognizant banking experts |
+| **Head of Regional** | Identifies regional business opportunities; shares them with the central Cognizant team |
+| **5 Client Partners** | Act as hunters; leverage the network connections established by the three leadership roles above |
+
+**The lesson:** the CEO and functional heads do not hunt. They open doors. The client partners hunt through those open doors. The hierarchy is load-bearing — client partners cannot operate effectively without the executive relationships already in place.
+
+---
+
+## Opportunity Mapping Research Framework (Oct 2, 2026)
+
+Hamza Ahmed presented a research framework for scoping Cognizant's opportunity within Standard Chartered:
+
+1. **Map the account:** identify decision-makers, buying committees, and technology executives within Standard Chartered
+2. **Classify the opportunity:** determine whether this is new business acquisition or expansion of an existing relationship
+3. **Find the overlap:** match Cognizant capabilities to identified Standard Chartered challenges and buying needs
+
+**Preparation visible beats hidden preparation (Oct 2 case study):** Hamza invested under 5 minutes in research but shared his screen during the session and earned maximum visibility and recognition. Farhaan invested 3 hours in research but did not share his screen — and received almost no recognition.
+
+> *"Five minutes of targeted preparation and active screen sharing drastically elevate leadership stature."*
+
+**Lesson:** ABSM requires being seen doing the work, not just doing the work silently. Sharing progress live — in client meetings, team sessions, and leadership reviews — is part of the performance, not a bonus.
+
+---
+
+## Sales Pipeline Stages (Oct 2, 2026)
+
+Mohamed Anis defined the ABSM sales pipeline as a six-stage progression. Direct pitching at Stage 1 is the bull behavior that destroys relationships before they can develop.
+
+| Stage | Description |
+|-------|-------------|
+| **Contact** | Initial connection established |
+| **Conversation** | First substantive exchange — not a pitch |
+| **Discovery** | Understanding the prospect's situation and challenges |
+| **Opportunity** | A specific business need has been identified |
+| **Proposal** | A formal or informal proposal is on the table |
+| **Commercial discussion** | Negotiating terms and closing |
+
+Aggressive direct pitching skips stages 2–4 entirely — it treats a new connection as if they are already at Stage 5. The result is always rejection.
+
+---
+
+## ABSM Client Meeting Strategy (Oct 2, 2026)
+
+Mohamed Anis established a three-part framework for the upcoming Cognizant client partner meeting:
+
+| Phase | Question |
+|-------|---------|
+| **Show** | What do we show them? (Evidence of capability — Standard Chartered org structure, key decision-makers, outreach examples) |
+| **Tell** | What do we say? (Framing the ABSM offer in their language) |
+| **Post-meeting** | What do we do next? (Follow-up sequence, relationship continuation) |
+
+**Critical framing:** the team must position StepUp.One's outreach tools as **supporting and extending existing sales teams**, not replacing them. Any implication of replacement will trigger defensiveness and kill the conversation.
+
+**AI training instruction:** train AI models specifically on **ABSM methodology**, not on standard GTM or sales methodology. Standard GTM produces bull-style outputs; ABSM-trained AI produces peacock-style responses.
+
+---
+
+## Team Chemistry and Execution Risks (Oct 2, 2026)
+
+Farah Ibrahim raised the central risk in delivering ABSM at scale: team composition determines outcomes more than individual skill.
+
+> *"Team chemistry and collaboration drive better results than individual talent."*
+
+**Historical failure mode:** leadership gaps and uneven skill levels created significant delivery risks on past StepUp.One client projects. Even when individual performers existed, the absence of team coordination undermined client results and threatened account retention.
+
+**The implication for hiring and team building:** ABSM requires synchronized execution across connection, engagement, and pitching. One weak link — someone who cannot collaborate, misses deadlines, or breaks the relationship-building sequence — can cost the account. Selection for team fit is as important as selection for capability.
+
+---
+
 - [Outbound Strategy](outbound-strategy.md) — the broader outbound system that ABSM sits within
 - [Follow-up Messaging](follow-up-messaging.md) — post-meeting follow-up protocol (transcript → AI → CEO office)
 - [Authority in Sales](authority-in-sales.md) — the attitude required when running ABSM
