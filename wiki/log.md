@@ -1,11 +1,26 @@
 ---
 title: "Wiki Log"
 type: overview
-updated: 2026-10-02
+updated: 2026-10-03
 sources: []
 ---
 
 # Wiki Log
+
+## [2026-10-03] ingest | 3 Gmail files — Sep 30, Oct 1 & Oct 2 Daily Learning sessions
+
+**Sources ingested (3):**
+- `raw/gmail/2026-09-30-notes-stepup-one-daily-learning-30-sept-2026.md` — Sep 30 session (Gmail version). Covers same content as Sep 30 GDrive file already ingested; added as source to relevant pages.
+- `raw/gmail/2026-10-01-notes-stepup-one-daily-learning-1-oct-2026.md` — Oct 1 session (Gmail version). Covers same content as Oct 1 GDrive file already ingested; added as source to relevant pages.
+- `raw/gmail/2026-10-02-notes-stepup-one-daily-learning-2-oct-2026.md` — Oct 2 session (new). Standard Chartered account role structure (CEO/head of banking/head of regional/5 client partners as hunters); Cognizant opportunity mapping research framework; sales pipeline 6 stages (contact→conversation→discovery→opportunity→proposal→commercial); preparation visibility lesson (5 min visible > 3 hr hidden); ABSM client meeting framework (show/tell/post-meeting); outreach tools = support, not replace, sales teams; train AI on ABSM not GTM; team chemistry and execution risks (Farah Ibrahim). Participants: Mohamed Anis, Farah Ibrahim, Hamza Ahmed, Farhaan Abdi Hassan, Ahmed Farhan, Amina, others.
+
+**Pages updated (2):**
+- `wiki/clients-partnerships/win-new/outbound/absm-methodology.md` — added: Standard Chartered account team structure (role answer to Oct 1 challenge), opportunity mapping research framework, preparation visibility case study, 6-stage sales pipeline, ABSM client meeting strategy (show/tell/post-meeting), team chemistry and execution risks; added Gmail sources
+- `wiki/training-reskilling/linkedin-credibility-standards.md` — added Gmail sources (Sep 30 & Oct 1)
+
+**Index updated:** `wiki/index.md` — updated ABSM Methodology description with Oct 2 additions
+
+---
 
 ## [2026-10-02] ingest | 2 GDrive files — Sep 30 & Oct 1 Daily Learning sessions
 
