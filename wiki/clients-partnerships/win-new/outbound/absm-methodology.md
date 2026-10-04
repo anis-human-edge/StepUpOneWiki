@@ -887,6 +887,93 @@ Farah Ibrahim raised the central risk in delivering ABSM at scale: team composit
 
 ---
 
+## Three Named ABSM Services (Oct 3, 2026)
+
+Ahmed Farhan formalized the three services sold in an ABSM campaign — distinct from the internal "Win, Keep, Grow" framing, these are the client-facing names:
+
+| Service | Definition |
+|---------|-----------|
+| **Breaking in** | Winning a new account — entering a relationship where none exists |
+| **Expanding** | Growing revenue within an account across additional departments or deal types |
+| **Protecting** | Maintaining existing client revenue and preventing loss to competitors |
+
+This naming matters internally: team members must be able to articulate what they are doing for any client at any moment, not just execute tasks. Not knowing which service you are running signals lack of conceptual grip.
+
+---
+
+## GTM vs ABSM: The Fundamental Distinction (Oct 3, 2026)
+
+Mohamed Anis challenged the team to identify the core principle — not the process — behind each methodology:
+
+**GTM (previous 7-year approach):** large-scale outreach. Reach out to 500 people a month → 50 open doors → 5 meetings. The core was **volume**.
+
+**ABSM:** the core is **relationships**. Every action — commenting, connecting, mapping, researching — is deliberately chosen to build a specific relationship. Volume matters only insofar as it creates more relationship opportunities.
+
+> *"Relationships, not reach-outs, are the true essence of ABSM."*
+> — Mohamed Anis (Oct 3, confirmed by the full team)
+
+**The distinction that reveals the concept:** the earlier GTM campaigns also targeted specific accounts. The difference is not target selection — it is the *why behind every action*. GTM uses the same actions (commenting, connecting) but treats them as pipeline mechanics. ABSM treats every action as a relationship investment.
+
+**The cooking analogy applied to processes vs. essence:** knowing the sequence (oil → spices → rice → lamb) does not make someone a chef. Understanding *what each ingredient contributes to the flavor* does. Similarly, knowing the ABSM steps (top-to-bottom, engagement, golden hour) is process. Understanding that every step exists to deepen a specific relationship is essence.
+
+**Deep comprehension test:** if a team member can only execute tasks when given instructions, they have process. If they can explain *why* each step builds the relationship and self-direct without supervision, they have essence. Mohamed Anis identified this gap in the Oct 3 team: most members were operating on process, not essence.
+
+---
+
+## CEO Relationship Network: Tier 1 List (Oct 3, 2026)
+
+Mohamed Anis identified an underutilized asset:
+
+- **124 CEO relationships** in companies with over 10,000 employees (the Tier 1 list)
+- Of these 124, **85 are active LinkedIn posters** — a gold mine that has never been systematically engaged
+- Anis has not reacted to a single post from these 124 contacts
+
+**Proposed tiering:**
+- **Tier 1:** 10,000+ employee companies — the 124 CEO connections described above
+- **Tier 2:** 5,000–10,000 employee companies — to be built out
+
+**The delegation problem (Oct 3 case study):** Mohamed Anis posed the question — would you hand over your LinkedIn account to Ahmed Farhan to manage 124 critical CEO relationships? Answer: no, because he lacks the experience for it. But if Anis refuses to trust his own team lead, the Cognizant CEO will certainly not trust StepUp.One. The resolution: team leads must prove capability through evidence — posts that generated results, comments with documented outcomes, scoring on exams — before being trusted with high-stakes accounts.
+
+**Scale vs. relationship building tension:** Anis noted that combining volume outreach (500 people a month) with deep relationship building on 5–10 targeted accounts simultaneously is extremely difficult due to time constraints. Ahmed Farhan was assigned to design a method for running both in parallel and present it to the team.
+
+---
+
+## AI-Powered Commenting Workflow (Oct 3, 2026)
+
+Ahmed Farhan demonstrated a live 5-step workflow that combines AI recommendations with human judgment:
+
+1. AI scans posts from target accounts and generates recommended comments
+2. Human reviews the AI's options
+3. Human selects the best option (or writes their own)
+4. Human posts the selected comment
+5. The platform logs the activity, timestamps it, and stores it as evidence
+
+This workflow is visible to clients: the platform shows exactly who is doing what, when, and what the AI contributed vs. what the human decided. It makes capability observable — clients can see the process, not just the output.
+
+Mohamed Anis: *"This setup makes it easy for Ahmed Farhan to explain the process to any client."*
+
+---
+
+## Skill Tiers and Evidence Library (Oct 3, 2026)
+
+The platform tracks team member skill levels and builds a verifiable evidence trail for client-facing proof:
+
+| Tier | Description | Example |
+|------|-------------|---------|
+| Beginner | Learning concepts; limited execution | Amina Musa |
+| Skilled practitioner | Executing independently; consistent results | Daniel |
+| Top performer | Teaching others; managing accounts | Ahmed Farhan |
+
+**Skills tracked:** go-to-market, capital raising, talent acquisition — each with sub-skills and individual scoring.
+
+**Evidence library:** exams and metrics are logged with timestamps. Example: Ahmed Farhan scored 92 marks on a GTM exam taken on 2026-07-10. These scores accumulate over time into a verifiable proof-of-mastery record.
+
+**Client-facing view:** both an internal view and a client-facing view are live on the website. The client-facing view is designed to be simple enough that a non-technical client can verify competence without needing a call to explain it.
+
+**Purpose:** StepUp.One's main credibility challenge is demonstrating that its team — drawn from underserved populations — can actually execute at an enterprise level. The evidence library provides structured, documented proof that replaces credentials with demonstrated performance.
+
+---
+
 - [Outbound Strategy](outbound-strategy.md) — the broader outbound system that ABSM sits within
 - [Follow-up Messaging](follow-up-messaging.md) — post-meeting follow-up protocol (transcript → AI → CEO office)
 - [Authority in Sales](authority-in-sales.md) — the attitude required when running ABSM
