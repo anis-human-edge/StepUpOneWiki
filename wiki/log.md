@@ -7,6 +7,16 @@ sources: []
 
 # Wiki Log
 
+## [2026-10-04] ingest | 2 GDrive files — Oct 2 & Oct 3 Daily Learning sessions (Gemini notes)
+
+**Sources ingested (2):**
+- `raw/gdrive/2026-10-02-stepup-one-daily-learning-0758-bst-notes-by-gemini-1MY7-NA55RXZpQCB8g5rymrZ_2xMBWpc9wLptpuFnSU8.md` — Oct 2 GDrive version (full transcript + notes). Same content as Gmail Oct 2 already ingested; added as source only.
+- `raw/gdrive/2026-10-03-stepup-one-daily-learning-0800-bst-notes-by-gemini-17rFI9xKL-pBmvmZc2emlOrZN-2xz9xqqSvGRiEGKmTU.md` — Oct 3 session (new). Three named ABSM services (breaking in, expanding, protecting); GTM vs ABSM essence (volume vs relationships); cooking analogy for deep vs surface-level learning; Anis's 124 Tier 1 CEO relationships goldmine (85 active posters, never engaged); scale + relationship building tension (Ahmed Farhan assigned); AI-powered 5-step commenting workflow demo; skill tiers (beginner/practitioner/top performer) and evidence library for client-facing proof. New participants: Amina Musa (beginner), Marwa Chimosa, Libaan ali.
+
+**Pages updated (2):**
+- `wiki/clients-partnerships/win-new/outbound/absm-methodology.md` — added: three named ABSM services, GTM vs ABSM essence, CEO Tier 1 relationship network (124), AI-powered commenting workflow, skill tiers and evidence library; updated sources and date
+- `wiki/training-reskilling/teaching-methodology.md` — added: deep vs surface-level learning (cooking analogy, Oct 3); updated sources and date
+
 ## [2026-10-03] ingest | 3 Gmail files — Sep 30, Oct 1 & Oct 2 Daily Learning sessions
 
 **Sources ingested (3):**
