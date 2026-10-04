@@ -67,8 +67,25 @@ This attitude teaching is explicitly acknowledged as hard for people from unders
 - **Team members** learn the system, prove understanding through tests and wins, and execute the last three steps of client engagement.
 - The system is designed so that team leaders "do" and team members "learn" -- but both use AI to multiply their output.
 
+## Deep vs Surface-Level Learning: The Cooking Analogy (Oct 3, 2026)
+
+Mohamed Anis introduced this analogy to explain why team members can execute tasks without truly understanding what they're doing.
+
+**Surface-level learning (survival mode):** Mohamed Anis spent 4 years in university eating Maggi noodles and prawn fried rice in the US without ever trying to understand cooking. The goal was hunger relief — not mastery. He followed the steps because the output satisfied the immediate need.
+
+**Deep learning (mastery mode):** Over the next 8 years, he actively studied cooking: watched YouTube videos, spoke with family, studied components and spices, understood what each ingredient contributes. The difference is not access to information — it is **intent to understand the underlying principles**, not just execute the steps.
+
+**Application to ABSM training:** team members who execute commenting, connecting, and outreach without understanding *why* each action builds a relationship are in survival mode. They can follow instructions but cannot self-direct, adapt to new situations, or explain the methodology to clients. Leaders like Ahmed Farhan appear to be geniuses not because they are smarter — but because they understand the foundational components and see the big picture.
+
+**The practical test (Oct 3):** Mohamed Anis asked team members to explain the core essence of ABSM. Most described processes (steps, sequences, filtering criteria). The correct answer — "relationships are the essence; every action is a relationship investment" — requires conceptual grip, not procedural knowledge.
+
+**Why this matters for the underserved:** people who grew up in survival mode (economic necessity, refugee camp contexts) are trained to prioritize immediate outputs over deep learning. StepUp.One's teaching challenge is to shift this orientation — not just for ABSM, but as a professional mindset. Understanding the first principles of any skill enables self-teaching, eliminates dependence on ongoing supervision, and creates the foundation for mastery.
+
+---
+
 ## Related Pages
 
 - [AI Curriculum Overview](ai-curriculum-overview.md) -- the progressive skills ladder
 - [Outbound Strategy](../clients-partnerships/win-new/outbound/outbound-strategy.md) -- the client engagement system taught in sessions
 - [Authority in Sales](../clients-partnerships/win-new/outbound/authority-in-sales.md) -- deep dive on the confidence principle
+- [ABSM Methodology](../clients-partnerships/win-new/outbound/absm-methodology.md) -- the methodology the team is currently learning
