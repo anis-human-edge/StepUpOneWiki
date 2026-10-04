@@ -1,13 +1,14 @@
 ---
 title: "Teaching Methodology"
 type: overview
-updated: 2026-04-16
+updated: 2026-10-04
 sources:
   - raw/gdrive/2026-04-13-daily-learning-0751.md
   - raw/gdrive/2026-04-13-daily-learning-1250.md
   - raw/gdrive/2026-04-13-daily-learning-1851.md
   - raw/gdrive/2026-04-14-daily-learning-0754.md
   - raw/gdrive/2026-04-15-daily-learning-0758.md
+  - raw/gdrive/2026-10-03-stepup-one-daily-learning-0800-bst-notes-by-gemini-17rFI9xKL-pBmvmZc2emlOrZN-2xz9xqqSvGRiEGKmTU.md
 ---
 
 # Teaching Methodology
