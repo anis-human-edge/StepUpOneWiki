@@ -974,9 +974,66 @@ The platform tracks team member skill levels and builds a verifiable evidence tr
 
 ---
 
+## Hierarchical Account Hunting: Seniority Must Match Seniority (Oct 5, 2026)
+
+The Oct 5 session resolved a recurring gap in the Standard Chartered / Cognizant execution exercise: who targets whom.
+
+The rule is simple: **senior people target equivalent seniority levels**. Executive leadership does not delegate upward targeting to junior hunters.
+
+| Role | Targeting Responsibility |
+|------|--------------------------|
+| **CEO of Cognizant** | ~20 CXOs at Standard Chartered (CEO, CFO, CTO, etc.) |
+| **Head of Banking** | ~50 VP-level and senior director contacts at Standard Chartered |
+| **Client Partners (5)** | Remaining ~730 relevant contacts — the bulk of the account |
+
+The team had been missing this because they assumed client partners should run all outbound. The CEO's job is not to delegate upward targeting — it is to execute it personally. Leadership must practice what they teach.
+
+> *"We were waiting for the team to recognize that executive leadership must drive the primary outreach rather than delegating entirely downward."*
+> — Mohamed Anis (Oct 5)
+
+**A second gap identified (Oct 5):** multiple team members hold identical LinkedIn titles (e.g., Farah Ibrahim and Mahmud Bilow sharing the same designation). On social media, this renders them indistinguishable despite internal seniority differences. Team members were instructed to develop differentiated LinkedIn profile titles independently and present ideas to Mohamed Anis.
+
+---
+
+## The Conversion Engine: Three ABSM Revenue Streams (Oct 5, 2026)
+
+Mohamed Anis introduced a framework for structuring all ABSM work around three revenue streams, called the **conversion engine**:
+
+| Stream | What It Means |
+|--------|--------------|
+| **Convert existing relationships** | Former clients, colleagues, and professional peers — people who know you already — can be re-activated into revenue. These 124 existing CEO connections are not just a network; they are a pipeline. |
+| **Build new relationships** | Standard ABSM outreach: connect, engage, pitch over 3–9 months. |
+| **Navigate transitions** | When individuals move into new roles or new organizations, they have new mandates — and new buying authority. A transition is an optimal window to reintroduce yourself and pitch. This is a **separate service** designed to run whenever a known contact changes roles. |
+
+These three streams are complementary and run simultaneously. Ahmed Farhan flagged that many existing connections (startup CEOs) are currently mismatched to ABSM's enterprise focus — Mohamed Anis's response: those connections will eventually align, and the conversion engine will capture them when the moment is right.
+
+---
+
+## Day-One Client Onboarding: Connection Segmentation (Oct 5, 2026)
+
+The first deliverable when signing a new ABSM client is a **connection map**. This is the operational starting point — not a strategy deck, not a discovery call, but a structured analysis of existing vs. net-new relationships.
+
+**The process:**
+
+1. Collect all LinkedIn connections from each member of the 8-person client team into an Excel sheet
+2. Pull the full list of target contacts at the account (e.g., Standard Chartered has ~800 relevant people)
+3. Cross-reference: subtract the team's existing connections from the total list
+4. The result is two lists:
+   - **Existing connections** (e.g., 20 of 800) — people someone already knows; activate via the conversion engine
+   - **Net new** (e.g., 780 of 800) — people requiring fresh relationship-building
+
+5. Build **two separate plans**: one for converting existing connections, one for building net-new relationships
+
+These two plans require different approaches, different timelines, and different messaging. Running a single unified outreach motion across both groups is a mistake — the existing contacts deserve a warmer, faster-moving engagement; the net-new contacts need the full 3–9 month ABSM cycle.
+
+Farah Ibrahim's assessment: *"Completely clear and agreed."*
+
+---
+
 - [Outbound Strategy](outbound-strategy.md) — the broader outbound system that ABSM sits within
 - [Follow-up Messaging](follow-up-messaging.md) — post-meeting follow-up protocol (transcript → AI → CEO office)
 - [Authority in Sales](authority-in-sales.md) — the attitude required when running ABSM
+- [LinkedIn Outreach Messaging](../../../training-reskilling/linkedin-outreach-messaging.md) — 3-tier messaging system, AI evaluation, prospect research
 - [LinkedIn Commenting](../../../training-reskilling/linkedin-commenting.md) — how commenting drives ABSM engagement and C-level reach
 - [ICP Hierarchy](../../../strategy-vision/icp-hierarchy.md) — how target accounts are structured
 - [GTM Engine](../../../entities/systems/gtm-engine.md) — StepUp.One's client-facing GTM service
