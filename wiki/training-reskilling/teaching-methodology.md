@@ -83,9 +83,46 @@ Mohamed Anis introduced this analogy to explain why team members can execute tas
 
 ---
 
+## Critical Judgment: AI Output Evaluation (Oct 5, 2026)
+
+The Oct 5 session exposed a gap that Mohamed Anis identified as the single biggest risk to StepUp.One's quality standard: team members executing AI outputs without critically evaluating them first.
+
+**The case:** Nuuh Iftin used ChatGPT to generate a LinkedIn connection message for Rosanna Martinez at CrowdStrike. He read it for approximately one minute and sent it without catching that the message was confused about her career trajectory and asked an inappropriate peer-to-peer question for a first contact.
+
+**Mohamed Anis's framing:**
+
+> *"You know your objective is clear. But I'm just trying to understand — do you know the meaning of this message? Like, what are you asking her?"*
+
+The team struggled to articulate the literal meaning of the sentences they had all just read. This is the core failure: **executing output without comprehending it**.
+
+### The Bull vs. Peacock Test for AI Output
+
+Before sending any AI-generated message, answer:
+
+1. What does this literally say? Can you explain each sentence in simple words?
+2. Is this the right question to ask this person at this stage?
+3. Would this be strange or inappropriate if said in person at an event?
+
+If you cannot pass all three: go back to the AI. Tell it what was wrong. Ask for a new version. The AI is not your outsourcer — it is a draft generator. You are the editor.
+
+**Mohamed Anis to the group:**
+
+> *"You go back to the AI and say: how stupid is this? Why would a person talking to somebody on LinkedIn for the first time ask such a deep question? And then the AI will say — oh yeah, sorry, let me draft something more pleasant as a starter."*
+
+### Why This Is Hard for the Underserved
+
+People trained in survival mode (executing instructions to produce immediate outputs) are not practiced in slowing down to evaluate quality. The goal of Daily Learning is to build that habit: read critically, evaluate before executing, and return the problem to the tool if the output is wrong.
+
+This is what separates a bull (copy, paste, send) from a peacock (read, evaluate, refine, send only when it is genuinely right).
+
+See: [LinkedIn Outreach Messaging](linkedin-outreach-messaging.md) for the full 3-tier framework and evaluation process.
+
+---
+
 ## Related Pages
 
 - [AI Curriculum Overview](ai-curriculum-overview.md) -- the progressive skills ladder
 - [Outbound Strategy](../clients-partnerships/win-new/outbound/outbound-strategy.md) -- the client engagement system taught in sessions
 - [Authority in Sales](../clients-partnerships/win-new/outbound/authority-in-sales.md) -- deep dive on the confidence principle
 - [ABSM Methodology](../clients-partnerships/win-new/outbound/absm-methodology.md) -- the methodology the team is currently learning
+- [LinkedIn Outreach Messaging](linkedin-outreach-messaging.md) -- 3-tier messaging system, AI evaluation
