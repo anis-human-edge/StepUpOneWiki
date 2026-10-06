@@ -24,7 +24,8 @@ sources:
   - raw/gmail/2026-10-02-notes-stepup-one-daily-learning-2-oct-2026.md
   - raw/gdrive/2026-10-02-stepup-one-daily-learning-0758-bst-notes-by-gemini-1MY7-NA55RXZpQCB8g5rymrZ_2xMBWpc9wLptpuFnSU8.md
   - raw/gdrive/2026-10-03-stepup-one-daily-learning-0800-bst-notes-by-gemini-17rFI9xKL-pBmvmZc2emlOrZN-2xz9xqqSvGRiEGKmTU.md
-updated: 2026-10-04
+  - raw/gdrive/2026-10-05-stepup-one-daily-learning-0800-bst-notes-by-gemini-1bsG03lsY_iCg53hE4dr9dtSNW32uWfd5OK1H3scwWds.md
+updated: 2026-10-05
 ---
 
 # ABSM Methodology
