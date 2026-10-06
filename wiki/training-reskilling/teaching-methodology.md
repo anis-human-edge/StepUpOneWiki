@@ -1,7 +1,7 @@
 ---
 title: "Teaching Methodology"
 type: overview
-updated: 2026-10-04
+updated: 2026-10-05
 sources:
   - raw/gdrive/2026-04-13-daily-learning-0751.md
   - raw/gdrive/2026-04-13-daily-learning-1250.md
