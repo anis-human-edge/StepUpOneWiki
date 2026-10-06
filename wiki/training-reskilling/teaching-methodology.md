@@ -9,6 +9,8 @@ sources:
   - raw/gdrive/2026-04-14-daily-learning-0754.md
   - raw/gdrive/2026-04-15-daily-learning-0758.md
   - raw/gdrive/2026-10-03-stepup-one-daily-learning-0800-bst-notes-by-gemini-17rFI9xKL-pBmvmZc2emlOrZN-2xz9xqqSvGRiEGKmTU.md
+  - raw/gdrive/2026-10-05-stepup-one-daily-learning-0800-bst-notes-by-gemini-1bsG03lsY_iCg53hE4dr9dtSNW32uWfd5OK1H3scwWds.md
+updated: 2026-10-05
 ---
 
 # Teaching Methodology
