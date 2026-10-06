@@ -7,6 +7,20 @@ sources: []
 
 # Wiki Log
 
+## [2026-10-06] ingest | 1 GDrive file — Oct 5 Daily Learning session (Gemini notes)
+
+**Source ingested (1):**
+- `raw/gdrive/2026-10-05-stepup-one-daily-learning-0800-bst-notes-by-gemini-1bsG03lsY_iCg53hE4dr9dtSNW32uWfd5OK1H3scwWds.md` — Oct 5 session. AI output evaluation (Nuuh Iftin's CrowdStrike message critique / Rosanna Martinez case); 3-tier LinkedIn messaging system (lightweight Level 1 → intellectual contrast Level 3); prospect research methodology; corporate acquisitions explainer; wealth creation through leverage; hierarchical account hunting (CEO→CXOs, head of banking→VPs, client partners→remaining); LinkedIn profile differentiation challenge; conversion engine (3 streams: existing/new/transitions); day-one client onboarding — connection segmentation (existing vs net-new).
+
+**Pages created (1):**
+- `wiki/training-reskilling/linkedin-outreach-messaging.md` — new page: 3-tier LinkedIn messaging system, AI evaluation process, prospect sizing methodology, blank vs targeted connection request strategy
+
+**Pages updated (4):**
+- `wiki/clients-partnerships/win-new/outbound/absm-methodology.md` — added: hierarchical account hunting (seniority must match seniority), conversion engine 3 streams, day-one client onboarding segmentation; updated sources and date
+- `wiki/training-reskilling/teaching-methodology.md` — added: critical judgment / AI output evaluation section (bull vs peacock test); updated sources and date
+- `wiki/entities/people/nuuh-iftin.md` — added Oct 5 session context (Rosanna Martinez case, messaging critique, new assignments); updated sources and date
+- `wiki/index.md` — added LinkedIn Outreach Messaging entry; updated ABSM Methodology description; updated date
+
 ## [2026-10-04] ingest | 2 GDrive files — Oct 2 & Oct 3 Daily Learning sessions (Gemini notes)
 
 **Sources ingested (2):**
