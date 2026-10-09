@@ -123,9 +123,68 @@ See: [LinkedIn Outreach Messaging](linkedin-outreach-messaging.md) for the full 
 
 ---
 
+## Three Career Growth Pillars (Oct 6–7, 2026)
+
+Mohamed Anis distilled career and skill development into three non-negotiable pillars. These apply across every area of work — ABSM, cooking, teaching, posting, commenting, or any professional skill.
+
+### Pillar 1: Smart Money Perspective
+
+Choose work where experience compounds. Brain-based roles (strategy, relationship-building, judgment) double in value every 5 years with accumulated experience. Routine physical roles (driving, repetitive teaching, manual work) do not — the income ceiling is set on day one and stays there for decades.
+
+> *"I started at Infosys in 2000 earning $200 a month. By 2010 it was $2,000. By 2020 it was $20,000. The people who stayed at Infosys and kept compounding are now on $200k to $20M a month. The driver who started the same year is still driving."*
+
+This is the orientation shift the programme asks for: not "what job can I get now?" but "what work builds value that compounds?"
+
+### Pillar 2: Deliberate Practice
+
+Learning alone is not enough. Daily repetition at the same baseline level produces zero growth. Deliberate practice requires:
+- Setting a specific standard to beat
+- Measuring output quality, not just effort
+- Using AI as a mirror: screenshot your posts and comments, submit them to ChatGPT for a harsh score and critique, identify what to change, repeat
+- Making micro-improvements every single day
+
+Mohamed Anis:
+> *"You fail to learn because you never review your past work. Take screenshots of your posts and comments. Ask ChatGPT to critically score and evaluate. Do this every day for 3–6 months and you will achieve mastery."*
+
+The Physics Walla example: an Indian physics teacher who started posting lessons on YouTube, hit 1 million subscribers, found an investor, and built a billion-dollar education company. Same starting point as everyone else — different intensity of deliberate improvement.
+
+### Pillar 3: Performance Under Pressure
+
+Years of learning and deliberate practice can be destroyed by a single poor performance in front of a client. Client-facing performance is the ultimate test, and it fails when:
+- A participant freezes in front of a real decision-maker (Ahmed Farhan's first client meeting)
+- Nerve overrides preparation
+- The person has not rehearsed at high enough repetition
+
+The fix: rehearse with enough repetitions that performance becomes automatic. The session itself is part of the performance training — being on camera, presenting, defending positions, and communicating under pressure all count.
+
+---
+
+## AI Reskilling Framework (Oct 6, 2026)
+
+Mohamed Anis introduced a new AI-native reskilling homepage that formalizes the learning methodology in a modern framework.
+
+**Traditional reskilling model:**
+1. Learn theory at school
+2. Practice at a first job
+3. Perform for clients
+
+**AI-native reskilling model:**
+1. Learn theory alongside AI (YouTube + ChatGPT as co-instructor)
+2. Practice on real platforms (LinkedIn, client websites)
+3. Perform in front of real clients — with AI handling drafts, humans providing judgment
+
+**Key distinction:** AI executes the drafts; humans retain authority over quality and judgment. The AI generates 5 options; the human evaluates and selects. The human's critical judgment is the skill being trained — not the ability to type a prompt.
+
+This framework is built into the StepUp.One reskilling platform and is the operating model for all Daily Learning sessions.
+
+See also: [Smart Money & Career Growth](smart-money-career-growth.md) — the foundational orientation for the underserved.
+
+---
+
 ## Related Pages
 
 - [AI Curriculum Overview](ai-curriculum-overview.md) -- the progressive skills ladder
+- [Smart Money & Career Growth](smart-money-career-growth.md) -- the foundational orientation for the underserved
 - [Outbound Strategy](../clients-partnerships/win-new/outbound/outbound-strategy.md) -- the client engagement system taught in sessions
 - [Authority in Sales](../clients-partnerships/win-new/outbound/authority-in-sales.md) -- deep dive on the confidence principle
 - [ABSM Methodology](../clients-partnerships/win-new/outbound/absm-methodology.md) -- the methodology the team is currently learning
