@@ -7,6 +7,24 @@ sources: []
 
 # Wiki Log
 
+## [2026-10-09] ingest | 5 GDrive files — Oct 6, 7, 8 Daily Learning sessions (Gemini notes)
+
+**Sources ingested (5):**
+- `raw/gdrive/2026-10-06-...-0753-bst.md` — Oct 6 morning: title architecture (ABSM Account Executive/Director), profile photo modern attire standards, account graph creation, 3 relationship skills (build/nurture/convert), website revamp + 1000 visitor campaign, CEO 124-connection goldmine strategy
+- `raw/gdrive/2026-10-06-...-1301-bst.md` — Oct 6 afternoon: smart money philosophy (brain vs routine work), 3 career pillars (perspective/practice/performance), AI reskilling homepage introduced, Dadaab team (Osman, Najmo, Abdikadir), ChatGPT self-evaluation system
+- `raw/gdrive/2026-10-06-...-1937-bst.md` — Oct 6 evening: website redesign walkthrough (minimalist, keyboard nav, handmade icons, custom pricing), professional records system, reskilling engine platform design, Fortune 500 executive page with provocative copy, Shubhankar Sharma assigned 3-page review
+- `raw/gdrive/2026-10-07-...-0759-bst.md` — Oct 7: ABSM 20-step framework, buying centers ($20M+ threshold, Frier=7 centers), account graph maps, conversion+build dual engine, Big Spark automating/reducing marketing, website built in 7 days with AI coding
+- `raw/gdrive/2026-10-08-...-0758-bst.md` — Oct 8 (source added; content already ingested from Gmail Oct 8 file)
+
+**Pages created (1):**
+- `wiki/training-reskilling/smart-money-career-growth.md` — new: smart money vs stupid money; compounding income trajectory ($200→$20k/month); refugee camp context; 3 pillars of career growth; AI-native reskilling framework; Physics Walla case study
+
+**Pages updated (4):**
+- `wiki/training-reskilling/linkedin-credibility-standards.md` — added: role title architecture (responsibility-first principle, ABSM Account Executive/Director, reject cosplay titles); modern attire standard for profile photos (Darsalemi/Ahmed Farhan benchmarks, AI update instructions)
+- `wiki/training-reskilling/teaching-methodology.md` — added: 3 career growth pillars section; AI reskilling framework (AI drafts, humans judge); ChatGPT self-evaluation workflow; new sources
+- `wiki/clients-partnerships/win-new/outbound/absm-methodology.md` — added: buying centers ($20M threshold, Frier 7 centers); account graph framework; 3 relationship skills (build/nurture/convert); Big Spark status; website built in 7 days; GDrive Oct 6-8 as sources
+- `wiki/index.md` — added Smart Money page entry; updated Teaching Methodology and ABSM Methodology descriptions; updated date
+
 ## [2026-10-09] ingest | 1 Gmail file — Oct 8 Daily Learning session (Gemini notes)
 
 **Source ingested (1):**
