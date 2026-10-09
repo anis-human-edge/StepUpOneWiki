@@ -1031,6 +1031,37 @@ Farah Ibrahim's assessment: *"Completely clear and agreed."*
 
 ---
 
+## Target List Optimization: 88 → 57 Accounts (Oct 8, 2026)
+
+Mohamed Anis reduced the target account list from 88 to 57 companies to concentrate effort on high-probability opportunities.
+
+**Superior** — a $5 billion company — was highlighted as a priority account. The former CEO maintained a client relationship with Superior for nearly a year, giving StepUp.One a near-100% win probability based on that executive relationship. Mohamed Anis's principle: top-down deal engagement driven by executive relationships achieves near 100% success.
+
+**Fujitsu** — identified as a target accessible via existing WhatsApp connections within the team. Leveraging existing warm contacts is prioritized over cold outreach for high-value accounts.
+
+**Account assignments from this optimization:**
+- Superior → assigned to Farhan (based on CEO relationship probability)
+- Persistent Systems → assigned to Ahmed to explore
+- LT Technology Services, G-Explore, Xflo → assigned to Nuuh Iftin to investigate for viable opportunities; non-performing accounts to be discontinued
+
+---
+
+## Multi-Tiered Account Engagement (Oct 8, 2026)
+
+The Oct 8 session reviewed and confirmed the 3-tier engagement structure for target accounts:
+
+| Tier | Role |
+|------|------|
+| **Tier 1** | CXOs — executive relationships; near-100% success rate when driven by Anis-level connections |
+| **Tier 2** | VPs — mid-level engagement; bridged via CXO connections |
+| **Tier 3** | BDRs (Business Development Representatives) — operational layer; accessible once upper tiers are established |
+
+**Bottom-up viability:** the team debated whether bottom-up wins (client partners and VPs engaging without CXO involvement) are viable. Conclusion: they remain viable if client partners and VPs connect without CXO engagement — but the CXO path remains the highest-probability route and is always attempted first.
+
+**Execution readiness (Oct 8):** Mohamed Sharmuge Mohamed confirmed the team is ready to select accounts and initiate execution without immediate blockers. Team members were assigned specific accounts and instructed to report weekly progress on CXO connection status to Mohamed Anis.
+
+---
+
 - [Outbound Strategy](outbound-strategy.md) — the broader outbound system that ABSM sits within
 - [Follow-up Messaging](follow-up-messaging.md) — post-meeting follow-up protocol (transcript → AI → CEO office)
 - [Authority in Sales](authority-in-sales.md) — the attitude required when running ABSM
