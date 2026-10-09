@@ -26,6 +26,8 @@ Team member at StepUp.One. Active daily session participant and current team lea
 
 **Oct 1, 2026:** Next action — fix microphone/audio equipment before next session. Also: share the AI photo prompt buttons with the women in the group.
 
+**Oct 8, 2026:** Microphone issue still unresolved — listed in session next steps as a blocker to address before upcoming discussions.
+
 ## Known Issues
 
 - Audio quality: persistent microphone problems affecting communication clarity and credibility in sessions
