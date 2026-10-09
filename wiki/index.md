@@ -1,7 +1,7 @@
 ---
 title: StepUp.One Wiki
 type: overview
-updated: 2026-10-05
+updated: 2026-10-09
 ---
 
 # StepUp.One Wiki
