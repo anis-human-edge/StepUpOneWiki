@@ -51,6 +51,13 @@ Ahmed Farhan is responsible for assigning accelerator lakes to each team member 
 - Alliance team → CNT for other assigned targets
 - Patience Ciza → Techstars lake ownership
 
+## Open Action Items (as of 2026-10-08)
+
+### From 8 Oct 2026 — Account Assignments
+
+- **Explore Persistent Systems:** Anis assigned Persistent Systems to Ahmed to investigate the account for opportunities and initiate outreach.
+- **Assign Cognizant Hunt:** Designate a team member to manage business development outreach for Cognizant.
+
 ## Open Action Items (as of 2026-07-28)
 
 ### From 28 Jul 2026 — QuickMail + Laura Cortizo
