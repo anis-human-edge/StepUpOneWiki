@@ -7,6 +7,22 @@ sources: []
 
 # Wiki Log
 
+## [2026-10-09] ingest | 1 Gmail file — Oct 8 Daily Learning session (Gemini notes)
+
+**Source ingested (1):**
+- `raw/gmail/2026-10-08-notes-stepup-one-daily-learning-8-oct-2026.md` — Oct 8 session. Target account list reduced 88→57; Superior ($5B) assigned to Farhan; Persistent Systems to Ahmed; Nuuh Iftin assigned LT Technology Services/G-Explore/Xflo; multi-tier engagement structure (CXOs/VPs/BDRs); execution readiness confirmed; Sharmuge and Obedi microphone/action items.
+
+**Pages created (2):**
+- `wiki/entities/people/sharmuge.md` — new: Mohamed Sharmuge Mohamed, ABSM team member, account selection and reporting assignments
+- `wiki/entities/people/obedi-abekya.md` — new: Obedi Abekya, team member, audio quality issues
+
+**Pages updated (5):**
+- `wiki/clients-partnerships/win-new/outbound/absm-methodology.md` — added: target list optimization (88→57), Superior account, Fujitsu via WhatsApp, multi-tiered account engagement section (Oct 8)
+- `wiki/entities/people/ahmed-farhan.md` — added: Oct 8 action items (Persistent Systems, Cognizant hunt)
+- `wiki/entities/people/nuuh-iftin.md` — added: Oct 8 assignments (LT Technology Services, G-Explore, Xflo)
+- `wiki/entities/people/farhaan-abdi-hassan.md` — added: Oct 8 note on ongoing microphone issue
+- `wiki/index.md` — added Sharmuge and Obedi entries; updated Farhaan description
+
 ## [2026-10-06] ingest | 1 GDrive file — Oct 5 Daily Learning session (Gemini notes)
 
 **Source ingested (1):**
