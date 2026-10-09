@@ -6,6 +6,8 @@ sources:
   - raw/gdrive/2026-09-30-stepup-one-daily-learning-0755-bst-notes-by-gemini-1bWJYO5RtIEkYrvvasLj2TMXwyCSInbYSxjppaYAi3i4.md
   - raw/gdrive/2026-10-01-stepup-one-daily-learning-0759-bst-notes-by-gemini-1SLJEnbqXog4mSBfwv6FEx7FGuIc6-JDcBMtXj4GVRAc.md
   - raw/gdrive/2026-10-05-stepup-one-daily-learning-0800-bst-notes-by-gemini-1bsG03lsY_iCg53hE4dr9dtSNW32uWfd5OK1H3scwWds.md
+  - raw/gmail/2026-10-08-notes-stepup-one-daily-learning-8-oct-2026.md
+updated: 2026-10-08
 ---
 
 # Nuuh Iftin
