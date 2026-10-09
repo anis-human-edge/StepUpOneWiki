@@ -416,6 +416,60 @@ Profile first, hunting second. In that order, every time.
 
 ---
 
+## Role Title Architecture (Oct 6, 2026)
+
+After a 40-minute structured discussion, the team settled on an approach to LinkedIn role titles that reflects genuine responsibility rather than manufactured seniority equivalence.
+
+### The Core Principle
+
+**Responsibility first, then title.** Ask: what does this person own? What are they accountable for? What decisions do they make? Then find a credible market title that accurately describes that reality.
+
+**Do not manufacture titles** to create artificial peer-to-peer equivalence with enterprise targets. Farah Ibrahim:
+> *"Imagine Cognizant eventually discovers that an impressive-sounding Account Director at StepUp.One does not actually direct an account, doesn't own a commercial outcome, and the title was primarily created to make outrage look senior. You have lost relationship capital rather than building it."*
+
+### Agreed Title Architecture
+
+| Internal Role | LinkedIn Experience Title | Notes |
+|---------------|--------------------------|-------|
+| Team member | ABSM Account Executive *or* ABSM Account Strategist | Executes client campaigns, delivery; does not own client relationship |
+| Team leader | ABSM Account Director | Leads delivery, owns day-to-day client relationship, accountable for quality |
+| CEO/Founder | CEO & Founder, StepUp.One | Fixed; no change needed |
+
+**"AI-native ABSM expert"** does not disappear — it becomes a **positioning tagline** in the headline, not the organizational role title in the experience section.
+
+### What Was Rejected
+
+- Uniform title for everyone ("AI-native ABSM expert" as experience title) — weakens the organizational signal; tells Cognizant nothing about ownership or seniority
+- Copying competitor titles purely for superficial equivalence — "cosplay" that destroys credibility when discovered
+- Traditional corporate titles (VP, Director) given without genuine responsibility to match
+
+### About Section vs Title
+
+Ahmed Farhan proposed a practical resolution: keep the headline as-is (`AI-native ABSM expert | Helping executives land and expand`), differentiate through the **About section** — team members describe what they execute, team leaders describe what they own and are accountable for. Farah Ibrahim agreed. Both agreed that word-for-word identical About sections across team members look bad.
+
+---
+
+## Profile Photo: Modern Attire Standard (Oct 6, 2026)
+
+As of October 2026, the standard expanded beyond "professional headshot" to specifically address **modern attire**. Mohamed Anis critiqued multiple team profiles for showing 1990s/early-2000s clothing styles that do not resonate with enterprise clients.
+
+**The problem:** A suit-and-tie or formal leather jacket look signals "IBM used car salesman from 1990s" rather than modern executive peer.
+
+**The standard:** Contemporary Gen Z/executive professional style — round-collar t-shirt layered under suit jacket, or equivalent modern styling. No traditional ties, dated formal suits, or structured corporate blazers from another era.
+
+Jean-Marie Ndikumana confirmed the shift:
+> *"Contemporary professionals no longer wear ties, leather jackets, or traditional suits — round-collar t-shirts under layered clothing, jeans and sneakers."*
+
+**Benchmarks (Oct 6 update):**
+- **Women:** Darsalemi — the official benchmark for women's modern professional look
+- **Men:** Ahmed Farhan — the official benchmark for men's modern professional look
+
+**AI photo update:** Use AI image generation to update profile photos to modern attire. The goal is modern clothing, not physical beautification. Apply the existing team photo generation prompt to achieve this.
+
+**Consistency rule:** AI-generated photo must still look like the person — Jean-Marie flagged that a profile photo bearing no resemblance to the actual person causes confusion in meetings. Aim for modern clothing + recognizable likeness.
+
+---
+
 ## Related Pages
 
 - [LinkedIn Commenting](linkedin-commenting.md) — the full commenting methodology, AI vs human standards, and commenting skills
