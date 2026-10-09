@@ -1066,10 +1066,87 @@ The Oct 8 session reviewed and confirmed the 3-tier engagement structure for tar
 
 ---
 
+## Buying Centers: Revenue Threshold Definition (Oct 7, 2026)
+
+A **buying center** is a business unit or division within a target enterprise that has its own purchasing authority and budget. Not all departments within a company are buying centers — only those with revenue/budget exceeding a defined threshold.
+
+**Definition:** a buying center is a business unit generating annual revenues exceeding **$20 million** within a specific account, geography, or industry vertical.
+
+**Example — Frier:** operates through **7 distinct buying centers** spanning pharma, medical devices, and other divisions. Each buying center is a separate ABSM target, not a single monolithic company target.
+
+**Why this matters:** account mapping at the corporate level misses the real structure. A single large enterprise like Frier is not one buying center — it is 7. Each center has its own decision-makers, challenges, and relationship hierarchy. An ABSM plan that treats Frier as a single account misses 6 of the 7 opportunities.
+
+**Implication for account mapping:** the first step when assigned a new account is to identify how many buying centers it has and which ones exceed the $20M threshold. Map each center separately.
+
+---
+
+## Account Graph: Visualizing the Relationship Network (Oct 6, 2026)
+
+An **account graph** is a visual map of all connections between StepUp.One team members and a target account's personnel. It answers two questions: who are we already connected to, and who do we still need to reach?
+
+**When to build it:** create an account graph for every account under active pursuit — Cognizant, Emphasis, Accenture, IBM, Standard Chartered.
+
+**How to build it (Oct 6 instructions):**
+1. Download the full contact list for the target account from Sales Navigator (can reach 2,500+ people for large firms like Cognizant)
+2. Collect each team member's existing connections (Sales Navigator login required for all 8 assigned people)
+3. Cross-reference: identify who is already a first- or second-degree connection
+4. Map: who does Mohamed Anis (CEO) hold? Who does each team leader hold? Who is unconnected?
+
+**Starting format:** build it as a spreadsheet first for practice. Then move to a visual graph format that can be shown to clients — a spreadsheet does not excite a Cognizant executive, a visual graph does. Mohamed Anis noted that visual account graphs are being integrated into the StepUp.One website.
+
+**Use the graph for role assignment:** once the graph is built, assign each team member to build relationships at the appropriate seniority level — team members connect with equivalent-seniority contacts, team leaders connect with directors/VPs, CEO connects with CXOs.
+
+---
+
+## Three Distinct Relationship Skills (Oct 6, 2026)
+
+Mohamed Anis identified that business development requires three fundamentally different skills, each with a different failure mode. Most people are good at only one.
+
+| Skill | What It Is | Common Failure Mode |
+|-------|-----------|---------------------|
+| **Building** | Creating new relationships from zero | StepUp.One's historical strength — 7 years of execution |
+| **Nurturing** | Maintaining existing connections over time without asking for anything | Discipline problem: most people don't do it systematically |
+| **Converting** | Turning a nurtured relationship into a business outcome (client, partner, referral) | Ego problem: fear of rejection prevents the ask |
+
+**The current gap:** the team has built thousands of connections but rarely nurtured them. Mohamed Anis acknowledged being personally connected to 10,000+ potential clients yet hesitant to approach most of them because the relationships were never watered.
+
+**The proposed fix:** restart nurturing of all 10,000 existing connections over 6 months without asking for anything. Build presence, re-establish familiarity, then approach for partnerships when the relationship is ripe.
+
+**Implication for the Tier 1 CEO list:** the 124 existing CEO connections are a converting opportunity, not a new building task. These relationships already exist — they need nurturing before converting, not cold outreach treatment.
+
+> *"Building is our core strength. Nurturing is a discipline and knowledge problem. Converting is an ego problem involving the fear of rejection. Every team member must master all three."*
+> — Mohamed Anis (Oct 6)
+
+---
+
+## Big Spark: Account Status Update (Oct 7, 2026)
+
+Obedi Abekya reported on the Big Spark account:
+
+- Big Spark has indicated they are **shifting toward automation** and planning to **reduce marketing expenditures**
+- This creates a risk for the current engagement
+
+Mohamed Anis noted the broader challenge: re-engaging a client relationship after a period of poor or no contact is significantly harder than maintaining an active one. Past meeting results were discussed and the complexity of rebuilding lapsed client relationships was acknowledged.
+
+**Implication:** this reinforces the nurturing imperative. Client relationships that are not actively maintained will drift, and re-entry costs are high.
+
+---
+
+## Website: Built by Anis in 7 Days with AI Coding (Oct 7, 2026)
+
+Mohamed Anis built the complete StepUp.One website independently in **7 days** using AI coding assistance. This included:
+- A custom proprietary design system (brand colors, typography, page layouts, illustration styles, handmade signature icons for break-in/expand/protect)
+- Multiple page types: homepage, enterprise page, executive page, reskilling page, founder/fundraising page
+- Minimalist UI with keyboard arrow navigation for executives who do not use mice
+- Custom interactive pricing (users configure accounts, team size, channels — not fixed tiers)
+
+The timeline represents a **10x speed advantage** compared to traditional web design agencies. AI coding assistance was the core accelerant.
+
+---
+
 - [Outbound Strategy](outbound-strategy.md) — the broader outbound system that ABSM sits within
 - [Follow-up Messaging](follow-up-messaging.md) — post-meeting follow-up protocol (transcript → AI → CEO office)
 - [Authority in Sales](authority-in-sales.md) — the attitude required when running ABSM
 - [LinkedIn Outreach Messaging](../../../training-reskilling/linkedin-outreach-messaging.md) — 3-tier messaging system, AI evaluation, prospect research
 - [LinkedIn Commenting](../../../training-reskilling/linkedin-commenting.md) — how commenting drives ABSM engagement and C-level reach
-- [ICP Hierarchy](../../../strategy-vision/icp-hierarchy.md) — how target accounts are structured
 - [GTM Engine](../../../entities/systems/gtm-engine.md) — StepUp.One's client-facing GTM service
