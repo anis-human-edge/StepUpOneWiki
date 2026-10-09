@@ -48,6 +48,11 @@ See: [LinkedIn Outreach Messaging](../../training-reskilling/linkedin-outreach-m
 - Continue CrowdStrike outreach — apply Level 3 messaging framework to Rosanna Martinez and other targets
 - Enhance LinkedIn profile: develop differentiated title and experience section distinct from other team members; present ideas to Mohamed Anis
 
+## Assignments (as of Oct 8, 2026)
+
+- **Explore LT Technology Services, G-Explore, and Xflo:** investigate these three accounts for viable opportunities and discontinue work on any non-performing accounts identified
+- **Cognizant hunt coordination:** designated to support assigning a team member to manage business development outreach for Cognizant
+
 ## Related
 
 - [ABSM Methodology](../../clients-partnerships/win-new/outbound/absm-methodology.md) — the methodology she is executing
