@@ -42,5 +42,6 @@ Team member at StepUp.One. Active daily session participant and current team lea
 ## Related
 
 - [Tobi](../clients/tobi.md) — client engagement Farhaan leads
+- [Torb](../clients/torb.md) — ABSM campaign Farhaan is running (Oct 2026)
 - [Abdulkadir Mhina](abdulkadir-mhina.md) — profile photo benchmark
 - [Ahmed Farhan](ahmed-farhan.md) — collaborates on profile photo generation for women
