@@ -8,6 +8,19 @@ sources: []
 
 # Wiki Log
 
+## [2026-10-12] ingest | 1 GDrive file — Oct 10 Daily Learning session (Gemini notes, Torb/NHS hospital ABSM)
+
+**Source ingested (1):**
+- `raw/gdrive/2026-10-10-stepup-one-daily-learning-0800-bst-notes-by-gemini-1hbwddZlK-pWTUg58kQJ-drhvqCl1_D4l4TJt9K6iiCI.md` — Oct 10 morning: ABSM strategy for Torb client (visual clinical decision support tool, NHS/UK hospitals, orthopedic/MSK); institutional compliance insight (doctors cannot use tools without hospital purchase); hospital buying hierarchy (CPO > CEO/CFO > surgery directors > doctors as influencers); LinkedIn limitations for orthopedic surgeons; pipeline math (100 hospitals × 10 contacts = 1,000 total); two-plan onboarding (existing connections vs net-new); Farhaan preparing Mon deliverables / Tue client meeting with Romesh
+
+**Pages created (1):**
+- `wiki/entities/clients/torb.md` — new: UK healthcare client; Torb chart for orthopedic/MSK shared decision-making; hospital institutional compliance; buying center hierarchy; pipeline math; LinkedIn limitations; Farhaan as engagement lead
+
+**Pages updated (3):**
+- `wiki/clients-partnerships/win-new/outbound/absm-methodology.md` — added: Healthcare/Institutional Tool ABSM section (institutional compliance principle, hospital buying hierarchy, LinkedIn limitations in healthcare, pipeline math 100×10=1,000, scope validation before campaign, two-plan structure); new source added
+- `wiki/entities/people/farhaan-abdi-hassan.md` — added: Torb ABSM role; Oct 10 event (Torb strategy session, Mon/Tue deliverables); Torb link in Related section
+- `wiki/index.md` — added Torb client entry; updated Farhaan entry; updated ABSM Methodology description; updated date
+
 ## [2026-10-09] ingest | 5 GDrive files — Oct 6, 7, 8 Daily Learning sessions (Gemini notes)
 
 **Sources ingested (5):**
