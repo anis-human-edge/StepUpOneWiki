@@ -148,7 +148,7 @@ The wiki gets richer with every source added. Cross-references are maintained au
 
 | Page | Description |
 |------|-------------|
-| [Farhaan Abdi Hassan](entities/people/farhaan-abdi-hassan.md) | Team member; leads Tobi client engagement; developed AI photo prompt for team; audio issues ongoing (Oct 8 2026); transitioning Tobi team to new trainees (Sep–Oct 2026) |
+| [Farhaan Abdi Hassan](entities/people/farhaan-abdi-hassan.md) | Team member; leads Tobi client engagement; running ABSM for Torb (NHS hospital targeting, Oct 2026); preparing Torb strategy doc for Mon Oct 12 / client meeting Tue Oct 13; audio issues ongoing |
 | [Mohamed Sharmuge Mohamed](entities/people/sharmuge.md) | Team member; ABSM execution; confirmed execution readiness Oct 8; assigned to select target account and report weekly CXO connection progress |
 | [Obedi Abekya](entities/people/obedi-abekya.md) | Team member; audio/microphone issues flagged Oct 8 2026 |
 | [Nuuh Iftin](entities/people/nuuh-iftin.md) | Team member; hunting CrowdStrike and Verizon accounts; flagged Verizon as concern; advocates sophisticated relationship-building over direct pitching (Sep–Oct 2026) |
