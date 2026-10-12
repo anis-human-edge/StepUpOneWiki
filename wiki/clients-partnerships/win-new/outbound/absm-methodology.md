@@ -1144,7 +1144,76 @@ The timeline represents a **10x speed advantage** compared to traditional web de
 
 ---
 
-- [Outbound Strategy](outbound-strategy.md) — the broader outbound system that ABSM sits within
+---
+
+## Healthcare / Institutional Tool ABSM (Oct 10, 2026)
+
+From the Oct 10 Daily Learning session, using the [Torb](../../../entities/clients/torb.md) engagement as the live case study. This pattern applies whenever a client sells a tool that requires institutional approval before end users can use it.
+
+### The Institutional Compliance Principle
+
+When a product must be purchased at the institution level before any individual can use it, **never target the end user**. Target the buyer.
+
+**Why:** even if an individual doctor loves a clinical tool, they cannot bring it into a hospital without institutional purchase and approval. The same applies to software in corporations — an employee cannot use personal ChatGPT at Infosys due to data privacy policy, even though it is the same product as the company-licensed version. The institution, not the individual, controls tool access.
+
+**ABSM implication:** the end user (doctor, individual employee) is an **influencer**, not a buyer. Spend no more than 20–30% of account-mapping effort on influencers. Direct 70–80% of account-mapping effort at the institutional buying hierarchy: procurement directors, CFOs, CEOs, surgery directors.
+
+### Healthcare Buying Center Hierarchy
+
+For hospital-targeting ABSM campaigns:
+
+| Role | Type | Priority |
+|------|------|----------|
+| Chief Procurement Officer / Director of Procurement | Primary buyer | Highest |
+| CEO | Co-decision-maker | High |
+| CFO | Co-decision-maker | High |
+| Director of Surgery / Medical Director | Evaluator / influencer | Medium |
+| Orthopedic surgeons / end-user doctors | Influencer only | Low |
+
+The CPO/procurement director is the most important single contact. Convincing the CPO is essentially winning the deal; winning individual doctors means nothing without institutional approval.
+
+### LinkedIn Limitations in Healthcare
+
+UK orthopedic surgeons and many healthcare specialists have limited or no LinkedIn presence. LinkedIn-first outreach fails for this segment.
+
+**Alternative channels:**
+- Hospital websites (staff directories, department pages)
+- GMC (General Medical Council) registration and specialist directories
+- Royal College of Surgeons / specialty society membership lists
+- Email sourced from hospital websites
+
+For institutional buyers (procurement, CFO, CEO), LinkedIn remains effective — these executives do maintain active profiles.
+
+### Pipeline Mathematics for Hospital Targeting
+
+Goal: win 10 hospital clients  
+**Math:** hunt 100 hospitals × 10 contacts per hospital = 1,000 total contact universe
+
+**Timeline:**
+- Months 1–2: connect with all 1,000 contacts (connection engine)
+- Months 3–12: relationship-building — commenting on target posts within 1 hour (use notification bells), daily engagement on trending orthopedic surgery discussions, posting relevant content, strategic private messaging
+
+Winning 10 hospitals requires a sustained 10-month engagement campaign after the initial 2-month connection push. The math is non-negotiable: undercounting the required target universe produces predictable underperformance.
+
+### Scope Validation Before Campaign
+
+Before mapping targets, validate the client's product scope:
+- Which condition types does the product cover? (Torb: orthopedics/MSK only — no cancer, no pediatrics)
+- Which departments within target institutions need to exist? (Torb: orthopedic department required)
+- Which geography is relevant? (Torb: UK NHS only)
+
+A campaign targeting institutions without the relevant department wastes the entire connection budget. Product scope validation is the first pre-work step, before any account list is built.
+
+### Two-Plan Structure (Existing vs Net-New)
+
+Apply the [Day-One Client Onboarding: Connection Segmentation](#day-one-client-onboarding-connection-segmentation-oct-5-2026) protocol:
+1. Map the client's existing LinkedIn connections against target hospital executives
+2. Build Plan A for converting existing warm connections (faster track, 3-month cycle)
+3. Build Plan B for net-new cold connections (full 12-month cycle)
+
+These two plans require different messaging, different timing, and different approaches. Never combine them into a single outreach motion.
+
+---
 - [Follow-up Messaging](follow-up-messaging.md) — post-meeting follow-up protocol (transcript → AI → CEO office)
 - [Authority in Sales](authority-in-sales.md) — the attitude required when running ABSM
 - [LinkedIn Outreach Messaging](../../../training-reskilling/linkedin-outreach-messaging.md) — 3-tier messaging system, AI evaluation, prospect research
