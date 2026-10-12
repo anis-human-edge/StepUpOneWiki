@@ -17,7 +17,8 @@ Team member at StepUp.One. Active daily session participant and current team lea
 
 ## Role
 
-- **Team lead:** manages the team working for Tobi
+- **Team lead:** manages the team working for [Tobi](../clients/tobi.md)
+- **ABSM engagement lead:** running the ABSM campaign for [Torb](../clients/torb.md) — NHS hospital targeting for clinical decision support tool (Oct 2026)
 - **Profile photo generation:** developed and distributed AI prompt buttons for team members to generate standardized professional headshots (including women's version with hijab). Shared in WhatsApp group and team document.
 - **Daily Learning sessions:** regular attendee; flagged Tobi team issues in the Sep 30 session; contributed to the duck leadership discussion in the Oct 1 session
 
