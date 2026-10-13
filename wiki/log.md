@@ -8,6 +8,21 @@ sources: []
 
 # Wiki Log
 
+## [2026-10-13] ingest | 1 Gmail file — Oct 12 Daily Learning sessions (Gemini notes, Torb ABSM refinements + product strategy)
+
+**Source ingested (1):**
+- `raw/gmail/2026-10-12-notes-stepup-one-daily-learning-12-oct-2026.md` — Two sessions:
+  - AM (10:40 BST): ABSM for Torb/TB client — refined buying committee math (5×3×100=1,500 contacts); association influencing ICP (top UK orthopedic associations as deal brokers); peacock approach (AI-personalized, email-first outreach); 3-month connection sprint + 9-month relationship phase; leadership dual-stream model (client leaders vs delivery leaders)
+  - PM (7:44 BST): Rangaraju Ramesh (Torb founder) joins session — product AI integration strategy; MHRA 2-3 year approval path for medical device AI; position AI as administrative support; DTAC/cyber essentials compliance required (~£20k); MSK physiotherapists (band 7+) as key personas; 1% stake × 100 stakeholders model; 100 hospitals, 2 pilot wins in 3 months goal
+
+**Pages created (1):**
+- `wiki/entities/people/rangaraju-ramesh.md` — new: Torb founder/product owner; joins Oct 12 PM session; MHRA/DTAC compliance owner; LinkedIn access delegation to Farhan; identified as same person as "Romesh" in Oct 10 notes
+
+**Pages updated (3):**
+- `wiki/entities/clients/torb.md` — added: Oct 12 refined pipeline math (1,500 contacts), association layer ICP, peacock outreach methodology, product AI integration section, team assignments table, updated status; client contact renamed Romesh → Rangaraju Ramesh
+- `wiki/clients-partnerships/win-new/outbound/absm-methodology.md` — added: Oct 12 healthcare refinements (buying committee math, association ICP, peacock email-first); dual-stream leadership model section; new source added
+- `wiki/index.md` — added Rangaraju Ramesh person entry; updated Farhaan entry; updated Torb and ABSM descriptions; updated date
+
 ## [2026-10-12] ingest | 1 GDrive file — Oct 10 Daily Learning session (Gemini notes, Torb/NHS hospital ABSM)
 
 **Source ingested (1):**
