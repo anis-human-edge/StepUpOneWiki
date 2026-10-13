@@ -1214,6 +1214,44 @@ Apply the [Day-One Client Onboarding: Connection Segmentation](#day-one-client-o
 
 These two plans require different messaging, different timing, and different approaches. Never combine them into a single outreach motion.
 
+### Oct 12 Refinements — Buying Committee Math and Outreach Channel
+
+**Refined pipeline math:** earlier Oct 10 estimate was 100 hospitals × 10 contacts = 1,000. Oct 12 session refined the model:
+- 3 buying committees per hospital (CXO tier, procurement tier, consulting doctors)
+- 5 contacts per committee
+- 15 contacts per hospital × 100 hospitals = **1,500 total contact universe**
+- Complete all 1,500 connections within 3 months, then switch to 9-month relationship-only phase
+
+**Association layer (Influencing ICP):** add orthopedic professional associations as a parallel ICP. If top UK associations endorse a clinical tool, member hospitals adopt faster (herd effect). Identify:
+- Top 10 UK hospitals with large orthopedic departments
+- Top 10 related UK orthopedic/MSK associations
+- Map evaluators, decision-makers, and champions within each association
+
+**Outreach channel — Peacock approach (email-first):**
+- Reject bulk copy-paste messaging (the "bull approach") — reputational risk at scale
+- Use AI-assisted, highly personalized outreach (the "peacock approach")
+- Primary channel for doctors and associations: **email** (not LinkedIn — low activity in healthcare)
+- LinkedIn remains effective for institutional buyers (procurement, CFO, CEO)
+- Sources: GMC registrations, specialist society directories, hospital websites
+
+## Dual-Stream Leadership Model (Oct 12)
+
+As ABSM teams scale, a single team structure becomes a bottleneck. The solution is two independent leadership streams:
+
+| Stream | Focus | Responsibility |
+|--------|-------|----------------|
+| **Client Leaders** | Winning accounts | Relationship-building, meeting acquisition, client conversion |
+| **Delivery Leaders** | Executing work | Running campaigns, posting, commenting, daily outreach execution |
+
+**Design principles:**
+- The two streams are parallel, not hierarchical — each has its own leader
+- Joining a client-leader track is **optional** for team members focused on execution
+- Leadership creation requires: demonstrated talent + deep commitment + visible outcome delivery
+- Professional growth (income, career trajectory) is the primary retention mechanism — not team loyalty
+- Companies prioritize revenue generation; leadership tracks are offered to earn revenue, not relationships
+
+**Why this matters for ABSM:** at scale, one person cannot both hunt new accounts and manage ongoing delivery for existing accounts. The dual-stream model allows StepUp.One to grow the number of client relationships without degrading delivery quality.
+
 ---
 - [Follow-up Messaging](follow-up-messaging.md) — post-meeting follow-up protocol (transcript → AI → CEO office)
 - [Authority in Sales](authority-in-sales.md) — the attitude required when running ABSM
