@@ -130,7 +130,7 @@ The wiki gets richer with every source added. Cross-references are maintained au
 
 | Page | Description |
 |------|-------------|
-| [Torb](entities/clients/torb.md) | UK healthcare client; visual clinical decision support tool for orthopedic/MSK conditions; NHS hospital targeting; Farhaan leads ABSM (Oct 2026); sell to procurement/executives, not doctors |
+| [Torb](entities/clients/torb.md) | UK healthcare client; visual clinical decision support tool for orthopedic/MSK conditions; NHS hospital targeting; Farhaan leads ABSM; peacock outreach approach (email-first); 1,500-contact campaign (5×3 buying committee model × 100 hospitals); association influencing layer; AI integration planned (MHRA/DTAC compliance path); client contact: Rangaraju Ramesh (Oct 2026) |
 | [Tobi](entities/clients/tobi.md) | Client with dedicated StepUp.One team; Farhaan leads; team accountability failures Sep 2026; transitioning to new trained personnel |
 | [Alexander Demianov](entities/clients/alexander-demianov.md) | New client win (June 2026), signed via concise one-sentence outreach |
 | [Kushal](entities/clients/kushal.md) | Client pausing service (Jun 2026); 412/47/5 campaign metrics; refused pay-per-success model |
