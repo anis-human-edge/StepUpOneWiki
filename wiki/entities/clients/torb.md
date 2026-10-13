@@ -42,7 +42,8 @@ Most UK orthopedic consultants do not have LinkedIn profiles, or maintain profil
 
 ## Key Contacts
 
-- **Romesh** — the primary client contact (relationship pre-exists; meeting planned for Tuesday 2026-10-12 pending Farhaan's Monday review)
+- **Rangaraju Ramesh** (also transcribed as "Romesh" in earlier notes) — founder/product owner; primary client contact. Relationship pre-exists. Participated in Oct 12 PM Daily Learning session. Client meeting held Oct 13. Responsible for DTAC/MHRA compliance work and LinkedIn outreach coordination.
+- See also: [Rangaraju Ramesh](../people/rangaraju-ramesh.md)
 
 ## ABSM Engagement
 
