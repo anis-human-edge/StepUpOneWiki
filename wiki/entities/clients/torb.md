@@ -1,9 +1,10 @@
 ---
 title: "Torb"
 type: entity
-updated: 2026-10-12
+updated: 2026-10-13
 sources:
   - raw/gdrive/2026-10-10-stepup-one-daily-learning-0800-bst-notes-by-gemini-1hbwddZlK-pWTUg58kQJ-drhvqCl1_D4l4TJt9K6iiCI.md
+  - raw/gmail/2026-10-12-notes-stepup-one-daily-learning-12-oct-2026.md
 ---
 
 # Torb
