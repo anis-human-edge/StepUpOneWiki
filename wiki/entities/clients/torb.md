@@ -50,22 +50,37 @@ Most UK orthopedic consultants do not have LinkedIn profiles, or maintain profil
 **Assigned team lead:** [Farhaan Abdi Hassan](../people/farhaan-abdi-hassan.md)
 
 **Two-plan approach (standard day-one onboarding):**
-1. **Existing connections plan** — identify which current StepUp.One/Romesh LinkedIn connections are already in NHS hospital procurement and executive roles
+1. **Existing connections plan** — identify which current StepUp.One/Rangaraju Ramesh LinkedIn connections are already in NHS hospital procurement and executive roles
 2. **New connections plan** — identify 100+ target hospitals with orthopedic departments and map 10–15 key decision-makers per hospital
 
-**Pipeline math:**
-- Goal: win 10 hospital clients
+**Pipeline math (refined Oct 12):**
+- Goal: win 10 hospital clients (~2 meetings per hospital required to close)
 - Required: hunt 100 hospitals
-- Contacts per hospital: 10 (decision-maker tier: CEO, CFO, procurement directors, surgery directors)
-- Total contact universe: 1,000 people
-- Connection phase: ~2 months to connect with all 1,000
-- Relationship phase: 10 months of daily commenting, posting, and strategic messaging
+- Buying committees per hospital: 3 (CXO tier, procurement tier, consulting doctors)
+- Contacts per buying committee: 5
+- Total contacts per hospital: 15
+- Total contact universe: 1,500 people
+- Connection sprint: complete all 1,500 initial outreach connections within 3 months
+- Relationship phase: 9 months of exclusive relationship-building (no new outreach)
 
 **Buying center hierarchy per hospital:**
 1. Chief Procurement Officer / Director of Procurement — primary buyer
 2. CEO / CFO — co-decision-makers
 3. Director of Surgery / Medical Director — evaluators / influencers
-4. Orthopedic surgeons — end users / influencers (not buyers)
+4. Orthopedic surgeons and MSK physiotherapists (band 7+) — end users / influencers (not buyers)
+
+**Influencing ICP — Association Layer (added Oct 12):**
+- Top UK orthopedic associations targeted as deal brokers
+- If associations endorse Torb, they create herd-effect adoption across member hospitals
+- Target: identify top 10 hospitals with large orthopedic departments + top 10 related UK associations
+- Associations as ICP: map evaluators, decision-makers, and champions within each
+
+**Outreach methodology — Peacock Approach:**
+- Reject generic copy-paste messaging (the "bull approach") — reputational risk
+- Use AI-assisted, highly personalized outreach (the "peacock approach")
+- Primary channel: **email** (not LinkedIn — low activity among orthopedic surgeons)
+- For institutional buyers (procurement, CFO, CEO): LinkedIn effective
+- For doctors as influencers: email, hospital websites, GMC/specialist society directories
 
 ## Status
 
