@@ -82,13 +82,36 @@ Most UK orthopedic consultants do not have LinkedIn profiles, or maintain profil
 - For institutional buyers (procurement, CFO, CEO): LinkedIn effective
 - For doctors as influencers: email, hospital websites, GMC/specialist society directories
 
+## Product AI Integration (Oct 12)
+
+Rangaraju Ramesh participating in Oct 12 PM session outlined plans to add AI capabilities to the Torb product:
+
+- **MHRA constraint:** integrating algorithms as medical devices requires MHRA approval (2–3 years). Strategy: position AI as **administrative support tool** (not autonomous decision-maker) to avoid MHRA classification.
+- **DTAC compliance:** required before NHS procurement. Also needs cyber essentials certification and penetration testing.
+- **Cost:** external agency quoted ~£20,000 for basic digital readiness package.
+- **Ownership model:** exploring offering 1% stake to 100 stakeholders at £1,000 each to drive network effects and raise £100k.
+
+**Compliance action items:**
+- Rangaraju Ramesh: contact agencies to evaluate DTAC certificate costs and timelines
+- Rangaraju Ramesh: update LinkedIn credentials and share access with Farhan for profile outreach
+
+## Team Assignments
+
+| Person | Role |
+|--------|------|
+| [Farhaan Abdi Hassan](../people/farhaan-abdi-hassan.md) | ABSM lead |
+| Jahir Hussain | Executive and procurement outreach at key hospitals |
+| [Ahmed Farhan](../people/ahmed-farhan.md) | Draft personalized communications; submit to Rangaraju Ramesh for approval |
+| Rangaraju Ramesh | Client product owner; DTAC/compliance lead |
+| [The team] | Identify top 10 hospitals + top 10 orthopedic associations; map buying centers |
+
 ## Status
 
-As of 2026-10-10: Farhaan preparing two deliverables for Monday 2026-10-12:
-1. ABSM account strategy document for Romesh — showing which accounts will be targeted and how
-2. Two reports: (a) Romesh's existing connections within target hospital accounts; (b) new connections to build
-
-A client meeting is scheduled for Tuesday 2026-10-13 if the Monday deliverables are approved.
+As of 2026-10-13: Client meeting held Oct 13. Oct 12 PM Daily Learning session included Rangaraju Ramesh participating directly. Strategy confirmed:
+- 100 hospitals targeted; goal: 2 pilot wins within 3 months
+- 1,500-contact outreach campaign; complete connections within 3 months
+- Association layer added to ICP
+- DTAC/cyber compliance work initiated by Rangaraju Ramesh
 
 ## Related
 
