@@ -115,5 +115,6 @@ As of 2026-10-13: Client meeting held Oct 13. Oct 12 PM Daily Learning session i
 
 ## Related
 
-- [Farhaan Abdi Hassan](../people/farhaan-abdi-hassan.md) — engagement lead
+- [Farhaan Abdi Hassan](../people/farhaan-abdi-hassan.md) — ABSM engagement lead
+- [Rangaraju Ramesh](../people/rangaraju-ramesh.md) — client contact / product owner
 - [ABSM Methodology](../../clients-partnerships/win-new/outbound/absm-methodology.md) — methodology applied to this engagement
