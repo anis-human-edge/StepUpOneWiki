@@ -53,8 +53,60 @@ The curriculum doesn't aim to make people into AI operators. It aims to make the
 - The founder who uses AI to research investors, generate pitch decks, and run outreach
 - The salesperson who uses AI to draft messages but applies human judgment to close
 
+---
+
+## The Two-Engine Operational Model (Oct 14–15, 2026)
+
+As ABSM matured, Mohamed Anis introduced a more specific operational framework — the **two-engine model** — that describes how human judgment and AI capability divide across the relationship cycle.
+
+### Engine 1: Relationship Building Engine
+
+**Human role:** identify targets, craft genuine engagement, read social signals, make judgment calls on timing and quality.  
+**AI role:** generate draft comments and messages, scan for live signals, automate CRM logging, suggest engagement angles.  
+**Outcome:** zero → warm contact.
+
+The team has strong capability in this engine. Years of daily sessions, commenting practice, and outreach training have built genuine skill.
+
+### Engine 2: Relationship Conversion Engine
+
+**Human role:** initiate the ask, manage the tone of the conversation as it moves toward a commercial outcome, handle objections and negotiation, decide when to close.  
+**AI role:** generate follow-up message drafts, research the contact's company and context, surface relevant case studies, prepare proposals.  
+**Outcome:** warm contact → deal, partnership, or referral.
+
+The team is weak in this engine. The same people who excel at building relationships freeze at conversion — the fear of rejection overrides years of relationship capital.
+
+**Why human judgment is irreplaceable at conversion:** AI can draft the ask, but the decision of *when* to ask, *how* to frame the transition, and *how* to handle the moment of hesitation is entirely human. A poorly timed conversion attempt destroys the entire relationship investment. This is why the human-AI combination is most critical — and most fragile — in Engine 2.
+
+Mohamed Anis (Oct 14 PM):
+> *"We are incredibly good at building. We have never been good at converting. The person who can do both is the most dangerous person in business."*
+
+---
+
+## StepUp.One Website: Human + AI Made Visible (Oct 14–15, 2026)
+
+The StepUp.One website embodies the human+AI thesis — built by Mohamed Anis alone in 7 days using AI coding tools. The website is both proof-of-concept (one person with AI can build what agencies charge £50k+ for) and the company's primary external-facing statement of the model.
+
+**Tagline:** "You have the role, make it count."
+
+**Four audience segments:**
+1. **Executives** — senior leaders needing to protect and grow key accounts
+2. **Account teams** — BDMs and client partners needing ABSM execution capacity
+3. **Founders** — needing to build investor and enterprise relationships from scratch
+4. **Investors** — needing context on the company's model and thesis
+
+**The graduate framework** (Oct 15 PM):
+The reskilling section of the website positions graduates through a three-stage model:
+1. **Learn** — theory alongside AI (YouTube + Claude/ChatGPT as co-instructor)
+2. **Practice** — real platforms (LinkedIn, client websites)
+3. **Perform** — live client delivery with AI handling drafts and humans providing judgment
+
+This framework is now the primary public-facing description of what StepUp.One teaches and how. It replaces earlier descriptions of the curriculum that were focused on skills lists.
+
+---
+
 ## Related Pages
 
 - [AI Curriculum Overview](../training-reskilling/ai-curriculum-overview.md) -- how the principle is taught
 - [Research Engine](research-engine.md) -- where the AI/human split is most visible
 - [Client Management Platform](../entities/systems/client-management-platform.md) -- the platform that operationalizes the combination
+- [ABSM Methodology](../clients-partnerships/win-new/outbound/absm-methodology.md) -- the two-engine model in practice
