@@ -8,6 +8,30 @@ sources: []
 
 # Wiki Log
 
+## [2026-10-16] ingest | 5 GDrive files — Oct 13, 14, 15 Daily Learning sessions (Gemini notes)
+
+**Sources ingested (5):**
+- `raw/gdrive/2026-10-13-...-0756-bst.md` — Oct 13 AM: ABSM 20-step framework debate (Ahmed Farhan); fundraising-to-ABSM transition team debate; Farhaan's 12-month hospital strategy critique; Dodo expansion (20 VPs, UK/Germany/California/NY); relationship health metrics (SC 50%, HSBC 70%, DNB 20%); Sharmuge's ABSM timeline concerns and team financial urgency; Abdulkadir mediating; ABSM retention vs fundraising argument; GTM clients as proof of ABSM retention; Farhaan Oct 13 client meeting result: 3-month + 12-month commitment secured; fixed-price vs T&M contract aspiration
+- `raw/gdrive/2026-10-14-...-0800-bst.md` — Oct 14 AM: LinkedIn outreach quality levels 0–3 formalized; live signal vs static profile outreach; Farah Ibrahim's Level 3 messages for Alvaro/John/Shabani on behalf of Dodo; AI marker identification (em dashes, perfect punctuation, buzzwords); three-skill hierarchy (master/leader/team member); Socratic teaching method; CEO commenting frequency (1–2x/quarter)
+- `raw/gdrive/2026-10-14-...-1258-bst.md` — Oct 14 PM: StepUp.One website review; "You have the role, make it count" tagline; 4 audience segments (executives, account teams, founders, investors); two-engine framework introduction (Relationship Building Engine vs Relationship Conversion Engine); selling outcomes not methods; investor analogy for two-engine model (known vs unknown investors)
+- `raw/gdrive/2026-10-15-...-0800-bst.md` — Oct 15 AM: deep post comprehension for commenting (3 levels: English/concept/nuance); 70% team mastery target debate; daily practice routine (3 posts/day, present to team); AI dependency warning; ABSM timeline confirmed (3+3 months); warm contact shortcut via Conversion Engine; Brandon Smith case study; Top 10 warm contact list assignment; human-centric outreach (genuine care > transactional); new participants: Samatar Abdirahman, Najmo Osman, Yasin Mohamed
+- `raw/gdrive/2026-10-15-...-1300-bst.md` — Oct 15 PM: Abdulkadir Mhina bereavement (grandfather); BARAKA MAKANO new member introduction; Zacharia Lameck attendance note; website review with Zacharia screen-sharing; Learn→Practice→Perform graduate framework; two-engine explanation for founders (known vs unknown investors)
+
+**Pages created (2):**
+- `wiki/entities/people/samatar-abdirahman.md` — new: team member; Cognizant sales personnel contacts; proposed warm contact shortcut as primary short-term strategy
+- `wiki/entities/people/baraka-makano.md` — new: new member introduced Oct 15 PM; on-brand professional appearance noted
+
+**Pages updated (8):**
+- `wiki/clients-partnerships/win-new/outbound/absm-methodology.md` — added: Two-Engine Framework section (Building vs Conversion Engine); Warm Contact Shortcut section (Top 10 list, Brandon Smith, Samatar's proposal); Dodo Expansion Strategy section (health metrics, 20 VPs, geographic focus); ABSM Pipeline Timeline section (3+3 months confirmation, Sharmuge debate, fundraising vs ABSM retention argument); 5 new sources added
+- `wiki/training-reskilling/linkedin-commenting.md` — added: Three Levels of Post Understanding section (English/concept/nuance); 70% Mastery Target debate section (Najmo question, Mahmud's practice system, AI dependency warning); CEO Commenting Frequency Benchmark section; 2 new sources added
+- `wiki/training-reskilling/linkedin-outreach-messaging.md` — added: Message Quality Levels 0–3 section (formalized framework, Farah's Level 3 examples); Live Signal vs Static Profile Outreach section; AI Marker Identification section (em dashes, parallel structure, buzzwords); 1 new source added
+- `wiki/strategy-vision/human-plus-ai.md` — added: Two-Engine Operational Model section (Building/Conversion Engine with AI/human roles); StepUp.One Website section (tagline, 4 segments, Learn→Practice→Perform); 2 new sources added
+- `wiki/training-reskilling/teaching-methodology.md` — added: Socratic Teaching Method section; Work vs Person Feedback Distinction section; Three-Skill Hierarchy section (master/leader/team member); Learn→Practice→Perform Framework section; 2 new sources added
+- `wiki/entities/people/abdulkadir-mhina.md` — added: Oct 13 ABSM debate mediation; Oct 15 bereavement (grandfather); 2 new sources added
+- `wiki/entities/people/farhaan-abdi-hassan.md` — added: Oct 13 hospital ABSM pitch success (3+12 month commitment); 12-month strategy presentation; battle cards task
+- `wiki/entities/people/sharmuge.md` — added: Oct 13 ABSM timeline challenge; key quotes; fixed-price contract advocacy; 1 new source added
+- `wiki/index.md` — updated descriptions for all modified pages; added Samatar Abdirahman and BARAKA MAKANO entries; updated date
+
 ## [2026-10-13] ingest | 1 Gmail file — Oct 12 Daily Learning sessions (Gemini notes, Torb ABSM refinements + product strategy)
 
 **Source ingested (1):**
