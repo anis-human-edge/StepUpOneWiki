@@ -148,7 +148,7 @@ The wiki gets richer with every source added. Cross-references are maintained au
 
 | Page | Description |
 |------|-------------|
-| [Farhaan Abdi Hassan](entities/people/farhaan-abdi-hassan.md) | Team member; leads Tobi client engagement; running ABSM for Torb (NHS hospital targeting, Oct 2026); client meeting with Rangaraju Ramesh held Oct 13; audio issues ongoing |
+| [Farhaan Abdi Hassan](entities/people/farhaan-abdi-hassan.md) | Team member; leads Tobi client engagement; running ABSM for Torb (NHS hospital targeting); Oct 13: pitched ABSM to hospital client → 3-month + 12-month commitment secured; battle cards task assigned |
 | [Rangaraju Ramesh](entities/people/rangaraju-ramesh.md) | Founder/product owner at Torb (also transcribed as "Romesh"); joined Oct 12 PM session; responsible for MHRA/DTAC compliance; shares LinkedIn with Ahmed Farhan for outreach |
 | [Mohamed Sharmuge Mohamed](entities/people/sharmuge.md) | Team member; ABSM execution; confirmed execution readiness Oct 8; assigned to select target account and report weekly CXO connection progress |
 | [Obedi Abekya](entities/people/obedi-abekya.md) | Team member; audio/microphone issues flagged Oct 8 2026 |
