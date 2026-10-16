@@ -150,7 +150,9 @@ The wiki gets richer with every source added. Cross-references are maintained au
 |------|-------------|
 | [Farhaan Abdi Hassan](entities/people/farhaan-abdi-hassan.md) | Team member; leads Tobi client engagement; running ABSM for Torb (NHS hospital targeting); Oct 13: pitched ABSM to hospital client → 3-month + 12-month commitment secured; battle cards task assigned |
 | [Rangaraju Ramesh](entities/people/rangaraju-ramesh.md) | Founder/product owner at Torb (also transcribed as "Romesh"); joined Oct 12 PM session; responsible for MHRA/DTAC compliance; shares LinkedIn with Ahmed Farhan for outreach |
-| [Mohamed Sharmuge Mohamed](entities/people/sharmuge.md) | Team member; ABSM execution; confirmed execution readiness Oct 8; assigned to select target account and report weekly CXO connection progress |
+| [Mohamed Sharmuge Mohamed](entities/people/sharmuge.md) | Team member; ABSM execution; Oct 13: raised team's collective concerns about ABSM timeline and financial urgency; advocated for fixed-price contracts |
+| [Samatar Abdirahman](entities/people/samatar-abdirahman.md) | Team member; ABSM execution (sales personnel contacts, Cognizant); Oct 15: proposed warm contact shortcut as short-term revenue strategy |
+| [BARAKA MAKANO](entities/people/baraka-makano.md) | New team member; introduced Oct 15 PM session; noted as on-brand professional appearance |
 | [Obedi Abekya](entities/people/obedi-abekya.md) | Team member; audio/microphone issues flagged Oct 8 2026 |
 | [Nuuh Iftin](entities/people/nuuh-iftin.md) | Team member; hunting CrowdStrike and Verizon accounts; flagged Verizon as concern; advocates sophisticated relationship-building over direct pitching (Sep–Oct 2026) |
 | [Khadir Rangooni](entities/people/khadir-rangooni.md) | IC Impact Consulting; booked then cancelled founder meeting 25 Jun 2026; offered Aston University MSc student project hosting Jul 2 (deadline passed) |
