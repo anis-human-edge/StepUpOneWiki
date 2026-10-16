@@ -1,9 +1,10 @@
 ---
 title: "Mohamed Sharmuge Mohamed"
 type: entity
-updated: 2026-10-08
+updated: 2026-10-16
 sources:
   - raw/gmail/2026-10-08-notes-stepup-one-daily-learning-8-oct-2026.md
+  - raw/gdrive/2026-10-13-stepup-one-daily-learning-2026-10-13-0756-bst-notes-by-gemini-1quz_pLapg.md
 ---
 
 # Mohamed Sharmuge Mohamed
