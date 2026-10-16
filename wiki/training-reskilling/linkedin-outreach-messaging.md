@@ -124,6 +124,72 @@ See also: [LinkedIn Credibility Standards](linkedin-credibility-standards.md) �
 
 ---
 
+---
+
+## Message Quality Levels 0–3 (Oct 14, 2026)
+
+Mohamed Anis formalized the four quality levels for LinkedIn outreach messages during a live review of messages sent on behalf of Richard Dodo's account.
+
+| Level | Name | Description |
+|-------|------|-------------|
+| **Level 0** | Bad AI | Clearly AI-generated. Generic, no personalization, detectable by any experienced reader. |
+| **Level 1** | AI-prompted | Better structure than Level 0 but still obviously AI. Reads like a prompted template. |
+| **Level 2** | Tightened AI | AI output that a human has edited and improved. Reduced buzzwords, tighter phrasing. Still not fully human-sounding. |
+| **Level 3** | Real human conversation | Sounds like something a specific, thoughtful person genuinely wrote. References real context, has natural imperfection, demonstrates actual interest. |
+
+**The standard for ABSM messaging:** every message sent on behalf of a client must reach Level 3. Level 2 is insufficient for senior targets. Level 0–1 actively damages the client's reputation.
+
+**Farah Ibrahim's Level 3 examples (Oct 14 AM):**
+Farah drafted three Level 3 messages for Dodo contacts (Alvaro, John, Shabani) using live signal outreach — reacting to something recently visible on their LinkedIn activity, not just their static profile sections. These messages were used as training examples for the team. Key characteristics observed:
+- Reference to a specific recent post, activity, or role change — not generic career history
+- Natural curiosity framing ("I noticed...", "I was reading about...")
+- No em dashes
+- No corporate buzzwords
+- Imperfect but real-feeling phrasing
+
+---
+
+## Live Signal vs Static Profile Outreach (Oct 14, 2026)
+
+Two modes of researching a target before outreach:
+
+**Static profile outreach:**
+- Based on the person's LinkedIn profile as it stands today (current title, past roles, education)
+- Can be researched at any time
+- Generic: everyone targeting this person has access to the same information
+- Risk: the message references nothing the person recently said or did — it reads as a bot scraping profiles
+
+**Live signal outreach:**
+- Based on something the person recently did: a post they published, a comment they made, a role change, a company announcement, a conference talk, a press mention
+- Time-sensitive: the window is hours to days after the signal appears
+- Distinctive: most people miss the signal; your message arrives in a context of recency
+- Strongest form of Level 3 messaging
+
+Mohamed Anis's instruction (Oct 14 AM): **always look for a live signal before defaulting to static profile data.** If no live signal exists, static profile is acceptable but should be used sparingly and researched deeply enough to reach Level 3 understanding of the person's career trajectory (see the [3-Tier Messaging System](#the-3-tier-linkedin-messaging-system) Level 3 framework and [Rosanna Martinez case study](#level-3--intellectual-contrast--peer-positioning)).
+
+---
+
+## AI Marker Identification (Oct 14, 2026)
+
+Mohamed Anis reviewed messages during the Oct 14 AM session and identified the following as detectable AI markers — patterns that experienced LinkedIn users immediately recognize as AI-generated:
+
+### Dead giveaways (instantly readable as AI)
+- **Em dashes** (—) used as connectors within sentences — real humans almost never write this way
+- **Perfect punctuation** — no comma splices, no sentence fragments, no natural irregularities
+- **Triple parallel structure** — three perfectly balanced clauses or bullets of identical length
+- **Buzzword stacking** — words like "leverage," "amplify," "drive synergies," "unlock potential," "catalyze growth" in combination
+
+### Softer tells (suspicious but not conclusive)
+- Sentences that are all roughly the same length
+- Opening with a compliment on the person's "journey" or "impact"
+- The phrase "I came across your profile" as an opener
+- Ending with "I'd love to connect and explore synergies"
+- Perfectly professional tone with zero personality
+
+**The practical rule:** if you would be embarrassed to show the message to Mohamed Anis as "something you wrote yourself," it's probably Level 1 at best. The test is not whether it sounds professional — it's whether it sounds like a specific human being.
+
+---
+
 ## Related Pages
 
 - [LinkedIn Commenting](linkedin-commenting.md) — building respect before outreach
