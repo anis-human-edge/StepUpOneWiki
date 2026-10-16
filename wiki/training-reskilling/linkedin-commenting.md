@@ -1,12 +1,14 @@
 ---
 title: "LinkedIn Commenting"
 type: topic
-updated: 2026-09-25
+updated: 2026-10-16
 sources:
   - raw/gdrive/2026-09-16-stepup-one-daily-learning-0801-bst-notes-by-gemini-1LuhCdrjlOXc.md
   - raw/gdrive/2026-09-17-stepup-one-daily-learning-0759-bst-notes-by-gemini-1in1ELQT5eAW.md
   - raw/gdrive/2026-09-18-stepup-one-daily-learning-0758-bst-notes-by-gemini-1mv36MVo1pW8.md
   - raw/gdrive/2026-09-25-stepup-one-daily-learning-0759-bst-notes-by-gemini-1r1AKXs0pdBE.md
+  - raw/gdrive/2026-10-14-stepup-one-daily-learning-2026-10-14-0800-bst-notes-by-gemini-1PJbt87hZi.md
+  - raw/gdrive/2026-10-15-stepup-one-daily-learning-2026-10-15-0800-bst-notes-by-gemini-1I4n_lvJWD.md
 ---
 
 # LinkedIn Commenting
