@@ -61,7 +61,7 @@ The wiki gets richer with every source added. Cross-references are maintained au
 | Page | Description |
 |------|-------------|
 | [Research Engine](strategy-vision/research-engine.md) | Signal identification system for inbound and outbound: watch lists, trending topics, AI tiers |
-| [Human + AI](strategy-vision/human-plus-ai.md) | StepUp.One's defensible advantage: why the combination cannot be stolen |
+| [Human + AI](strategy-vision/human-plus-ai.md) | StepUp.One's defensible advantage: why the combination cannot be stolen; two-engine operational model (Building Engine: zero→warm; Conversion Engine: warm→deal); website built in 7 days with AI; "make it count" tagline; 4 audience segments; Learn→Practice→Perform framework (Oct 14–15 2026) |
 | [ABSM Landing Page](strategy-vision/absm-landing-page.md) | stepup.one/ABSM page development: structure, Aug 10 team feedback, proposed revisions, "give us one account" CTA and account mapping promise |
 
 ### Operations
