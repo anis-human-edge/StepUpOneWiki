@@ -1,9 +1,10 @@
 ---
 title: "LinkedIn Outreach Messaging"
 type: topic
-updated: 2026-10-05
+updated: 2026-10-16
 sources:
   - raw/gdrive/2026-10-05-stepup-one-daily-learning-0800-bst-notes-by-gemini-1bsG03lsY_iCg53hE4dr9dtSNW32uWfd5OK1H3scwWds.md
+  - raw/gdrive/2026-10-14-stepup-one-daily-learning-2026-10-14-0800-bst-notes-by-gemini-1PJbt87hZi.md
 ---
 
 # LinkedIn Outreach Messaging
