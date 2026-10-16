@@ -1,11 +1,13 @@
 ---
 title: "Human + AI: StepUp.One's Defensible Advantage"
 type: topic
-updated: 2026-04-16
+updated: 2026-10-16
 sources:
   - raw/gdrive/2026-04-14-daily-learning-0754.md
   - raw/gdrive/2026-04-13-daily-learning-1851.md
   - raw/gdrive/2026-04-13-daily-learning-0751.md
+  - raw/gdrive/2026-10-14-stepup-one-daily-learning-2026-10-14-1258-bst-notes-by-gemini-1a5-yDEh7y.md
+  - raw/gdrive/2026-10-15-stepup-one-daily-learning-2026-10-15-1300-bst-notes-by-gemini-1eIPYX9Rpr.md
 ---
 
 # Human + AI: StepUp.One's Defensible Advantage
