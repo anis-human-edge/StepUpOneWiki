@@ -1258,6 +1258,98 @@ As ABSM teams scale, a single team structure becomes a bottleneck. The solution 
 **Why this matters for ABSM:** at scale, one person cannot both hunt new accounts and manage ongoing delivery for existing accounts. The dual-stream model allows StepUp.One to grow the number of client relationships without degrading delivery quality.
 
 ---
+---
+
+## Two-Engine Framework (Oct 14–15, 2026)
+
+Mohamed Anis crystallized the entire ABSM approach into two distinct engines. The team has mastered one but not the other.
+
+| Engine | Description | Status |
+|--------|-------------|--------|
+| **Relationship Building Engine** | Zero → Warm. Systematic commenting, connecting, and engaging to move a cold contact to a warm relationship. 3-month cycle. | Team has mastered this |
+| **Relationship Conversion Engine** | Warm → Outcome. Converting an existing warm relationship into a deal, partnership, or referral. Requires a different skill set. | Team lacks this skill |
+
+**The gap:** StepUp.One has spent years building relationships and now has 10,000+ connections. But the team repeatedly fails to convert those warm contacts into business. Building without converting is relationship management, not sales.
+
+**The investor analogy (Oct 15 PM — explaining to founders):**
+- If a founder already knows 10 investors personally, they use the Conversion Engine: nurture those 10 and convert them.
+- If a founder knows no investors at all, they use the Building Engine: build from zero.
+- Most people apply the Building Engine even when they already have warm contacts — wasting 3–6 months when conversion could happen in weeks.
+
+Mohamed Anis (Oct 14 PM):
+> *"We are incredibly good at building. We have never been good at converting. The person who can do both is the most dangerous person in business."*
+
+---
+
+## Warm Contact Shortcut: The Conversion Engine Fast Track (Oct 15, 2026)
+
+The standard ABSM cycle is 3 months to get warm + 3–6 months to close = 6–9 months total. The warm contact shortcut skips the first phase entirely.
+
+**The principle:** if someone already knows you — former clients, former colleagues, LinkedIn connections you've engaged with, referrals — the Relationship Building Engine is already done. Activate the Conversion Engine immediately.
+
+**The Top 10 Warm Contact Assignment (Oct 15 AM):**
+Mohamed Anis assigned every team member to:
+1. List their **top 10 warm contacts** — people they already have a real relationship with
+2. Identify what outcome each contact could produce (client, partner, referral, investor)
+3. Begin conversion immediately using the Conversion Engine rather than treating them as cold leads
+
+**Brandon Smith case study (Oct 15 AM):**
+A warm contact who already knows the team and their work. Instead of starting from zero relationship-building, the correct approach is direct conversion: re-engage with a specific, genuine message that acknowledges the relationship and proposes an outcome. Brandon Smith was flagged as an example of a contact being treated as cold when the relationship was already warm.
+
+**Why teams fail at this:** the same people who are excellent at cold outreach (commenting, connecting) freeze when it comes to asking an existing contact for something. The ego problem Mohamed Anis identified in Oct 6 (fear of rejection in converting) is amplified with warm contacts because the relationship feels higher-stakes.
+
+**Samatar Abdirahman's proposal (Oct 15 AM):** suggested using the warm contact shortcut as the team's primary short-term revenue strategy — convert existing warm contacts before building new relationships. Endorsed by Mohamed Anis.
+
+---
+
+## Dodo Expansion Strategy (Oct 13, 2026)
+
+Using [Richard Dodo](../../../entities/clients/richard-dodo.md)'s existing ABSM results and relationship data to generate new clients.
+
+**Strategy:** use the relationship health metrics already built for Dodo's target accounts to identify and pitch the 20 VPs most likely to convert. Geographic focus:
+- UK
+- Germany
+- California
+- New York
+
+**Relationship health metrics (as of Oct 13):**
+| Account | Health Score |
+|---------|-------------|
+| Standard Chartered (SC) | 50% |
+| HSBC | 70% |
+| DNB | 20% |
+
+These metrics are produced by the ABSM platform — they are live data that can be shown to new prospects as proof of the methodology working in real time. The Dodo engagement itself becomes a case study for pitching.
+
+**Farah Ibrahim's Level 3 messages (Oct 14 AM):**
+Farah drafted personalized LinkedIn connection messages for three Dodo contacts — Alvaro, John, and Shabani — demonstrating Level 3 messaging on behalf of Richard Dodo. The messages used live signal outreach (reacting to recent content or role changes) rather than static profile sections.
+
+---
+
+## ABSM Pipeline Timeline (Oct 13 + Oct 15, 2026)
+
+Mohamed Anis confirmed the full ABSM timeline in response to team concerns:
+
+| Phase | Duration | Activity |
+|-------|----------|----------|
+| **Zero-to-warm** | 3 months | Connection Engine + Engagement Engine (commenting, connecting, value delivery) |
+| **Warm-to-deal** | 3–6 months | Pitching Engine (conversion) |
+| **Total** | 6–9 months | Full cycle for a cold contact |
+
+Mohamed Sharmuge Mohamed (Oct 13 AM) raised the team's concern directly:
+> *"How long is this going to take? How many months am I going to build a relationship with these big accounts — is it going to take one year, two years, three years?"*
+
+Mohamed Anis's response: *"It should not take us year or two. We should be able to do that in months. The speed will come automatically once you learn."*
+
+The warm contact shortcut (see above) eliminates the zero-to-warm phase entirely for existing contacts, reducing deal cycles to 3–6 months.
+
+**Why ABSM lasts longer than fundraising (Oct 13):**
+Ahmed Farhan's explanation to the team: enterprise targets understand that deal-closing takes years. They are not expecting quick results and will not cancel after 1–2 months the way fundraising clients did. The ABSM approach matches how enterprises naturally operate — the client self-selects to stay for the full relationship-building cycle.
+
+Additional evidence: StepUp.One's own GTM clients have consistently stayed longer than fundraising clients. ABSM is essentially sophisticated GTM — the same relationship-building logic at enterprise scale.
+
+---
+
 - [Follow-up Messaging](follow-up-messaging.md) — post-meeting follow-up protocol (transcript → AI → CEO office)
 - [Authority in Sales](authority-in-sales.md) — the attitude required when running ABSM
 - [LinkedIn Outreach Messaging](../../../training-reskilling/linkedin-outreach-messaging.md) — 3-tier messaging system, AI evaluation, prospect research
