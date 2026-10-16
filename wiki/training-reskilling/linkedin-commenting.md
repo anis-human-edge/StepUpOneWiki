@@ -266,6 +266,71 @@ This standard applies specifically to C-suite executives at accounts you are act
 
 ---
 
+---
+
+## Three Levels of Post Understanding (Oct 14–15, 2026)
+
+Mohamed Anis defined a progression for how deeply someone understands a LinkedIn post before commenting on it. The goal is to reach Level 3 on every post before commenting.
+
+| Level | Name | What It Means |
+|-------|------|--------------|
+| **Level 1** | English comprehension | You can read and understand the literal words |
+| **Level 2** | Concept comprehension | You understand the underlying idea or argument being made |
+| **Level 3** | Nuance comprehension | You grasp context-dependent subtleties — what isn't said, why it was said this way, what the author was really thinking |
+
+**Why nuance is hardest (Oct 14 AM):**
+Nuance is context-dependent. You cannot reach Level 3 on a post about, say, Indian startup funding dynamics without understanding the Indian startup ecosystem deeply. A comment written from Level 1 or Level 2 understanding will read as generic to anyone who operates at Level 3 — including the post's author.
+
+Mohamed Anis: *"If you comment on the level of English, you're commenting at zero. If you comment on the concept, you're at one. The nuance is the hardest part — and that's the level we're targeting."*
+
+**Practical application:**
+- Before writing any comment, identify which level of understanding you currently have of the post
+- If you're at Level 1 or 2, research the topic or person before commenting
+- Only publish a comment when you're confident you've reached Level 3
+- CEO-level targets require Level 3 understanding — anything less is a waste of the opportunity
+
+---
+
+## 70% Mastery Target: The Team Debate (Oct 15, 2026)
+
+Mohamed Anis set a team target: **70% of team members must reach mastery-level commenting** before the team can credibly offer commenting as a client service.
+
+**The debate (Oct 15 AM):**
+Najmo Osman asked whether targets for commenting on posts should be a minimum number per day. Mohamed Anis's response: quantity matters less than quality. Commenting 3 posts per day at Level 3 is infinitely better than commenting 10 posts per day at Level 1.
+
+**Mahmud Bilow's practice system proposal (Oct 15 AM):**
+Each team member should:
+1. Read 3 LinkedIn posts per day from target accounts
+2. Write a comment for each (Level 3 standard)
+3. Present the best comment of the day to the group in the next session
+4. The group evaluates and gives feedback on whether it hit Level 3
+
+This public practice loop creates accountability and accelerates team-wide improvement faster than individual private practice.
+
+**AI dependency warning (Oct 15 AM):**
+Mohamed Anis flagged the risk that the team becomes dependent on AI to generate comments rather than developing the ability to write Level 3 comments themselves. The AI generates drafts; the human must evaluate whether the draft is truly at Level 3. If a team member cannot tell the difference between a Level 1 and Level 3 comment, they cannot use AI effectively — they will approve bad outputs.
+
+The correct skill order: **develop judgment first, then use AI to accelerate output**. Not the reverse.
+
+---
+
+## CEO Commenting Frequency Benchmark (Oct 14, 2026)
+
+When targeting a CEO or senior executive for the ABSM commenting sequence, understand their posting frequency to set realistic expectations.
+
+**CEO posting frequency benchmark:**
+- Most senior executives post publicly on LinkedIn **1–2 times per quarter** (approximately once every 6–8 weeks)
+- This means the golden hour to comment on a fresh post arrives infrequently — when it does, missing it means waiting months for the next opportunity
+
+**Practical implications:**
+- Set up bell notifications for high-priority target executives so you catch every post within the first hour
+- For executives who post very rarely, news-based outreach (congratulatory messages on achievements) becomes the primary engagement strategy
+- Do not comment on old posts — the stalking perception rule applies especially to senior targets
+
+See also: [High-Stakes Commenting: CEOs and Senior Targets](#high-stakes-commenting-ceos-and-senior-targets-sep-2026) for the quality standard required.
+
+---
+
 ## Related Pages
 
 - [LinkedIn Credibility Standards](linkedin-credibility-standards.md) — profile setup before outreach
