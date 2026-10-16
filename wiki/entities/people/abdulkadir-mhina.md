@@ -38,6 +38,12 @@ Active team member at StepUp.One. One of the most engaged participants in Daily 
 
 - **Publish daily dashboard (with Mahmud Bilow):** Release the daily performance report before the start of each Daily Learning meeting. (Assigned 25 Jun 2026.)
 
+## Notable Events (Oct 2026)
+
+**Oct 13, 2026:** In the ABSM debate, Abdulkadir mediated between Sharmuge's frustration about the ABSM timeline and Mohamed Anis. He framed the team's concerns clearly: "How are we going to get food? We are hungry." His family is in Kakuma, he has no other job, and StepUp.One is his primary livelihood. He was supportive of ABSM ("I'm the first person happy on that") but raised the urgency of the financial reality. Mohamed Anis acknowledged and respected the candour.
+
+**Oct 15, 2026:** Lost his grandfather. Was absent from the morning session due to bereavement. Returned for the PM session. The team acknowledged his loss.
+
 ## Related Pages
 
 - [Inbound Strategy](../../clients-partnerships/win-new/inbound/inbound-strategy.md) -- strategy he helped shape
