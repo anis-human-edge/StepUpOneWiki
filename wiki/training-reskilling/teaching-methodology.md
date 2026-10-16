@@ -183,6 +183,83 @@ See also: [Smart Money & Career Growth](smart-money-career-growth.md) — the fo
 
 ---
 
+---
+
+## Socratic Teaching Method (Oct 14, 2026)
+
+Mohamed Anis uses the Socratic method deliberately in sessions — asking questions rather than giving answers, forcing participants to reason toward the correct conclusion themselves.
+
+**Why Socratic works for this group:**
+People trained in execution mode (survival mode) are accustomed to receiving instructions and following them. When told the answer directly, they remember the answer. When they reason toward the answer themselves, they understand the underlying principle and can apply it in novel situations.
+
+**How it appears in sessions:**
+- Mohamed Anis poses a scenario with an obvious-seeming wrong answer (e.g., "so we should all cold-connect with 500 people and pitch them immediately?") and asks the team to evaluate it
+- He deliberately plays devil's advocate to test whether the team can identify why a tempting shortcut is wrong
+- He asks "who can answer this?" and waits — never fills the silence immediately
+- When a wrong answer is given, he does not correct it directly; he asks a follow-up question that reveals the flaw ("and then what happens?")
+
+**The Oct 13 AM example:**
+Sharmuge challenged the ABSM timeline, arguing it would take years. Rather than defending ABSM, Mohamed Anis asked the team: "What proof do we already have that relationship-based GTM keeps clients longer?" The team initially gave complicated future-looking arguments (enterprise clients have money, understand long cycles). Mohamed Anis kept asking "what else?" until Nuuh Iftin identified the obvious answer: StepUp.One's own existing GTM clients have stayed far longer than fundraising clients. The proof was already in the room — the Socratic sequence surfaced it.
+
+---
+
+## Work vs Person Feedback Distinction (Oct 13, 2026)
+
+Mohamed Anis explicitly models the distinction between criticizing work and criticizing the person — and trains the team to receive critique this way.
+
+**The principle:**
+> *"My sentences are very harsh only to make a point and to argue against the things, not against the person. These are the people that I love the most."*
+
+When a team member's output is critiqued sharply, the critique targets the work: the comment, the message, the decision, the approach. The person is not the problem — the output at this moment is the problem.
+
+**Why this distinction matters for the underserved:**
+People from vulnerable or underserved contexts often conflate criticism of work with personal attack. In environments where dignity is fragile, any critique feels threatening. The Daily Learning sessions deliberately create a culture where harsh, honest critique of outputs is separated from respect for the person — so that the team can absorb feedback and improve without shutting down.
+
+**The practical signal:** when Mohamed Anis says "this message is terrible" or "this is clearly AI," he immediately follows with what would make it better. The critique is always accompanied by the direction — never just the judgment.
+
+---
+
+## Three-Skill Hierarchy: Master, Leader, Team Member (Oct 14, 2026)
+
+Not every skill needs to be mastered by everyone. Mohamed Anis defined three competency tiers:
+
+| Tier | Description | Who achieves it |
+|------|-------------|----------------|
+| **Master** | Deep understanding of the skill; can teach others; can innovate within the domain | 1–2 people per team |
+| **Leader** | Strong practitioners; can execute independently; can guide others | Small group |
+| **Team Member** | Can execute with guidance; understands the basics well enough to do the work | Majority |
+
+**Application to commenting and messaging (Oct 14 AM):**
+The goal is not for every team member to become a master of Level 3 messaging — that's unrealistic. The goal is:
+- 1–2 people become masters (Farah Ibrahim is the current commenting master)
+- A small group become leaders who can reliably execute Level 3 independently
+- The rest can execute Level 2 well and are learning toward Level 3
+
+A team where everyone is a master is unrealistic. A team where no one is a master is dangerous — there's no standard-setter. The key is having at least one master in each skill area to define the ceiling and pull others upward.
+
+---
+
+## Learn → Practice → Perform Framework (Oct 15–16, 2026)
+
+The graduate reskilling framework that appears on the StepUp.One website and governs all Daily Learning session design.
+
+| Stage | Description | StepUp.One Vehicle |
+|-------|-------------|-------------------|
+| **Learn** | Absorb theory and concepts. Understand the why, not just the what. | Daily Learning sessions, session recordings, AI co-instruction |
+| **Practice** | Apply the theory in a safe but real environment. Make mistakes that don't cost clients. | Practice commenting on real posts; role-play outreach; session exercises |
+| **Perform** | Execute in front of real clients with real stakes. AI assists on drafts; human provides the judgment. | Live client commenting, ABSM campaigns, client meetings |
+
+**The key distinction from traditional education:** in traditional models, years of classroom Learning precede any Practice, and Performance is deferred until "ready." StepUp.One compresses this cycle — participants move from Learn to Practice within days and from Practice to Perform within weeks, because AI handles much of the mechanical execution, freeing human judgment to develop faster.
+
+**What can go wrong at each stage:**
+- **Learn without Practice:** participants can articulate ABSM principles but freeze in front of a real post
+- **Practice without Perform:** skills that look good in exercises may not survive actual client pressure
+- **Perform without sufficient Learn:** superficial understanding gets exposed when clients ask "why?" or when situations don't follow the expected pattern
+
+This is why the three stages are sequential, not simultaneous — but the transitions happen quickly. The aim is always to get to Perform as fast as possible, because performance feedback accelerates learning faster than any amount of classroom instruction.
+
+---
+
 ## Related Pages
 
 - [AI Curriculum Overview](ai-curriculum-overview.md) -- the progressive skills ladder
