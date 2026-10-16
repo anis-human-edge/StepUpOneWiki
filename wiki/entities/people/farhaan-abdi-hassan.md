@@ -34,10 +34,22 @@ Team member at StepUp.One. Active daily session participant and current team lea
 
 **Oct 10, 2026:** Led ABSM strategy session for Torb client. Tasked with preparing two deliverables by Monday 2026-10-12: (1) account strategy document for Romesh showing target hospitals and buying centers; (2) two reports — existing LinkedIn connections in NHS hospital executive roles, and new target connections to build. Client meeting with Romesh scheduled for Tuesday 2026-10-13 if Monday deliverables are approved. Mohamed Anis highlighted key insights about Torb: orthopedic-only scope, hospital institutional compliance (sell to procurement/executives, not doctors), LinkedIn ineffectiveness for finding orthopedic surgeons. Microphone quality was notably better in this session.
 
+## Notable Events (Oct 13, 2026)
+
+**Oct 13, 2026 — Hospital ABSM pitch success:** Farhaan re-activated a client that had paused for 2–3 months. Mohamed Anis described the meeting in the Oct 13 AM session: "I pitched ABSM to this client and we had a meeting yesterday and that meeting you should all see — it was a real ABSM meeting." Outcome: **definite 3-month commitment + full 12-month ABSM engagement confirmed**. This was held up as the benchmark for what a successful ABSM pitch looks like in practice.
+
+The client is the hospital / institutional tool client (Torb engagement). The opening pitch line: "Our objective is to win 10 new clients for you in the next 12 months."
+
+Farhaan's open question from Mohamed Anis (Oct 13): "Does he have the capability to build relationships with those 1,500 people? That is the only thing left on the table." This became the framing for his ongoing development — the pitch worked, the execution is the next test.
+
+**Oct 13, 2026 — 12-month strategy presentation:** Farhaan had prepared and presented a 12-month hospital strategy. Mohamed Anis gave live feedback in the session, critiquing the structure and suggesting refinements. Farhaan shared his screen during the session as a demonstration for the broader team.
+
+**Battle cards task (Oct 13):** Assigned to create battle cards for the Torb/hospital campaign.
+
 ## Known Issues
 
-- Audio quality: persistent microphone problems affecting communication clarity and credibility in sessions
-- Visibility: Mohamed Anis noted low visible contribution in sessions as of Sep–Oct 2026
+- Audio quality: persistent microphone problems affecting communication clarity and credibility in sessions (notably improved by Oct 10 session)
+- Visibility: Mohamed Anis noted low visible contribution in sessions as of Sep–Oct 2026; the Oct 13 pitch success marks a significant turnaround
 
 ## Related
 
