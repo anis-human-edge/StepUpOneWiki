@@ -1350,8 +1350,82 @@ Additional evidence: StepUp.One's own GTM clients have consistently stayed longe
 
 ---
 
+## Commenting Studio Deployment for ABSM Clients (Oct 19–20, 2026)
+
+The [Commenting Studio](../../../entities/systems/commenting-studio.md) was officially launched for team use on Oct 19 and immediately integrated into active ABSM client campaigns.
+
+### Dodo Campaign — Commenting at Scale
+
+- **Volume:** 10–20 comments/day targeting CXO, VP, and director-level posts
+- **Approval workflow:** Richard reviews and approves all draft responses for the first 2 months
+- **Channel selection:** LinkedIn commenting + connection requests combined for peer-level authority
+- **Private over public:** Anis advises private messages to unknown high-level professionals; public congratulatory posts for unknowns are discouraged
+
+### Torio Campaign — Email-First
+
+Torio targets have low LinkedIn activity. The Commenting Studio is not the primary tool:
+- Email is the primary outreach channel
+- Farhaan Abdi Hassan: dedicated account lead, 3–4 hours/day on Torio tasks
+
+### LinkedIn Brand Page Standardization (Oct 20, 2026)
+
+StepUp.One maintains four distinct LinkedIn brand pages, each with a dedicated page manager:
+
+| Page | Purpose | Manager |
+|------|---------|---------|
+| Step Up One For Account Teams | ABSM | Mahmud Bilow |
+| Step Up One For Founders | Fundraising | Hamza Ahmed |
+| Step Up One For Graduates | Reskilling | Marwa Chimosa |
+| Step Up One For Executives | Talent Acquisition | Kwaami Gloire |
+
+Abdulkadir Mhina completed standardization work (Oct 20): renamed pages to standard naming formats, updated button URLs, removed inactive contributors from admin settings, and assigned team admin roles.
+
+### Relationship Lists for Revenue Conversion (Oct 20, 2026)
+
+Mohamed Anis requested professional relationship lists from every team member to identify existing contacts convertible into ABSM clients. The Conversion Engine fast track applies — these are warm relationships, not cold leads.
+
+- Ahmed Farhan: submitted
+- Patience Ciza: pending as of Oct 20
+- Mahmud Bilow: pending as of Oct 20
+
+---
+
+## LinkedIn Account Risk — Automation and Asset Value (Oct 21, 2026)
+
+Mohamed Anis: *"Automation tools risk permanent bans. Your LinkedIn account is a $1,000,000 asset."*
+
+**Implications:**
+- Manual or carefully controlled automation only for outreach and commenting
+- Automation that violates LinkedIn Terms of Service can destroy the entire relationship graph built over months or years
+- Use the [Account Graph](../../../entities/systems/account-graph.md) system to manage connections without risking account health
+
+**Happensance** — mentioned as a lightweight competitor intelligence tool: enables advanced filtering of founder connections and surfaces recent fundraising updates. Mohamed Anis noted it threatens established players like Intrahive (raised $100M+).
+
+---
+
+## Account Graph Platform Launch (Oct 21, 2026)
+
+The [Account Graph](../../../entities/systems/account-graph.md) system was introduced to the team on Oct 21, enabling structured management of the entire team's professional network.
+
+**Oct 21 tasks assigned:**
+- Abdulkadir Mhina: upload personal connections CSV
+- Farah Ibrahim: upload downloaded client network CSV files
+- Full team: upload LinkedIn limit file, create accounts, accept all pending connection requests
+- Full team: map buying committees — hierarchical structure including both permanent department leadership and temporary deal-specific committees
+
+**Multi-tier account hunting (Oct 21 — Cognizant and Standard Chartered):**
+- Anis, Ahmed, and Najimo: 3 selling centers targeting Cognizant account structure
+- 3 specific buying centers at Cognizant: CXO, VP, and client partner levels
+- Standard Chartered: equivalent 3-person leadership circles drive account penetration
+
+This confirms and extends the hierarchical structure documented in [Hierarchical Account Hunting](#hierarchical-account-hunting-seniority-must-match-seniority-oct-5-2026).
+
+---
+
 - [Follow-up Messaging](follow-up-messaging.md) — post-meeting follow-up protocol (transcript → AI → CEO office)
 - [Authority in Sales](authority-in-sales.md) — the attitude required when running ABSM
 - [LinkedIn Outreach Messaging](../../../training-reskilling/linkedin-outreach-messaging.md) — 3-tier messaging system, AI evaluation, prospect research
 - [LinkedIn Commenting](../../../training-reskilling/linkedin-commenting.md) — how commenting drives ABSM engagement and C-level reach
 - [GTM Engine](../../../entities/systems/gtm-engine.md) — StepUp.One's client-facing GTM service
+- [Commenting Studio](../../../entities/systems/commenting-studio.md) — the platform powering commenting training and client execution
+- [Account Graph](../../../entities/systems/account-graph.md) — the relationship network management platform
