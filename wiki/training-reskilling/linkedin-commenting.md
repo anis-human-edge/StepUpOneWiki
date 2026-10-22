@@ -9,6 +9,9 @@ sources:
   - raw/gdrive/2026-09-25-stepup-one-daily-learning-0759-bst-notes-by-gemini-1r1AKXs0pdBE.md
   - raw/gdrive/2026-10-14-stepup-one-daily-learning-2026-10-14-0800-bst-notes-by-gemini-1PJbt87hZi.md
   - raw/gdrive/2026-10-15-stepup-one-daily-learning-2026-10-15-0800-bst-notes-by-gemini-1I4n_lvJWD.md
+  - raw/gmail/2026-10-19-notes-stepup-one-daily-learning-19-oct-2026.md
+  - raw/gmail/2026-10-20-notes-stepup-one-daily-learning-20-oct-2026.md
+  - raw/gmail/2026-10-21-notes-stepup-one-daily-learning-21-oct-2026.md
 ---
 
 # LinkedIn Commenting
