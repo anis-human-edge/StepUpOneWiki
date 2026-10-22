@@ -132,6 +132,8 @@ The wiki gets richer with every source added. Cross-references are maintained au
 
 | Page | Description |
 |------|-------------|
+| [Dodo](entities/clients/dodo.md) | Active ABSM client; commenting engine deployed via Commenting Studio; 10-20 comments/day at CXO/VP/director level; Richard approval workflow (2 months); SC 50% / HSBC 70% / DNB 20% relationship health; Farah Ibrahim leads |
+| [Torio](entities/clients/torio.md) | Active ABSM client; email-first outreach due to low LinkedIn activity; Farhaan leads (3-4 hrs/day) |
 | [Torb](entities/clients/torb.md) | UK healthcare client; visual clinical decision support tool for orthopedic/MSK conditions; NHS hospital targeting; Farhaan leads ABSM; peacock outreach approach (email-first); 1,500-contact campaign (5×3 buying committee model × 100 hospitals); association influencing layer; AI integration planned (MHRA/DTAC compliance path); client contact: Rangaraju Ramesh (Oct 2026) |
 | [Tobi](entities/clients/tobi.md) | Client with dedicated StepUp.One team; Farhaan leads; team accountability failures Sep 2026; transitioning to new trained personnel |
 | [Alexander Demianov](entities/clients/alexander-demianov.md) | New client win (June 2026), signed via concise one-sentence outreach |
