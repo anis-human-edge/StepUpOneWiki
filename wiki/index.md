@@ -107,6 +107,8 @@ The wiki gets richer with every source added. Cross-references are maintained au
 
 | Page | Description |
 |------|-------------|
+| [Commenting Studio](entities/systems/commenting-studio.md) | AI commenting training + execution platform; launched Oct 19 2026; beginner/intermediate/expert tiers; comment failure taxonomy; voice profiles for clients (Dodo/Richard); ~12 AI calls per comment |
+| [Account Graph](entities/systems/account-graph.md) | Platform for mapping and managing target account relationship networks; LinkedIn CSV uploads; multi-tier buying center mapping; introduced to team Oct 21 2026; competes with Intrahive |
 | [Client Management Platform](entities/systems/client-management-platform.md) | Internal platform for client onboarding, system spin-up, and document generation |
 | [Fundraising Engine](entities/systems/fundraising-engine.md) | Full investor outreach operation for founders: strategy, targeting, AI twin, daily execution ($400/mo) |
 | [GTM Engine](entities/systems/gtm-engine.md) | Client acquisition system: find buyers, build relationships, book meetings ($400/mo) |
