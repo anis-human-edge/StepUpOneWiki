@@ -8,6 +8,28 @@ sources: []
 
 # Wiki Log
 
+## [2026-10-22] ingest | 4 Gmail files — Oct 19, 20, 21 Daily Learning + Ryan O'Sullivan meeting
+
+**Sources ingested (4):**
+- `raw/gmail/2026-10-19-notes-stepup-one-daily-learning-19-oct-2026.md` — Oct 19 AM+PM: ABSM comment evaluation framework; comment failure taxonomy (parroting, excessive praise, self pitch, indecisive phrasing, off point, question dump, wrong voice); Commenting Studio officially launched for team use; beginner/intermediate/expert tiers; streak/badge gamification; CDW: Abdulkadir connected with 60+ professionals
+- `raw/gmail/2026-10-20-notes-stepup-one-daily-learning-20-oct-2026.md` — Oct 20 AM+PM: Dodo commenting engine deployment (10-20 comments/day, CXO/VP/director); Richard approval workflow (first 2 months); Torio email-first strategy; LinkedIn brand page standardization (4 pages, 4 managers); relationship lists for revenue conversion; high operational cost 12 AI calls/comment
+- `raw/gmail/2026-10-20-notes-meet-stepup-one-founder-ryan-osullivan.md` — Oct 20 PM: Ryan O'Sullivan meeting; relationship audit vs cold outreach; dual-engine framework; November leadership pitch target; Ryan to complete 10-12 account analyses
+- `raw/gmail/2026-10-21-notes-stepup-one-daily-learning-21-oct-2026.md` — Oct 21 PM+PM: Account graph platform launched; LinkedIn CSV upload for Abdulkadir and Farah; commenting studio voice profiles; Cognizant 3 selling centers + 3 buying centers (CXO/VP/client partner); Standard Chartered equivalent; Happensance competitor tool; LinkedIn automation ban risk ($1M asset); multi-tier account hunting structure
+
+**Pages created (5):**
+- `wiki/entities/systems/commenting-studio.md` — new: AI commenting training + execution platform; launched Oct 19; 3 tiers; failure taxonomy; voice profiles; Dodo/Richard integration
+- `wiki/entities/systems/account-graph.md` — new: relationship network management platform; LinkedIn CSV uploads; multi-tier buying center mapping; competes with Intrahive
+- `wiki/entities/clients/dodo.md` — new: active ABSM client; commenting engine deployed; Richard approval workflow; SC/HSBC/DNB health metrics; Farah Ibrahim leads
+- `wiki/entities/clients/torio.md` — new: active ABSM client; email-first; Farhaan leads
+- `wiki/entities/people/ryan-osullivan.md` — new: founder met Anis Oct 20; dual-engine framework; November pitch; 10-12 account analyses
+
+**Pages updated (3):**
+- `wiki/training-reskilling/linkedin-commenting.md` — added: Commenting Studio section; comment failure taxonomy table; voice profiles; post evaluation criteria; 3 new sources
+- `wiki/clients-partnerships/win-new/outbound/absm-methodology.md` — added: Commenting Studio deployment (Dodo/Torio); LinkedIn brand page standardization; relationship lists for conversion; LinkedIn account risk/automation ban; Account Graph launch; Cognizant 3-selling-centers; Standard Chartered equivalent; fixed broken Dodo link; 4 new sources
+- `wiki/index.md` — added 5 new page entries
+
+---
+
 ## [2026-10-16] ingest | 5 GDrive files — Oct 13, 14, 15 Daily Learning sessions (Gemini notes)
 
 **Sources ingested (5):**
