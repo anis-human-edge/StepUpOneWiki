@@ -1304,7 +1304,7 @@ A warm contact who already knows the team and their work. Instead of starting fr
 
 ## Dodo Expansion Strategy (Oct 13, 2026)
 
-Using [Richard Dodo](../../../entities/clients/richard-dodo.md)'s existing ABSM results and relationship data to generate new clients.
+Using [Dodo](../../../entities/clients/dodo.md)'s existing ABSM results and relationship data to generate new clients.
 
 **Strategy:** use the relationship health metrics already built for Dodo's target accounts to identify and pitch the 20 VPs most likely to convert. Geographic focus:
 - UK
