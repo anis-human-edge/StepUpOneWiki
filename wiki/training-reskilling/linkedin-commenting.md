@@ -334,9 +334,63 @@ See also: [High-Stakes Commenting: CEOs and Senior Targets](#high-stakes-comment
 
 ---
 
+## Commenting Studio Launch (Oct 19, 2026)
+
+The [Commenting Studio](../entities/systems/commenting-studio.md) was officially declared ready for team use on Oct 19, replacing ad-hoc AI comment generation with a structured training and execution platform.
+
+### Three-Tier Training Structure
+
+| Tier | Mode | What users do |
+|------|------|---------------|
+| **Beginner** | Evaluation | Choose the correct comment from 5 options; learn why others fail |
+| **Intermediate** | Critique | Identify errors using specific terminology |
+| **Expert** | Voice generation | Write/post using client voice profiles |
+
+**Key principle:** beginner mode is about **error identification, not posting**. Learning why wrong options fail is the objective — this builds judgment before output.
+
+### Comment Failure Taxonomy (Oct 19–20, 2026)
+
+Mohamed Anis formalized the failure types that automatically disqualify a comment:
+
+| Failure Type | Description |
+|-------------|-------------|
+| **Parroting** | Comment merely repeats the author's own statements |
+| **Excessive praise** | Generic agreement ("great post!") with no added value |
+| **Self pitch** | Promotional content inserted into the comment |
+| **Indecisive phrasing** | Speculative language ("might", "could be") |
+| **Wrong voice** | Unnatural tone misaligned with the commenter's persona |
+| **Off point** | Remark irrelevant to the post's actual topic |
+| **Question dump** | Multiple questions in one comment — only ask one |
+| **Invented facts** | Fabricated data or unnamed metrics |
+| **Generic agreement** | Phrases like "So true!" with nothing added |
+| **Excessive jargon** | Terminology misaligned with natural speech |
+
+**Passing criteria:**
+- Adds a unique perspective, reinforces author's point, or offers a relevant counter-example
+- Uses natural tone
+- Asks at most one targeted question (increases author engagement)
+- For ABSM: frames intelligence around measurable customer outcomes
+
+### Evaluating Posts Before Commenting (Oct 20, 2026)
+
+Mohamed Anis: evaluate post types before commenting and avoid high-risk topics (political, controversial, highly niche areas outside your expertise). The Studio structures this evaluation step as the first phase of comment generation.
+
+### Voice Profiles (Oct 21, 2026)
+
+Clients and team members have dedicated voice profiles within the Studio enabling automated responses in their distinct communication style. Oct 21 team task: create Richard's voice profile for the Dodo account.
+
+### Platform Notes
+
+- Login via StepUp.One credentials
+- ~12 AI calls per comment (high operational cost, being optimized)
+- Client categorization field planned but not yet live (as of Oct 20)
+
+---
+
 ## Related Pages
 
 - [LinkedIn Credibility Standards](linkedin-credibility-standards.md) — profile setup before outreach
 - [ABSM Methodology](../clients-partnerships/win-new/outbound/absm-methodology.md) — how commenting fits the Engagement Engine
+- [Commenting Studio](../entities/systems/commenting-studio.md) — the platform powering commenting training and execution
 - [Abdulkadir Mhina](../entities/people/abdulkadir-mhina.md) — commenting class organizer
 - [Farah Ibrahim](../entities/people/farah-ibrahim.md) — built the foundational commenting skill
