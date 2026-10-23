@@ -20,12 +20,12 @@ Consolidates LinkedIn connections and professional relationship data across the 
 
 ## Data Input
 
-Users upload raw LinkedIn connections CSV files to the platform. The system integrates:
-- Individual team member connection exports
+Users upload LinkedIn connection files to the platform. The system integrates:
+- Individual team member connection exports (uploaded as LinkedIn ZIP archive)
 - Client network CSV exports (Farah Ibrahim downloading network files for clients Oct 21)
 - Google, LinkedIn, and Apple contacts (synced for expanded network visibility)
 
-**Format requirement:** raw CSV files — XLS format is not accepted.
+**Format requirement:** LinkedIn ZIP archive (full data export) or raw CSV files. XLS format is not accepted. Ahmed Farhan was the first team member to demonstrate the process: downloaded his LinkedIn ZIP, uploaded it directly — no preprocessing required.
 
 ## Account Structure
 
