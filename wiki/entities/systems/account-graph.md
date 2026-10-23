@@ -50,8 +50,33 @@ For enterprise accounts like Cognizant and Standard Chartered, 3 selling centers
 
 StepUp.One's account graph is a lightweight alternative to tools like **Intrahive** (raised $100M+). Also noted: **Happensance** enables advanced filtering of founder connections and surfaces recent fundraising updates — positioned as a complementary tool.
 
+## Relationship Capital Statement (Oct 22, 2026)
+
+The platform generates a **relationship capital statement** — a financial valuation of each team member's professional network. This was the key feature demonstrated in the Oct 22 session.
+
+### Three Metrics
+
+| Metric | Definition |
+|--------|-----------|
+| **Closeable-now** | Connections with enough warmth to potentially convert to business now |
+| **Unutilized** | Connections that exist but haven't been actively engaged |
+| **Active** | Relationships currently in two-way active engagement |
+
+**Example — Ahmed Farhan:** 874 closeable-now, 894 unutilized, 24 active. Total relationship capital value: **$25K**. Target set by Mohamed Anis: $100K.
+
+### Converting Engine, Not Building Engine
+
+The platform does not create relationship capital — it surfaces and quantifies what already exists in the team's combined network. The statement is built on **current reality** (existing relationships), not speculative future value.
+
+Mohamed Anis: the platform showed early clients their network expressed as a financial asset statement for the first time. Initial reactions described as "extraordinary."
+
+### LTV Integration
+
+Relationship values are calculated using Lifetime Value (LTV) logic. A 10-year relationship with a client worth $50K/year = $500K LTV. This makes individual connections legible as financial assets rather than abstract goodwill.
+
 ## Related Pages
 
 - [ABSM Methodology](../../clients-partnerships/win-new/outbound/absm-methodology.md)
+- [Client Relationship Framework](../../training-reskilling/client-relationship-framework.md)
 - [Commenting Studio](commenting-studio.md)
 - [LinkedIn Commenting](../../training-reskilling/linkedin-commenting.md)
