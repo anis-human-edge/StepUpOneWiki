@@ -260,6 +260,40 @@ This is why the three stages are sequential, not simultaneous — but the transi
 
 ---
 
+---
+
+## Lead by Modeling: Show, Don't Tell (Oct 21, 2026)
+
+Mohamed Anis contrasted two teaching approaches in the Oct 21 PM session:
+
+**Lecturing:** standing at the front and explaining a concept verbally, without showing the actual work being done. The listener learns the theory but cannot replicate the behavior.
+
+**Modeling:** sharing your screen and doing the actual work live — writing a comment, evaluating a client message, uploading a file — while narrating what you are doing and why. The learner watches the exact execution they need to replicate.
+
+> *"I don't want to lecture you. I want to show you exactly what I'm doing on my screen while I'm doing it."*
+
+This is why Daily Learning sessions use live screen-sharing as the primary teaching medium. The session is not a presentation about work — it is the work itself, observed by the team.
+
+**One-week adaptation for beginners:** when a new team member joins and has no foundation, Mohamed Anis's approach is to put them through a one-week intensive onboarding with one assigned person — compressed, hands-on, watching the system being used in real work — before integrating them into the main session. The alternative (spending main session time on fundamentals) fails both the beginner and everyone else.
+
+---
+
+## The Karpathy Principle: Humans as Judges, Not Creators (Oct 21, 2026)
+
+Andrej Karpathy's trajectory is the clearest example of where AI-era value creation lives.
+
+Karpathy stopped writing code for 9–10 months. He spends his time evaluating, curating, and directing AI outputs — choosing what is good, what is wrong, and what the AI should do differently. This is not a downgrade of his role; he received job offers in the $20–40 million salary range during this period, based entirely on his judgment and his ability to identify quality.
+
+**The principle:** in an AI-native world, the scarce and valuable skill is not the ability to generate output — AI handles that. The scarce skill is the ability to **judge** output: to read it critically, identify what is wrong, and direct the AI toward something better.
+
+This maps directly to the Bull vs Peacock test for AI-generated messages (see *Critical Judgment* section above): the peacock does not generate better messages than the bull — the peacock *judges* the AI's output and only sends it when it genuinely passes the standard. That judgment is the skill being trained.
+
+StepUp.One's reskilling model is built on this: AI executes drafts; humans provide judgment. The human's value grows as their judgment sharpens, not as they learn to type faster.
+
+See: [AI Curriculum Overview](ai-curriculum-overview.md) for the full skill progression framework.
+
+---
+
 ## Related Pages
 
 - [AI Curriculum Overview](ai-curriculum-overview.md) -- the progressive skills ladder
