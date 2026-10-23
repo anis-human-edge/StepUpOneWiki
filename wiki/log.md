@@ -30,6 +30,22 @@ sources: []
 
 ---
 
+## [2026-10-23] ingest | 3 GDrive files — Oct 21 AM, Oct 21 PM, Oct 22 AM Daily Learning
+
+**Sources ingested (3):**
+- `raw/gdrive/2026-10-21-stepup-one-daily-learning-2026-10-21-0759-bst-notes-by-gemini-1LayB5dNzD.md` — Oct 21 AM: AI comment evaluation live session (comment 4 correct: adds distinct value); LinkedIn connections via Happenstance; account graph with 120 connections at Microsoft; Cognizant 3-tier selling centers (Anis + Ahmed + Najmo targeting CXO/VP/client-partner buying centers); LinkedIn automation ban risk ($1M asset warning); professional branding (terra cotta colour); communication standards benchmarked against Accenture/Microsoft
+- `raw/gdrive/2026-10-21-stepup-one-daily-learning-2026-10-21-1302-bst-notes-by-gemini-1vjINcNAUO.md` — Oct 21 PM: comment error terminology (apology opener, off-point, question dump, hashtag/link); WhatsApp security; lead-by-modeling teaching approach (show screen, don't lecture); one-week beginner adaptation period; account graph tool demo (23K–24K contacts, Infosys/Wipro/Tech Mahindra targets); commenting studio voice profiles (Richard for Dodo); Karpathy principle — human as AI judge, $20–40M offers despite not writing code for 9–10 months
+- `raw/gdrive/2026-10-22-stepup-one-daily-learning-2026-10-22-0800-bst-notes-by-gemini-12Yr5lor7y.md` — Oct 22 AM: relationship capital valuation framework; account graph relationship capital statement (3 metrics: closeable-now/unutilized/active); Ahmed Farhan = $25K relationship capital, 874 closeable, 894 unutilized, 24 active; LTV concept (10-year relationship = $500K); skill:relationship balance (70:30 or personal-strength-based); Ryan Sullivan's core insight on relationship advantage; Anis's 30-year reflection; initial client demo reactions "extraordinary"
+
+**Pages updated (3):**
+- `wiki/training-reskilling/client-relationship-framework.md` — added Part 7: Relationship Capital Valuation — 3 metrics, LTV lens, converting engine framing, Ryan Sullivan's core insight, skill:relationship balance, Anis's 30-year reflection; updated sources + date to 2026-10-23
+- `wiki/entities/systems/account-graph.md` — updated Data Input (LinkedIn ZIP archive format); added Relationship Capital Statement section (3 metrics, $25K example, LTV integration); updated sources + date to 2026-10-23
+- `wiki/training-reskilling/teaching-methodology.md` — added Lead by Modeling section (show screen, don't lecture; one-week beginner adaptation); added Karpathy Principle section (human as AI judge, not creator); updated sources + date to 2026-10-23
+
+**Index updated:** 3 page entries revised with new content summaries
+
+---
+
 ## [2026-10-16] ingest | 5 GDrive files — Oct 13, 14, 15 Daily Learning sessions (Gemini notes)
 
 **Sources ingested (5):**
