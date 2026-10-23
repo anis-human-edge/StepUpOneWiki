@@ -322,8 +322,67 @@ This is the operational definition of the [ABSM Engagement Engine](../clients-pa
 
 ---
 
+---
+
+## Part 7: Relationship Capital Valuation (Oct 22, 2026)
+
+Mohamed Anis introduced a formal framework for converting professional relationships into a financial statement — making the abstract concept of "network value" concrete and measurable.
+
+### The Relationship Capital Statement
+
+The [Account Graph](../entities/systems/account-graph.md) platform generates a relationship capital statement for each team member with three metrics:
+
+| Metric | Description | Ahmed Farhan (example) |
+|--------|-------------|----------------------|
+| **Closeable-now** | Connections with enough warmth to potentially convert to business right now | 874 |
+| **Unutilized** | Connections that exist but have not been actively engaged | 894 |
+| **Active** | Relationships currently in two-way active engagement | 24 |
+
+**Ahmed Farhan's relationship capital value: $25K.** Mohamed Anis's target for him: $100K. The platform calculates dollar value from connection count, relationship warmth, and estimated deal size.
+
+### The LTV Lens
+
+Relationship capital uses Lifetime Value (LTV) thinking. If Farah Ibrahim has a 10-year relationship with Richard, that relationship's LTV is approximately $500K — half a million per year across the relationship's lifetime, or roughly 10 million Kenyan shillings. This reframes what any single LinkedIn connection is actually worth.
+
+### Converting Engine, Not Building Engine
+
+The platform does not create relationship capital — it reveals what already exists. Every team member has embedded relationship capital in their connections; the platform makes it visible and measurable for the first time.
+
+> *"This is a converting engine, not a building engine."*
+
+The statement is built on **current reality** — what your network is worth right now — not speculative future growth. This prevents overvaluation and keeps the tool actionable.
+
+### Ryan Sullivan's Core Insight
+
+> *"In a market where your competitors are just as capable as you are, the relationship advantage is often the only advantage that actually holds."* — Ryan Sullivan
+
+Mohamed Anis had resisted this framing for 30 years. His first decade in sales was built entirely on skill and innovation — winning deals in new regions against all odds. He mistook Ryan's emphasis as personal bias (Ryan's own strength was relationships, not technical skill). Only in 2026, building the relationship capital platform, did Anis fully internalize it.
+
+His own parallel: a colleague was earning 10× his salary at the same company in the early 2000s, rarely spoke in meetings, and spent nearly all his time on relationships. Anis talked for 55 minutes and won deals through skill; the colleague won far more total money through relationship maintenance alone. *"He did not have technical skill — not because he didn't want to build it. But he was making 10 times more money than me."*
+
+### Skill:Relationship Balance
+
+Not everyone should split the same way. The framework:
+
+- **Skill-dominant people** (e.g., Anis, Ahmed Farhan): 70–80% skill, 20–30% relationship investment
+- **Relationship-dominant people**: the inverse — enormous returns possible from relationship-only investment
+- **Most people**: need a conscious audit of their natural strength before deciding how to allocate effort
+
+Mohamed Anis's personal target: a minimum of **1 hour per day** building relationships. His actual current average is inconsistent (some days 6–8 hours, some days zero). The 1-hour floor is the commitment.
+
+> *"Knowing what you're good at and choosing where to play the game — that is more important than working hard in the wrong direction."*
+
+### Anis's 30-Year Reflection
+
+For the first 10 years of his career, Anis believed skill alone was sufficient. Ryan Sullivan spent 7 years telling him: *"Relationship is the mother of everything."* Anis dismissed this as Ryan projecting his own strengths. Building the relationship capital platform in 2026 was partly his own reckoning — a system designed so no one on the team repeats the same mistake of under-investing in relationships across decades.
+
+Initial client reactions when shown the platform: **"extraordinary."** No one had seen their professional network expressed as a financial asset statement before.
+
+---
+
 ## Related Pages
 
+- [Account Graph](../entities/systems/account-graph.md) — the platform that generates relationship capital statements
 - [Follow-up Messaging Strategy](../clients-partnerships/win-new/outbound/follow-up-messaging.md) — when and how to follow up at each stage
 - [Outbound Strategy](../clients-partnerships/win-new/outbound/outbound-strategy.md) — the full outbound system
 - [Authority in Sales](../clients-partnerships/win-new/outbound/authority-in-sales.md) — the mindset behind effective relationship building
