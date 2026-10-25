@@ -295,6 +295,37 @@ See: [AI Curriculum Overview](ai-curriculum-overview.md) for the full skill prog
 
 ---
 
+## Delayed Gratification Principle (Oct 23, 2026)
+
+Mohamed Anis introduced the **Stanford/Harvard marshmallow experiment** as a framework for understanding AI adoption and long-term success.
+
+### The Experiment
+
+Children were given a choice: eat one marshmallow now, or wait 10 days and receive ten marshmallows. A 50-year longitudinal study found:
+- Children who **waited** (delayed gratification) became world leaders and top performers.
+- Children who **took the immediate reward** became average earners in routine work.
+
+The mechanism: self-control and delayed gratification correlate with strategic thinking, discipline, and long-term planning — the same traits required for leadership success.
+
+### Application to AI and Tool Adoption
+
+Anis applied the framework to the team's reaction to new tools (the account graph platform in particular):
+
+> *"The more we just plunge in — like you plunged into Plug and Play, into so many things — you take the plunge, then see whether it's good or bad. Don't sit on the fence. Don't be scared and walk away. Both are bad."* — Mohamed Anis, Oct 23, 2026
+
+The **delayed gratification mindset** in this context means:
+- Investing time in mastering tools that feel hard or expensive upfront
+- Trusting that the payoff comes from depth of practice, not quick wins
+- Resisting the temptation to quit when a tool seems too slow, too complex, or too costly
+
+**Nuuh's validation:** On the same day, Nuuh shared that using a prospecting tool (Aistance), he generated 50 messages to contacts he'd never spoken to — and received 3 responses the same day. The key was jumping in without overthinking. The next day, a better internal tool launched. The willingness to act fast on imperfect tools created real leads *and* positioned him to adopt the upgraded version immediately.
+
+### The Balance Point
+
+Anis added a nuance: delayed gratification has limits. If the reward timeline is too distorted (tiny reward now vs. years of waiting for a marginal gain), the psychology fails. The ratio must remain reasonable — the effort should be proportionate to a credible and meaningful future outcome.
+
+---
+
 ## Related Pages
 
 - [AI Curriculum Overview](ai-curriculum-overview.md) -- the progressive skills ladder
