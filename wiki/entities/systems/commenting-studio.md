@@ -19,15 +19,17 @@ Dual function: (1) train team members to evaluate and write professional LinkedI
 
 ## Training Architecture
 
-Three proficiency tiers:
+Three proficiency tiers (clarified Oct 24, 2026):
 
-| Tier | Mode | What users do |
-|------|------|---------------|
-| **Beginner** | Evaluation | Choose from 5 comment options; identify the correct one and explain why others fail |
-| **Intermediate** | Selection + critique | Identify errors using specific terminology (apology opener, off point, question dump, etc.) |
-| **Expert** | Generation + voice | Write and post comments using client voice profiles |
+| Tier | Correct options | What users do |
+|------|----------------|---------------|
+| **Beginner** | 1 of 5 correct | Identify the one correct comment from 4 wrong ones |
+| **Intermediate** | 2 of 5 correct | Identify the 2 correct options and filter out the 3 wrong ones |
+| **Expert** | All 5 correct | All options are valid — choose the single best one |
 
-Beginner mode teaches **error identification over posting** — understanding why wrong options fail is the core learning objective, not selecting the best comment.
+**Recommended practice:** Stay in beginner mode until mastering all **24 commenting error types**. The mode selector appears below the comment input box ("Comment as: beginner / intermediate / expert").
+
+Beginner mode teaches **error identification over posting** — understanding why wrong options fail is the core learning objective, not selecting the best comment. The progression from beginner to expert mirrors the journey from learning to distinguish bad from good, then distinguishing better from good.
 
 ## Comment Evaluation Framework
 
