@@ -108,8 +108,8 @@ The wiki gets richer with every source added. Cross-references are maintained au
 
 | Page | Description |
 |------|-------------|
-| [Commenting Studio](entities/systems/commenting-studio.md) | AI commenting training + execution platform; launched Oct 19 2026; beginner/intermediate/expert tiers; comment failure taxonomy; voice profiles for clients (Dodo/Richard); ~12 AI calls per comment |
-| [Account Graph](entities/systems/account-graph.md) | Platform for mapping and managing target account relationship networks; LinkedIn ZIP/CSV uploads; multi-tier buying center mapping; relationship capital statement (closeable-now/unutilized/active metrics, dollar valuation); introduced Oct 21 2026; competes with Intrahive |
+| [Commenting Studio](entities/systems/commenting-studio.md) | AI commenting training + execution platform; launched Oct 19 2026; beginner/intermediate/expert tiers (beginner: 4 wrong + 1 right; intermediate: 2 right; expert: all 5 right); 24 error types to master; comment failure taxonomy; voice profiles for clients (Dodo/Richard); ~12 AI calls per comment; mode selector below comment box |
+| [Account Graph](entities/systems/account-graph.md) | Platform for mapping and managing target account relationship networks; LinkedIn ZIP/CSV uploads; network value estimation (~$2M for Ahmed's profile); AI follow-up generation (4 angles, 4–7c/search); birthday tracking (2–3 days advance); relationship capital statement (closeable-now/unutilized/active, dollar valuation); CRM competitor to Salesforce; multi-channel integration (X, email, WhatsApp planned); exclusion feature planned; AI accuracy issues (colleagues surfaced as prospects); introduced Oct 21 2026 |
 | [Client Management Platform](entities/systems/client-management-platform.md) | Internal platform for client onboarding, system spin-up, and document generation |
 | [Fundraising Engine](entities/systems/fundraising-engine.md) | Full investor outreach operation for founders: strategy, targeting, AI twin, daily execution ($400/mo) |
 | [GTM Engine](entities/systems/gtm-engine.md) | Client acquisition system: find buyers, build relationships, book meetings ($400/mo) |
