@@ -8,6 +8,27 @@ sources: []
 
 # Wiki Log
 
+## [2026-10-25] ingest | 2 GDrive + 1 Gmail file — Oct 23 and Oct 24 Daily Learning (Gemini notes) + HYPE Sports partnership inquiry
+
+**Sources ingested (5):**
+- `raw/gdrive/2026-10-23-stepup-one-daily-learning-2026-10-23-0759-bst-notes-by-gemini-1H2Jz0jfAD.md` — Oct 23 AM: Account Graph platform detailed demo (Ahmed Farhan); LinkedIn ZIP upload for full network value estimation (~$2M profile value); AI follow-up message generation (4 angles, 4–7 cents/search); birthday tracking (2–3 days advance notice); CRM comparison (Salesforce $1–2M/yr); marshmallow experiment (delayed gratification → leadership); Nuuh's Aistance success (50 leads, 3 responses same day); validating tools with industry experts
+- `raw/gdrive/2026-10-24-stepup-one-daily-learning-2026-10-24-0800-bst-notes-by-gemini-1yQeUTTGRO.md` — Oct 24 AM: Relationship capital dashboard review; AI tool accuracy issues (teammates surfaced as prospects); commenting engine difficulty levels clarified (beginner: 4 wrong + 1 right; intermediate: 2 right; expert: all 5 right); exclusion feature needed; multi-channel integration (X, email, WhatsApp); relationship capital = modern rolodex; personal vs enterprise scaling ($1M → $100M at Infosys); Sharmuge's persistence story (2024 prospect re-engaged 2026)
+- `raw/gmail/2026-10-23-a-potential-partnership-for-human-edge.md` — Inbound from Amir Raveh (CEO, HYPE Sports Innovation): partnership proposal for sports sector (NBA/Premier League clients); follow-up chaser Oct 23; no reply from Anis as of farm date
+- `raw/gmail/2026-10-22-notes-stepup-one-daily-learning-22-oct-2026.md` — Oct 22 Fathom summary (covered by earlier GDrive Oct 22 ingest; no new entities)
+- `raw/gmail/2026-10-23-notes-stepup-one-daily-learning-23-oct-2026.md` + `raw/gmail/2026-10-24-notes-stepup-one-daily-learning-24-oct-2026.md` — Oct 23–24 Fathom summaries (superseded by GDrive Gemini notes ingested above)
+
+**Pages created (1):**
+- `wiki/entities/partners/hype-sports-innovation.md` — new: HYPE Sports Innovation inbound partner inquiry; CEO Amir Raveh; 120+ sports buyers (NBA/Premier League); partnership pitch Oct 22–23; no reply from Anis yet
+
+**Pages updated (5):**
+- `wiki/entities/systems/account-graph.md` — added: network value estimation (market price ~$2M); AI follow-up message generation (4 angles, 4–7c/search); birthday tracking; contact relationship value + warmth scores; AI tool accuracy issues (colleague recognition gap); dashboard filtering by seniority; Abdulkadir/Farhan connection stats; exclusion feature (planned); multi-channel integration (X, email, WhatsApp); CRM replacement context (Salesforce $1–2M, companies cancelling); Hapstar comparison
+- `wiki/entities/systems/commenting-studio.md` — clarified difficulty levels: beginner 4 wrong 1 right; intermediate 2 right; expert all 5 right; 24 error types to master; mode selector location (below comment box)
+- `wiki/training-reskilling/client-relationship-framework.md` — added Part 8: Relationship Capital as Modern Rolodex — rolodex metaphor; relationship capital in senior hiring ($10M CRO scenario); personal vs enterprise scaling table; Farhan's "why would they care?" question and Anis's answer
+- `wiki/training-reskilling/teaching-methodology.md` — added Delayed Gratification Principle — marshmallow experiment; 50-year longitudinal study; application to AI adoption; Nuuh validation; balance point nuance
+- `wiki/clients-partnerships/win-new/outbound/absm-methodology.md` — added: persistence pays off (Sharmuge's 2024 prospect); daily connection target (20/day); client data privacy + exclusion features; CDG incident; colleague recognition gap warning
+
+---
+
 ## [2026-10-22] ingest | 4 Gmail files — Oct 19, 20, 21 Daily Learning + Ryan O'Sullivan meeting
 
 **Sources ingested (4):**
