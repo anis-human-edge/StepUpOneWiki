@@ -1,11 +1,12 @@
 ---
 title: "Commenting Studio"
 type: entity
-updated: 2026-10-22
+updated: 2026-10-25
 sources:
   - raw/gmail/2026-10-19-notes-stepup-one-daily-learning-19-oct-2026.md
   - raw/gmail/2026-10-20-notes-stepup-one-daily-learning-20-oct-2026.md
   - raw/gmail/2026-10-21-notes-stepup-one-daily-learning-21-oct-2026.md
+  - raw/gdrive/2026-10-24-stepup-one-daily-learning-2026-10-24-0800-bst-notes-by-gemini-1yQeUTTGRO.md
 ---
 
 # Commenting Studio
