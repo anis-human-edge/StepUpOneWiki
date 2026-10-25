@@ -39,7 +39,9 @@ sources:
   - raw/gmail/2026-10-20-notes-stepup-one-daily-learning-20-oct-2026.md
   - raw/gmail/2026-10-20-notes-meet-stepup-one-founder-ryan-osullivan.md
   - raw/gmail/2026-10-21-notes-stepup-one-daily-learning-21-oct-2026.md
-updated: 2026-10-22
+  - raw/gdrive/2026-10-23-stepup-one-daily-learning-2026-10-23-0759-bst-notes-by-gemini-1H2Jz0jfAD.md
+  - raw/gdrive/2026-10-24-stepup-one-daily-learning-2026-10-24-0800-bst-notes-by-gemini-1yQeUTTGRO.md
+updated: 2026-10-25
 ---
 
 # ABSM Methodology
