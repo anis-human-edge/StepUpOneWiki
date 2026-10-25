@@ -16,6 +16,7 @@ sources:
   - raw/gdrive/2026-10-15-stepup-one-daily-learning-2026-10-15-1300-bst-notes-by-gemini-1eIPYX9Rpr.md
   - raw/gdrive/2026-10-21-stepup-one-daily-learning-2026-10-21-1302-bst-notes-by-gemini-1vjINcNAUO.md
   - raw/gdrive/2026-10-22-stepup-one-daily-learning-2026-10-22-0800-bst-notes-by-gemini-12Yr5lor7y.md
+  - raw/gdrive/2026-10-23-stepup-one-daily-learning-2026-10-23-0759-bst-notes-by-gemini-1H2Jz0jfAD.md
 ---
 
 # Teaching Methodology
