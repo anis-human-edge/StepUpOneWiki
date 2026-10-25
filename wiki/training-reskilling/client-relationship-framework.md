@@ -9,6 +9,7 @@ sources:
   - raw/gdrive/2026-06-29-stepup-one-daily-learning-0759-bst-transcript-16vdDhEFHS8qSdyx_7ATYQCZrQx0ZHgFzyPdRdJ9nTg4.md
   - raw/gdrive/2026-08-14-stepup-one-daily-learning-0802-bst-notes-by-gemini-1VqfgAMahQNqJFrJfe1dhisuNwpQCtzV1Sfu8fiZLuQc.md
   - raw/gdrive/2026-10-22-stepup-one-daily-learning-2026-10-22-0800-bst-notes-by-gemini-12Yr5lor7y.md
+  - raw/gdrive/2026-10-24-stepup-one-daily-learning-2026-10-24-0800-bst-notes-by-gemini-1yQeUTTGRO.md
 ---
 
 # Client Relationship Framework: From Doubt to Outcomes
