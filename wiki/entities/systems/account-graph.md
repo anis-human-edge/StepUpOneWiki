@@ -1,12 +1,14 @@
 ---
 title: "Account Graph"
 type: entity
-updated: 2026-10-23
+updated: 2026-10-25
 sources:
   - raw/gmail/2026-10-21-notes-stepup-one-daily-learning-21-oct-2026.md
   - raw/gdrive/2026-10-21-stepup-one-daily-learning-2026-10-21-0759-bst-notes-by-gemini-1LayB5dNzD.md
   - raw/gdrive/2026-10-21-stepup-one-daily-learning-2026-10-21-1302-bst-notes-by-gemini-1vjINcNAUO.md
   - raw/gdrive/2026-10-22-stepup-one-daily-learning-2026-10-22-0800-bst-notes-by-gemini-12Yr5lor7y.md
+  - raw/gdrive/2026-10-23-stepup-one-daily-learning-2026-10-23-0759-bst-notes-by-gemini-1H2Jz0jfAD.md
+  - raw/gdrive/2026-10-24-stepup-one-daily-learning-2026-10-24-0800-bst-notes-by-gemini-1yQeUTTGRO.md
 ---
 
 # Account Graph
