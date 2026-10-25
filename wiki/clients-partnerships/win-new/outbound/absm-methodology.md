@@ -1426,6 +1426,38 @@ This confirms and extends the hierarchical structure documented in [Hierarchical
 
 ---
 
+## Account Graph Platform — Oct 23–24 Operational Updates
+
+### Persistence Pays Off (Oct 24, 2026)
+
+Mohamed Sharmuge Mohamed shared a real case study validating the ABSM long-game approach:
+
+> *"There's a guy I was sending fundraising messages to [in 2024] and the guy he was not responding. All of a sudden, two days ago, he reached out: 'I remember you reached out to me about fundraising service — right now I need this thing.'"*
+
+The prospect ignored all outreach for approximately 2 years. When his own business need arose, he remembered the team and initiated contact. This confirms:
+- Consistent outreach builds **memory and recognition** even when there is no reply
+- The right moment for a prospect to convert may be months or years after first contact
+- Disconnecting or giving up forfeits the eventual conversion
+
+**Daily connection target confirmed (Oct 24):** Send 20 connection requests/day regardless of bans, account restrictions, or personal circumstances. Mohamed Sharmuge Mohamed's recommendation for smaller accounts (under 1K connections): 10 in the morning, 5–10 in the afternoon, no message required on free accounts.
+
+### Client Data Privacy and Exclusion Features (Oct 24, 2026)
+
+Issues surfaced during the Oct 24 Account Graph dashboard review that affect client-facing use of the platform:
+
+1. **Colleague recognition gap:** The system cannot distinguish internal team members from prospects. All LinkedIn connections appear as potential targets. Users must manually filter out colleagues before presenting dashboards to clients.
+
+2. **CDG incident (historical):** During a client campaign for CDG, a team member accidentally contacted the client's personal friend on LinkedIn. The client was embarrassed. This confirms the need for an exclusion feature.
+
+3. **Exclusion feature (planned):** Users will be able to flag specific people and companies to **never appear in recommendations**. This prevents:
+   - Contacting a client's existing relationships without knowing
+   - Surfacing internal colleagues as "strong fit" prospects
+   - Re-approaching explicitly closed leads
+
+**Principle:** Before presenting any Account Graph dashboard to a client, verify the recommendation list manually. Do not trust AI-generated "strong fit" flags at face value.
+
+---
+
 - [Follow-up Messaging](follow-up-messaging.md) — post-meeting follow-up protocol (transcript → AI → CEO office)
 - [Authority in Sales](authority-in-sales.md) — the attitude required when running ABSM
 - [LinkedIn Outreach Messaging](../../../training-reskilling/linkedin-outreach-messaging.md) — 3-tier messaging system, AI evaluation, prospect research
