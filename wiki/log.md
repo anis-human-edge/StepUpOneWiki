@@ -1,12 +1,27 @@
 ---
 title: "Wiki Log"
 type: overview
-updated: 2026-10-25
+updated: 2026-11-01
 sources: []
 ---
 
 
 # Wiki Log
+
+## [2026-11-01] ingest | 3 GDrive files — Oct 29, 30, 31 Daily Learning sessions (Gemini notes)
+
+**Sources ingested (3):**
+- `raw/gdrive/2026-10-29-stepup-one-daily-learning-2026-10-29-0700-gmt-notes-by-gemini-1CtQ-xpjJP0J2h3NAXCLPKm8C0HcKzoSoCWBdqX6mstw.md` — Oct 29: profile formatting (capitalize company names); full-time vs fractional role targeting for ABSM; LinkedIn export troubleshooting (incomplete export = 400 missing connections); dual list concept (people you know + people you want to know); Infosys buying center segmentation (300 CXO/VP globally ex-India, max 500/center, 72 APAC, 41 Germany senior); three-person minimum team rule (CEO→CXOs, account director→VPs, client partner→directors); product validation via LinkedIn interaction — billionaire software exec inferred Anis was building something from the argument alone ("are you working on something that does this?"); outcomes/opportunities terminology; Farah's 3-tier structure insight (seniority must match seniority at team level)
+- `raw/gdrive/2026-10-30-stepup-one-daily-learning-2026-10-30-0659-gmt-notes-by-gemini-12NFFJnrvL81J-ZL5uvQDuBb5AKRrSI1ZLAgk_CxHvZU.md` — Oct 30: **Build-and-Convert dual-engine framework formally named** (first explicit use of "Convert Engine"); reactive pitching strategy formally aligned ("wait like a tiger"); Cognism/Tech Mahindra contact import (61 + 1,447 people); Frier Solutions workspace (friersolutions.com added as client); LinkedIn Sales Navigator browser extension (green/red dots, one-click target add, new connection sync); workspace/desk setup demonstration; green/red visualization for connected vs target contacts; both engines run simultaneously in same account
+- `raw/gdrive/2026-10-31-stepup-one-daily-learning-2026-10-31-0700-gmt-notes-by-gemini-1xLxptq0iTfKFivqWlJbEutWW66-4jLFz90ZIn1lV0CM.md` — Oct 31: Dodo project — 5 client workspaces configured; relationship map zoom levels (deal = atom → country → vertical → global); deal defined as one RFP/opportunity (3–5 StepUp.One people + 5–10 client people); buying center green/conquered vs red/unconquered zones; account intelligence vs wisdom modules (intelligence = aggregated news/data automated; wisdom = AI prediction from signals, planned); **RFP timing valuation** ($10K 1 day prior / $100K 1 week prior / $1M 1 month prior); post-RFP outreach = disqualification risk; Chrome extension for identifying RFP decision-makers; intelligence → wisdom → outcome workflow; build + convert run simultaneously in same account confirmed
+
+**Pages updated (2):**
+- `wiki/clients-partnerships/win-new/outbound/absm-methodology.md` — added: Infosys buying center segmentation (3 dimensions: seniority/geography/vertical; 300 VP+CXO globally ex-India; max 500/center; APAC 72; Germany 41 senior); outcomes/buying circle terminology; dual list concept (known + unknown contacts); three-person minimum team rule; reactive pitching strategy "wait like a tiger" + product validation via LinkedIn (billionaire exec); Build-and-Convert dual engine formally named; RFP timing valuation ($10K/$100K/$1M); account intelligence vs wisdom modules; intelligence→wisdom→outcome chain; post-RFP disqualification risk; 3 new sources; updated date to 2026-11-01
+- `wiki/entities/systems/account-graph.md` — added: green/red dual visualization (conquered vs unconquered); Sales Navigator browser extension (green/red dots, one-click add, new connection sync); workspace/desk setup (one per client, Dodo 5 workspaces, Frier Solutions); relationship map zoom levels (deal → country → vertical → global); account intelligence vs wisdom modules; 3 new sources; updated date to 2026-11-01
+
+**Index updated:** ABSM Methodology and Account Graph descriptions updated; index date updated to 2026-11-01
+
+---
 
 ## [2026-10-25] ingest | 2 GDrive + 1 Gmail file — Oct 23 and Oct 24 Daily Learning (Gemini notes) + HYPE Sports partnership inquiry
 
