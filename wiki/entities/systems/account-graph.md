@@ -167,6 +167,104 @@ Mohamed Anis: the platform showed early clients their network expressed as a fin
 
 Relationship values are calculated using Lifetime Value (LTV) logic. A 10-year relationship with a client worth $50K/year = $500K LTV. This makes individual connections legible as financial assets rather than abstract goodwill.
 
+## Green/Red Dual List Visualization (Oct 29–30, 2026)
+
+The platform now displays accounts and contacts in two colors:
+
+- **Green (connected):** Contacts already in the team's or client's existing network — relationships exist
+- **Red (unconquered/target):** Contacts who are targets but have no existing relationship with the team or client
+
+When browsing a list of companies in the Sales Navigator browser extension, green indicates an account already tracked in the system; red indicates a new account not yet being hunted. Users can select red accounts and add them to their target list with one click.
+
+**Key use case (Oct 30):** Browsing 25 top IT consulting firms in Sales Navigator, the extension shows 5 green (already in system) and 20 red (not yet tracked). The user selects the red ones and uploads them as target accounts in one click.
+
+**Buying center visualization (Oct 31):** When a client views their relationship map, green zones = departments/buying centers where they have strong relationships; red zones = departments where they have no relationships. When an RFP falls into a red zone, it is very difficult to win. The ABSM mission is to turn as many red zones green as possible before RFPs arrive.
+
+---
+
+## Sales Navigator Browser Extension (Oct 30, 2026)
+
+A Chrome browser extension overlays StepUp.One's account graph data on top of LinkedIn Sales Navigator and LinkedIn profile pages:
+
+- Shows green/red dots next to companies indicating whether they are already tracked in the system
+- Allows adding new target accounts from Sales Navigator directly into the platform with one click
+- Detects new LinkedIn connections not yet uploaded to the system ("new connection" sync)
+- Works for any team member's workspace, not just their own personal network
+
+**New connection sync feature:** The extension scans a user's LinkedIn connections page and highlights anyone not yet in the system. Users can select all unsynced connections and upload them in one batch — eliminating the manual process of re-uploading entire LinkedIn archives just to add 100 new connections.
+
+---
+
+## Workspace and Desk Setup (Oct 30–31, 2026)
+
+The platform organizes work into **workspaces** (one per client or major account) and **desks** (one per team member within a workspace).
+
+### Dodo Client Workspace (Oct 31)
+
+As part of a migration project (codename: Dodo project), 5 client workspaces were configured in late October 2026:
+- Each workspace represents a client Dodo is targeting
+- Each workspace has desks for the relevant StepUp.One team members
+- Buying centers, target contact lists, and outcomes are managed per workspace
+
+### Adding a New Client Account (Oct 30)
+
+Demonstrated with Frier Solutions (friersolutions.com):
+1. Go to accounts, type client name and website
+2. Account is created; research auto-runs in background
+3. Open the full account; add team member desks
+4. Import target contacts via LinkedIn export or Sales Navigator
+5. Create buying centers within the account
+
+**Platform principle:** Explore by clicking — don't wait for a tutorial. Use the StepUp.One master workspace as the reference example for how a fully configured workspace looks.
+
+---
+
+## Relationship Map Zoom Levels (Oct 31, 2026)
+
+The relationship map (showing StepUp.One's client on the left, a target company on the right) can be viewed at four zoom levels:
+
+| Zoom Level | What you see |
+|-----------|-------------|
+| **Deal (smallest atom)** | 3–5 people on the client side, 5–10 people on the target side, all connected to one specific RFP/outcome |
+| **Country** | All deals happening between the client and target within one geography (e.g., Singapore) |
+| **Vertical** | All deals within one industry vertical (e.g., financial services) |
+| **Global (largest)** | The entire relationship between the two companies across all geographies and verticals |
+
+**The deal is the atom.** Anis (Oct 31): *"A deal will not look like 500 people on the left and 1,000 on the right. It will have around 5–10 people on the right and 3–5 on the left, focused on one specific opportunity."*
+
+**Why zoom matters:** The global view is visually impressive (for demos), but day-to-day ABSM work happens at the deal level. Every outcome = one deal = one zoom-level-1 view.
+
+**Green and red at deal level:** When a deal arrives in a client's red zone (no existing relationships with the relevant buying committee), it is very difficult to win. The system shows this visually — the team member can immediately assess whether a new RFP falls in green (warm, winnable) or red (cold, risky) territory.
+
+---
+
+## Account Intelligence and Wisdom Modules (Oct 31, 2026)
+
+Each tracked account has two knowledge panels:
+
+### Intelligence Panel
+
+Aggregated public data about the account:
+- News articles (auto-collected, timestamped — e.g., 37 articles in the past week)
+- Job postings and hiring patterns
+- Executive moves and announcements
+- LinkedIn activity from company leadership
+
+This is publicly available information organized and surfaced automatically. Team members can read it without any manual research.
+
+### Wisdom Panel (in development)
+
+AI-synthesized predictions from intelligence signals:
+> *"What we think is really going on."*
+
+Example: Intelligence shows CEO traveling to Japan + spike in fintech job postings → Wisdom says "Something big is cooking in Asia-Pacific fintech."
+
+The wisdom panel is being built to run automatically (collecting breadcrumbs → cooking them weekly into predictions). Team members cannot currently contribute to this panel — it requires 5–6 years of experience to write at that level. The job now is to read the intelligence.
+
+**Why it matters for RFP timing:** A team that reads intelligence and spots an upcoming RFP 1 month before it is published is worth $1M to a client. This is what account intelligence makes possible.
+
+---
+
 ## Related Pages
 
 - [ABSM Methodology](../../clients-partnerships/win-new/outbound/absm-methodology.md)
