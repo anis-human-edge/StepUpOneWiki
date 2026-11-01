@@ -1463,6 +1463,159 @@ Issues surfaced during the Oct 24 Account Graph dashboard review that affect cli
 
 ---
 
+## Buying Center Segmentation in Depth: Infosys Case Study (Oct 29, 2026)
+
+### Three Dimensions of Segmentation
+
+Large enterprise targets like Infosys can be segmented into manageable buying centers by three dimensions:
+
+1. **Seniority** — CXO buying center, VP buying center, director-level buying center (max 500 per center)
+2. **Geography** — APAC (72 people ex-India), Europe, country-by-country (Germany 41 senior, France 12 senior)
+3. **Vertical/Function** — sales, consulting, business development (requires manual identification from LinkedIn titles)
+
+**Key constraint:** No buying center should exceed 500 people. When a seniority level exceeds this (e.g., directors at 3,000+), further filter by function (sales/BD/consulting).
+
+### Infosys Numbers (Oct 29)
+
+| Segment | Count |
+|---------|-------|
+| VP + CXO globally (ex-India) | ~300 |
+| Directors globally (ex-India) | ~3,000 |
+| Directors (sales/BD function only) | ~300–500 |
+| APAC VP/CXO only | 72 |
+| Germany all seniority (VP+) | ~325 |
+| Germany top-level only | ~41 |
+| France top-level | ~12 |
+
+Recommended attack sequence: CXO buying center first (170 globally), then VP buying center (remaining of the 300), then director buying center filtered by function.
+
+**Principle from Anis:** *"Top-down is the way to go. Hit the CEO and convince them — then you don't have to talk to 300,000 more people."*
+
+### Outcomes Per Buying Center
+
+The platform uses the term **"outcome"** (replacing "opportunity") for a specific deal being pursued within a buying center. Each outcome:
+- Names the deal (e.g., "ABSM Infosys APAC banking application")
+- Defines its buying circle (the specific people who will decide the deal)
+- Tracks people added from LinkedIn/Sales Navigator
+- Can be sourced proactively (intelligence-driven) or reactively (RFP received)
+
+Every team member works at the outcome level, not at the company level.
+
+---
+
+## Dual List Concept: Known + Unknown Contacts (Oct 29, 2026)
+
+A fundamental gap identified in the Account Graph: it only surfaces people the team already knows. Anis flagged this and confirmed a fix:
+
+> *"The account graph is always going to give us people who we already know. We need to see people we want to know."*
+
+The platform is updated to show **two lists simultaneously**:
+- **List 1:** People you have existing relationships with (green — connected)
+- **List 2:** People you need to build relationships with (red — unconquered targets)
+
+For a new account (e.g., CrowdStrike) with no existing relationships, the entire list will appear red. The team downloads targets from LinkedIn Sales Navigator and uploads them as targets. List 1 contacts need converting; List 2 contacts need warming.
+
+---
+
+## Three-Person Minimum Hunting Team (Oct 29, 2026)
+
+Anis formalized the minimum team size for hunting any significant enterprise account:
+
+| Role | Targets |
+|------|---------|
+| CEO (Anis) | CXOs / C-suite |
+| Account Director | VPs |
+| Client Partner | Directors / managers |
+
+**Why three:** A three-level structure lets the team demand the equivalent structure from the client. Without it, the team cannot credibly require the client's full hierarchy to show up. "Seniority must match seniority" applied at the team level.
+
+For larger accounts (Cognizant, Infosys), teams of 10+ are possible. Three is the floor.
+
+---
+
+## Reactive Pitching Strategy — "Wait Like a Tiger" (Oct 30, 2026)
+
+The team formally aligned on a reactive pitching posture — one of the most important ABSM operating decisions of late 2026.
+
+**The principle:** Do not pitch proactively. Create the conditions in which prospects ask to engage. When a prospect initiates a conversation about working together, respond. When they don't, keep building without pitching.
+
+Anis's metaphor: *"Wait like a tiger."* A tiger doesn't run around announcing it's looking for prey. It positions, waits, and strikes at the right moment.
+
+**Why it works:**
+- Cold pitching signals you need the prospect more than they need you
+- Prospects who ask are far easier to close than cold-pitched prospects
+- The commenting and relationship-building system generates organic inbound over time
+
+**Product validation case (Oct 29):** Anis engaged in a LinkedIn debate with a billionaire software executive about AI-native CRM. He made no product pitch, showed no screenshots, and never mentioned StepUp.One's platform. The executive asked unprompted: *"Are you working on something that does this?"* This is the tiger waiting — deep domain discussion creates curiosity that prospect converts themselves.
+
+**Implementation:** Team members focus on Build Engine (commenting, connecting, warming) and Convert Engine (moving warm contacts toward deals). Pitching happens only when the prospect initiates.
+
+---
+
+## Build-and-Convert Dual Engine — Formally Named (Oct 30, 2026)
+
+The two-engine framework received its definitive naming:
+
+- **Build Engine:** Zero → warm. Turns people who don't know StepUp.One into warm contacts through commenting, connecting, and consistent engagement.
+- **Convert Engine:** Warm → deal. Takes warm contacts and progresses them toward a signed engagement through research, outreach, and timing.
+
+**Key clarification (Oct 31):** Both engines run *simultaneously* in the same account. You don't finish building before converting. At any given account, some contacts are being converted (warm, known) while others are being built from scratch (cold, unknown).
+
+Farah Ibrahim's formulation: *"Building is for new people, converting is for existing connections."* Anis's extension: *"You are building new and converting old — in the same account, at the same time."*
+
+This session (Oct 30) was the first time the "Convert Engine" terminology was explicitly formalized.
+
+---
+
+## RFP Timing Valuation and the Intelligence-to-Outcome Chain (Oct 31, 2026)
+
+### RFP Timing Value
+
+The value of intelligence about a coming RFP degrades rapidly once it is published:
+
+| When you know | Value to client (e.g., Dodo) |
+|--------------|----------------------------|
+| **1 month before** RFP drops | **$1,000,000** |
+| **1 week before** RFP drops | **$100,000** |
+| **1 day before** RFP drops | **$10,000** |
+| **After** RFP drops | **$0 — legally risky** |
+
+Once an RFP is published, procurement rules prohibit unauthorized contact between vendors and the buying committee. Relationship-building attempts after the RFP risks formal disqualification. Anis (Oct 31): *"If Richard tries to be nice and sweet after the RFP has come, he can get disqualified."*
+
+**The ABSM relationship-building mission is to be worth $1M** — get relationships in place before the RFP is even announced.
+
+### Account Intelligence vs Wisdom
+
+The platform separates two distinct knowledge modules per account:
+
+| Module | Definition | Who builds it |
+|--------|-----------|--------------|
+| **Intelligence** | Aggregated facts — news, job postings, executive moves, public statements | Platform (automated, from Google and LinkedIn feeds) |
+| **Wisdom** | AI prediction synthesized from intelligence signals — "what is really going on" | Platform (automated, planned) |
+
+Example: Intelligence = 37 news articles about Tech Mahindra over the past week. Wisdom = *"Their CEO flew to Japan; their job postings spike in fintech; something big is cooking in Asia-Pacific."*
+
+Team members read intelligence. The wisdom layer is automated — Anis estimates 5–6 years before team members can contribute wisdom-level insights independently.
+
+### The Intelligence → Wisdom → Outcome workflow
+
+1. Platform collects intelligence automatically (news, LinkedIn, job boards)
+2. Platform synthesizes wisdom from signals (AI prediction layer — in development)
+3. Team member identifies an opportunity: either proactively (spied via intelligence) or reactively (RFP received by email)
+4. Team member creates an **outcome** in the platform: name, target date, buying circle
+5. Team member finds the people responsible for that RFP (via Sales Navigator, LinkedIn, Chrome extension)
+6. Those people are uploaded into the outcome as the buying circle
+7. Build + Convert engines run against that buying circle
+
+### Post-RFP Disqualification Risk
+
+Post-RFP relationship-building is legally and commercially dangerous:
+- Procurement rules require equal treatment of all vendors once the RFP is published
+- Attempting to build relationships after the RFP can get a vendor disqualified from the entire bid
+- The correct response when an RFP lands with no pre-existing relationship: prepare the best possible proposal, or accept the deal is in the "red zone" and skip
+
+---
+
 - [Follow-up Messaging](follow-up-messaging.md) — post-meeting follow-up protocol (transcript → AI → CEO office)
 - [Authority in Sales](authority-in-sales.md) — the attitude required when running ABSM
 - [LinkedIn Outreach Messaging](../../../training-reskilling/linkedin-outreach-messaging.md) — 3-tier messaging system, AI evaluation, prospect research
