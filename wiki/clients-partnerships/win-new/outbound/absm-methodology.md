@@ -1616,6 +1616,61 @@ Post-RFP relationship-building is legally and commercially dangerous:
 
 ---
 
+## Sense-and-Respond Module (Nov 6, 2026)
+
+A new signal-monitoring and connection workflow called the **Sense-and-Respond Module**.
+
+### Signal Types
+
+Signals are categorized by level:
+
+| Level | Description |
+|-------|-------------|
+| **Company level** | Public events at the target company — announcements, launches, executive moves |
+| **Department level** | Activity within a specific buying center or business unit |
+| **Personal level** | Individual prospect actions — a post, a job change, a conference appearance |
+
+Direct signals across all three levels offer reliable triggers for connection messages. **Fabricated signals** — inventing a reason for contact without genuine relevance — create unnatural interactions and harm outreach effectiveness.
+
+### Golden Hour Rule
+
+Reaching out to a prospect **within 1 hour** of a direct signal generates a near-100% connection acceptance rate. The window closes rapidly: a prospect who posted 4 hours ago has already moved on.
+
+This applies especially to personal-level signals (a prospect just posted → comment and connect within 60 minutes).
+
+### Team Task (Nov 6)
+
+Farah Ibrahim was assigned to:
+1. Brainstorm connection ideas across various signal scenarios
+2. Classify signals by level (company / department / personal)
+3. Identify where target prospects are most active, to prioritize sensing and responding
+
+---
+
+## Buying Center Research: OCBC and DBS (Nov 5, 2026)
+
+OCBC and DBS banks were confirmed as the **primary strategic focus** for procurement buying center research. Farah Ibrahim was assigned to identify buying centers for both and upload them into the system.
+
+This feeds the ABSM mission: get into those buying centers before any RFP arrives.
+
+---
+
+## ChatGPT as Inbound Discovery Channel (Nov 5, 2026)
+
+A new client discovered StepUp.One for GTM services through a **ChatGPT recommendation** — a prospect queried ChatGPT for GTM service providers and StepUp.One appeared. This confirms AI-native inbound as a real channel alongside commenting and posting.
+
+**Implication:** StepUp.One's public presence (LinkedIn, website, thought leadership) must be strong enough for AI search models to surface it. This amplifies the case for consistent posting and commenting — both build the digital footprint that AI models index.
+
+---
+
+## Buying Centers Mandatory for $1M+ Deals (Nov 5, 2026)
+
+Mohamed Anis: **buying center relationships are mandatory to win deals over $1 million**. Large companies now use ChatGPT for RFP vendor research, which means smaller firms without buying center connections are algorithmically excluded before the shortlist is even assembled.
+
+Securing pilots is achievable via CXO relationships. But large RFPs require formal buying center engagement — the pilot relationship alone will not carry the deal.
+
+---
+
 - [Follow-up Messaging](follow-up-messaging.md) — post-meeting follow-up protocol (transcript → AI → CEO office)
 - [Authority in Sales](authority-in-sales.md) — the attitude required when running ABSM
 - [LinkedIn Outreach Messaging](../../../training-reskilling/linkedin-outreach-messaging.md) — 3-tier messaging system, AI evaluation, prospect research
