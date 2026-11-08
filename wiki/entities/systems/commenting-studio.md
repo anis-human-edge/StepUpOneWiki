@@ -67,6 +67,42 @@ The studio generates comments for client accounts at scale:
 
 Each client gets a dedicated **voice profile** within the studio enabling automated responses in their distinct communication style. Team task (Oct 21): create Richard's voice profile.
 
+## Converting Studio Module (Nov 6, 2026)
+
+A newly introduced module within the studio provides **5 generated comment options** for the user to evaluate and filter. Users must categorize disqualified options using specific terms:
+
+- **Generic agreement** — option restates or broadly agrees without adding substance
+- **Slope openers** — comments that start with a sycophantic ramp ("Great post!", "So insightful!")
+
+The module teaches systematic disqualification before selection — users must name *why* an option fails, not just eliminate it by feel.
+
+## Human Studio Post Evaluation (Nov 7, 2026)
+
+Heuristics for evaluating human-authored options in the studio:
+
+- **Single question mark = typically correct** — an option ending with one focused question is usually the best choice (Mohamed Musthafa)
+- **Look for unique author details** — the correct comment references specific details from the author's actual post, not generic topic-level observations
+- **Generic thanks = weak/filler** — any option that thanks or praises the author without substance is disqualified
+- **AI tool assist** — using AI to simplify a complex post's underlying argument helps users select the most accurate option
+
+## Completion Requirements and Platform Bugs (Nov 7, 2026)
+
+**Platform requirements to advance:**
+- Minimum **100 comments** submitted
+- **10 consecutive correct** submissions required
+
+**Known bugs as of Nov 7:**
+- Platform incorrectly categorizes active users as **beginners** despite meeting intermediate/advanced progression requirements. Mohamed Anis assigned to investigate and correct status (specifically flagged for Florence Alia's case).
+- Submitted comments **not appearing** in the dashboard (reported for Ahmed Farhan). Under investigation.
+
+## Cost
+
+The commenting studio costs **$1,000/month** to operate (tracking infrastructure). Free AI alternatives lack the tracking capability that makes skill levels verifiable.
+
+## Roadmap
+
+**Next development phase:** Conversation Studio — handling full LinkedIn conversations, not just individual comments. Mastering the commenting studio is the prerequisite gate.
+
 ## Technical Notes
 
 - Login via StepUp.One credentials required
