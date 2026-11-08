@@ -8,6 +8,26 @@ sources: []
 
 # Wiki Log
 
+## [2026-11-08] ingest | 3 Gmail files — Nov 5, 6, 7 Daily Learning sessions (Gemini notes)
+
+**Sources ingested (3):**
+- `raw/gmail/2026-11-05-notes-stepup-one-daily-learning-5-nov-2026.md` — Nov 5 AM: 3-stage learning framework timing (1 month for commenting, 3-phase schedule: learning/practice/performance); buying centers mandatory for $1M+ deals; OCBC/DBS banks as strategic procurement focus; Morocco Social Impact Summit invitation (Dec 10–13, travel covered); client direct system access (William, Richard); ChatGPT as inbound discovery channel (new GTM client via ChatGPT). Nov 5 PM: comment evaluation (comment 2 = question + value = correct; comment 3 = parroting; comment 4 = excessive thanks); client engagement criteria (leadership verification, blank connection requests)
+- `raw/gmail/2026-11-06-notes-stepup-one-daily-learning-6-nov-2026.md` — Nov 6 AM: Sense-and-Respond module (signal types: company/department/personal; golden hour = 1hr, ~100% success; fabricated signals harm effectiveness). Nov 6 PM: LinkedIn profile URL optimization (remove trailing numbers before import); deal value calculations (3-year multiplier + renewal rate; face value and unrealized figures); Converting Studio module (5 options, categorize as generic agreement or slope openers)
+- `raw/gmail/2026-11-07-notes-stepup-one-daily-learning-7-nov-2026.md` — Nov 7 AM: platform bugs (beginner/intermediate tracking issue; comments not appearing in dashboard); commenting studio cost ($1,000/month); 100 comments + 10 consecutive correct = completion requirement; Florence advanced to intermediate (platform bug flagged for correction); Marwa needs acceleration for client commitments; Conversation Studio = next development phase. Nov 7 PM: human studio post evaluation heuristics (single question mark = correct; unique author details; generic thanks = filler); AI tool used to simplify complex posts; Mohamed Musthafa rank 26
+
+**Pages created (2):**
+- `wiki/entities/people/florence-alia.md` — new: team member; Graduates page manager; reached intermediate level Nov 7; platform bug under correction
+- `wiki/entities/people/marwa.md` — new: team member (Marwa Chimosa); Graduates page manager; needs performance acceleration for client commitments
+
+**Pages updated (5):**
+- `wiki/entities/systems/commenting-studio.md` — added: cost ($1k/month); platform requirements (100 comments + 10 consecutive correct); known bugs (beginner/intermediate tracking, comment visibility); Converting Studio module; Human Studio evaluation heuristics; Conversation Studio as next phase
+- `wiki/training-reskilling/teaching-methodology.md` — added: skill mastery timeline (commenting: 1 month / 3-phase schedule / single-skill productivity); personal vs client practice; corporate/medical onboarding analogy
+- `wiki/clients-partnerships/win-new/outbound/absm-methodology.md` — added: Sense-and-Respond Module (signal types, golden hour rule, fabricated signals warning); OCBC/DBS buying center research; ChatGPT as inbound discovery channel; buying centers mandatory for $1M+ deals
+- `wiki/entities/systems/account-graph.md` — added: LinkedIn profile URL optimization (remove trailing numbers); import via ZIP; deal value calculation (3-year multiplier, renewal rate, face/unrealized breakdown)
+- `wiki/index.md` — updated Teaching Methodology, Commenting Studio, ABSM Methodology descriptions; added Florence Alia and Marwa entries
+
+---
+
 ## [2026-11-01] ingest | 3 GDrive files — Oct 29, 30, 31 Daily Learning sessions (Gemini notes)
 
 **Sources ingested (3):**
