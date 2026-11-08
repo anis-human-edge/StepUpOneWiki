@@ -265,6 +265,24 @@ The wisdom panel is being built to run automatically (collecting breadcrumbs →
 
 ---
 
+## LinkedIn Profile Import: URL Optimization (Nov 6, 2026)
+
+Before importing data via a LinkedIn ZIP export:
+- **Remove trailing numbers** from LinkedIn profile URLs (e.g., `linkedin.com/in/username-12345678` → `linkedin.com/in/username`). Trailing numbers prevent clean import.
+- Use the **exported LinkedIn ZIP file** as the import source (not a URL or CSV manually compiled).
+
+## Deal Value Calculations (Nov 6, 2026)
+
+Relationship values displayed in the studio vary based on the **potential deal size** of each specific connection. The calculation uses:
+
+- **3-year multiplier** applied to estimated annual deal value
+- **Renewal rate** factored into the final figure
+
+Users can access the full calculation breakdown by clicking the **face value** and **unrealized value** figures in the studio interface. This allows team members to understand how their network's dollar valuation is derived — and to challenge or update it if a connection's deal potential is known to be different.
+
+**Face value:** what the relationship is worth at current conversion probability.  
+**Unrealized value:** what it could be worth if the relationship were fully developed and converted.
+
 ## Related Pages
 
 - [ABSM Methodology](../../clients-partnerships/win-new/outbound/absm-methodology.md)
