@@ -327,6 +327,29 @@ Anis added a nuance: delayed gratification has limits. If the reward timeline is
 
 ---
 
+## Skill Mastery Timeline: Commenting (Nov 5, 2026)
+
+A concrete timeline emerged for commenting skill mastery:
+
+| Scenario | Time to mastery |
+|----------|----------------|
+| Standard: focused daily practice (2–3 hrs/day) | 1 month |
+| Accelerated: Sharmuge's case — simultaneous learning and client performing | 2 weeks |
+
+**Mastering a single core skill** enables immediate productivity from day 1 without needing 100 skills. The 3-month commenting schedule follows three phases:
+
+| Phase | Focus |
+|-------|-------|
+| **Learning** | Absorbing the system, understanding error types, watching examples |
+| **Practice** | Submitting comments in the studio, receiving scores, correcting mistakes |
+| **Performance** | Executing for clients with real stakes |
+
+**Personal vs client practice:** the underlying commenting process is identical between personal practice and client performance. The difference is caution — client work requires higher scrutiny before posting because mistakes have external consequences.
+
+**Corporate/medical analogy (Anis, Nov 5):** medical and corporate onboarding require extensive foundational practice before any client contact. StepUp.One operates the same way — the studio practice phase is non-negotiable before client execution begins.
+
+---
+
 ## Related Pages
 
 - [AI Curriculum Overview](ai-curriculum-overview.md) -- the progressive skills ladder
