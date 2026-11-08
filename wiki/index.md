@@ -97,6 +97,8 @@ The wiki gets richer with every source added. Cross-references are maintained au
 | [Byaombe Wilondja](entities/people/byaombe-wilondja.md) | Team member; active in ABSM sessions Aug 7 & 8; working on profile transformation and communication improvement |
 | [Margaret Njuguna](entities/people/margaret-njuguna.md) | New team member introduced Aug 8 by Abdulkadir Mhina; onboarding to ABSM methodology |
 | [Kelly Ora](entities/people/kelly-ora.md) | Prospect; runs beta testing program for startup founders; proposed referral partnership (declined); StepUp.One offered GTM service instead; meeting 2026-08-15 |
+| [Florence Alia](entities/people/florence-alia.md) | Team member; Step Up One For Graduates page manager; reached intermediate level in Commenting Studio (Nov 7 2026); platform bug flagged for status correction |
+| [Marwa](entities/people/marwa.md) | Team member (Marwa Chimosa); Step Up One For Graduates page manager; needs performance acceleration for client commitments (Nov 7 2026) |
 
 ### Product & Engineering
 
